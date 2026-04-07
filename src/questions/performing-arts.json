@@ -1,0 +1,5561 @@
+[
+  {
+    "answers": [
+      "Edison, Thomas Alva",
+      "Warner Brothers",
+      "Chaplin, Charlie",
+      "Bogart, Humphrey"
+    ],
+    "question": "Who set up the world's first movie studio?",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Soprano",
+      "Alto",
+      "Bass",
+      "Tenor"
+    ],
+    "question": "The highest female voice in music.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Tenor",
+      "Alto",
+      "Soprano",
+      "Baritone"
+    ],
+    "question": "The highest natural adult male voice.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Viola",
+      "Timpani",
+      "Cello",
+      "Aeolian Harp"
+    ],
+    "question": "Alto member of the violin family.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Alphorn",
+      "Didjeridu",
+      "Hornpipe",
+      "Shawm"
+    ],
+    "question": "A long, Swiss wooden horn.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Double Bass",
+      "Cello",
+      "Viola",
+      "Viol"
+    ],
+    "question": "Largest and lowest-pitched member of the violin family.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Habima Theater",
+      "Globe Theatre",
+      "Abbey Theatre",
+      "La Scala"
+    ],
+    "question": "Former name of the state theater of Israel.",
+    "category": "Theater & Venues",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Stradivari, Antonio",
+      "Kabalevsky, Dmitry Borisovich",
+      "Puccini, Giacomo",
+      "Soler, Antonio"
+    ],
+    "question": "Italian violin maker.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Kemble",
+      "Braganza",
+      "Barrymore",
+      "Robbia"
+    ],
+    "question": "Family of English actors.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Song",
+      "Suite",
+      "Hymn",
+      "Chant"
+    ],
+    "question": "Short lyric or narrative text set to music.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Choreography",
+      "Animation",
+      "Pantomime",
+      "Sculpture"
+    ],
+    "question": "The art of composing dances.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Shanty",
+      "Madrigal",
+      "Blues",
+      "Spiritual"
+    ],
+    "question": "Work songs of sailors characterized by a marked rhythm.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Cotillion",
+      "Flamenco",
+      "Jitterbug",
+      "Square Dance"
+    ],
+    "question": "A French dance for four couples in square formation.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Tone",
+      "Aria",
+      "Score",
+      "Hymn"
+    ],
+    "question": "In music, sound that has a definite pitch.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Bass",
+      "Alto",
+      "Soprano",
+      "Tenor"
+    ],
+    "question": "Deepest, or lowest, male singing voice.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Scherzo",
+      "Rondo",
+      "Sarabande",
+      "Madrigal"
+    ],
+    "question": "A rapid, vigorous musical composition in triple time.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Domingo, Plácido",
+      "Pavarotti, Luciano",
+      "Caruso, Enrico",
+      "Gigli, Beniamino"
+    ],
+    "question": "Spanish operatic tenor.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Grimaldi, Joseph",
+      "Marceau, Marcel",
+      "Tom Thumb",
+      "Chaney, Lon"
+    ],
+    "question": "19th century English clown and pantomimist.",
+    "category": "Mime & Physical Performance",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Gabin, Jean",
+      "Truffaut, François",
+      "Mendes-France, Pierre",
+      "Mansart, (Nicolas) François"
+    ],
+    "question": "French motion-picture actor.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Waltz",
+      "Ballet",
+      "Square Dance",
+      "Disco"
+    ],
+    "question": "A graceful couple dance in 3/4; time.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Baritone",
+      "Soprano",
+      "Alto",
+      "Basso Continuo"
+    ],
+    "question": "A voice range that is also the name of a wind instrument.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Bizet, Georges",
+      "Rossini, Gioacchino Antonio",
+      "Liszt, Franz",
+      "Toscanini, Arturo"
+    ],
+    "question": "French composer, best known for his operas.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Rubinstein, Anton Grigoryevich",
+      "Hofmann, Josef Casimir",
+      "Chopin, Frédéric François",
+      "Bartk, Bla"
+    ],
+    "question": "Russian pianist and composer.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Geisha",
+      "Shamisen",
+      "Samurai",
+      "Minstrel"
+    ],
+    "question": "Class of professional dancing and singing women of Japan.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Galliard",
+      "Passacaglia",
+      "Minuet",
+      "Polka"
+    ],
+    "question": "Lively 16th-century court dance of Italian origin.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Stratford-upon-Avon",
+      "London",
+      "Bristol",
+      "Canterbury"
+    ],
+    "question": "Shakespeare's birthplace.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Libretto",
+      "Ode",
+      "Scenario",
+      "Melody"
+    ],
+    "question": "The text of an opera or other staged musical work.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Interval",
+      "Cadence",
+      "Tone",
+      "Rhythm"
+    ],
+    "question": "The distance between two musical pitches.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Concert",
+      "Minstrel Show",
+      "Pantomime",
+      "Opera"
+    ],
+    "question": "Secular musical performance that does not require scenic representation.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Balalaika",
+      "Aeolian Harp",
+      "Psaltery",
+      "Vibraharp"
+    ],
+    "question": "Russian stringed instrument of the lute family.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Opera",
+      "Burlesque",
+      "Vaudeville",
+      "Tragedy"
+    ],
+    "question": "Drama in which all or part of the dialogue is sung.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Hornpipe",
+      "Ocarina",
+      "Shamisen",
+      "Bolero"
+    ],
+    "question": "The name of this wind instrument is also the name of a dance.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Burlesque",
+      "Pantomime",
+      "Melodrama",
+      "Symphony"
+    ],
+    "question": "A form of comic art characterized by ridiculous exaggeration.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Cantata",
+      "Symphony",
+      "Plainsong",
+      "Chorale"
+    ],
+    "question": "A musical composition for voice with instrumental accompaniment.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "<i>Marseillaise, La</i>",
+      "Star-Spangled Banner",
+      "<i>Federalist, The</i>",
+      "<i>Roman de la Rose, Le</i>"
+    ],
+    "question": "The French national anthem.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Chaney, Lon",
+      "Fairbanks, Douglas",
+      "Lang, Fritz",
+      "Laughton, Charles"
+    ],
+    "question": "American motion-picture actor, best known for his horror films.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Scarlatti, (Giuseppe) Domenico",
+      "Couperin, Louis",
+      "Dohnnyi, Ernst von",
+      "Farinelli"
+    ],
+    "question": "Italian harpsichordist and composer.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Offenbach, Jacques",
+      "Verdi, Giuseppe",
+      "Caruso, Enrico",
+      "Gluck, Christoph Willibald"
+    ],
+    "question": "French composer who wrote witty and satiric operettas.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Sax, Adolphe",
+      "Bessemer, Sir Henry",
+      "Moog, Robert",
+      "Wheatstone, Sir Charles"
+    ],
+    "question": "Belgian inventor of musical instruments.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Faur, Gabriel Urbain",
+      "Enesco, Georges",
+      "Rampal, Jean Pierre",
+      "Wolf-Ferrari, Ermanno"
+    ],
+    "question": "French composer and organist.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Jig",
+      "Reel",
+      "Gavotte",
+      "Polka"
+    ],
+    "question": "A step dance in which one or two soloists perform rapid, intricate, hopping steps to music.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Bergman, Ingmar",
+      "Strindberg, (Johan) August",
+      "Eisenstein, Sergey Mikhaylovich",
+      "Dalin, Olof von"
+    ],
+    "question": "Swedish motion-picture director.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Borodin, Aleksandr Porfiryevich",
+      "Chaliapin, Feodor Ivanovich",
+      "Bakst, Lon Nikolayevich",
+      "Turgenev, Ivan Sergeyevich"
+    ],
+    "question": "Russian composer and chemist (1833-87).",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Covent Garden",
+      "Abbey Theatre",
+      "Old Vic Theatre",
+      "Drury Lane Theatre"
+    ],
+    "question": "A theater in London and the square in which it is located.",
+    "category": "Theater & Venues",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Drama",
+      "Sculpture",
+      "Novel",
+      "Hymn"
+    ],
+    "question": "The name for this art-form comes from the Greek word meaning 'to do.'",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Meistersingers",
+      "Troubadours and Trouvres",
+      "Minstrels",
+      "Avant-Garde"
+    ],
+    "question": "Members of German renaissance guilds for poets and musicians.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Score",
+      "Script",
+      "Screenplay",
+      "Choreograph"
+    ],
+    "question": "Musical notation for a multipart composition.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Ukulele",
+      "Accordion",
+      "Didjeridu",
+      "Gong"
+    ],
+    "question": "Hawaiian musical instrument resembling a small guitar.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Carillon",
+      "Hurdy-Gurdy",
+      "Trombone",
+      "Lyre"
+    ],
+    "question": "Group of bells (23 or more) tuned to a musical scale of more than two octaves.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Burlesque",
+      "Vaudeville",
+      "Satire",
+      "Parody"
+    ],
+    "question": "Form of comic art characterized by ridiculous exaggeration.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Alto",
+      "Tenor",
+      "Baritone",
+      "Soprano"
+    ],
+    "question": "Lowest of the three principal ranges of voice found in women or young boys.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Psaltery",
+      "Glockenspiel",
+      "Vibraharp",
+      "Carillon"
+    ],
+    "question": "This stringed musical instrument is trapezoidal in shape.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Morris Dance",
+      "Pavane",
+      "Square Dance",
+      "Highland Fling"
+    ],
+    "question": "Traditional English ceremonial dance.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Gwyn, Nell",
+      "Siddons, Sarah Kemble",
+      "Langtry, Lillie",
+      "Fiske, Minnie Maddern"
+    ],
+    "question": "This English actor was the mistress of Charles II.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Clavichord",
+      "Piano",
+      "Organ",
+      "Harpsichord"
+    ],
+    "question": "The oldest form of a stringed, keyboard musical instrument.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Bard",
+      "Meistersinger",
+      "Trouvres",
+      "Minstrel"
+    ],
+    "question": "Highly trained Celtic poet, composer, singer, and harpist.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Cakewalk",
+      "Minuet",
+      "Polka",
+      "Reel"
+    ],
+    "question": "In this highly syncopated dance, couples strut around a square.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Cranko, John",
+      "Tudor, Antony",
+      "Budd, Zola",
+      "Petipa, Marius"
+    ],
+    "question": "South African-born choreographer and dancer.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Cunningham, Merce",
+      "Martins, Peter",
+      "Robbins, Jerome",
+      "Bruhn, Erik"
+    ],
+    "question": "The leader of the avant-garde in American dance.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Provincetown Players",
+      "Abbey Theatre",
+      "Habima Theater",
+      "American Conservatory Theater"
+    ],
+    "question": "Theater company that produced Eugene O'Neill's first play.",
+    "category": "Theater & Venues",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "X-Ray",
+      "Zoetrope",
+      "Kinetoscope",
+      "Praxinoscope"
+    ],
+    "question": "Which of the following is not an early device for showing motion pictures?",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Comédie-Française",
+      "Commedia Dell'arte",
+      "Avignon, Festival d'",
+      "La Scala"
+    ],
+    "question": "The state subsidized national theater of France.",
+    "category": "Theater & Venues",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "MRI Scanner",
+      "Zoetrope",
+      "Kinemascope",
+      "Praxinoscope"
+    ],
+    "question": "Which of the following is not an early device for showing motion pictures?",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Star-Spangled Banner",
+      "America",
+      "Land of Mountains Land of Rivers",
+      "God Save the Queen"
+    ],
+    "question": "National anthem of the United States.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Disney, Walt",
+      "Fellini, Federico",
+      "Allen, Woody",
+      "Wilder, Billy"
+    ],
+    "question": "American cartoon artist and producer of animated films.",
+    "category": "Stage Design & Production",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Zither",
+      "Xylophone",
+      "Carillon",
+      "Harpsichord"
+    ],
+    "question": "A stringed instrument in which strings run across a body or resonator.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Gounod, Charles François",
+      "Boulez, Pierre",
+      "Henze, Hans Werner",
+      "Telemann, Georg Philipp"
+    ],
+    "question": "Composer of the opera <i>Faust</i>.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Samba",
+      "Tango",
+      "Czardas",
+      "Bolero"
+    ],
+    "question": "This Afro-Brazilian folk dance is also popular in ballrooms.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Amati",
+      "Robbia",
+      "Strauss",
+      "Bront"
+    ],
+    "question": "Family of celebrated Italian violin makers of Cremona.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Comédie-Française",
+      "La Scala",
+      "Versailles",
+      "Faneuil Hall"
+    ],
+    "question": "National theater also known as La Maison de Molière.",
+    "category": "Theater & Venues",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Ligeti, György",
+      "Cage, John Milton, Jr.",
+      "Kisfaludy, Károly",
+      "Antheil, George"
+    ],
+    "question": "Hungarian avant-garde composer.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Cline, Patsy",
+      "Vaughan, Sarah",
+      "Fields, Gracie",
+      "Holiday, Billie"
+    ],
+    "question": "American country music singer, who died in an airplane crash in 1963 at the height of her fame.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Tango",
+      "Fox-Trot",
+      "Rumba",
+      "Lindy Hop"
+    ],
+    "question": "This modern ballroom dance originated in Argentina.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Rock Music",
+      "Jazz",
+      "Folk Music",
+      "Rap"
+    ],
+    "question": "Group of related music styles that have dominated popular music in the West since about 1955.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Chaplin, Charlie",
+      "Garbo, Greta",
+      "Fields, W. C.",
+      "Reagan, Ronald"
+    ],
+    "question": "What silent movie actor, considered the first truly international film star, was best known for playing the 'little tramp'?",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Fischer von Erlach, Johann Bernhard",
+      "Piranesi, Giovanni Battista",
+      "Johnson, Philip C.",
+      "Oud, Jacobus Johannes Pieter"
+    ],
+    "question": "The first and greatest Austrian baroque architect.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Chant",
+      "Ballad",
+      "Hymn",
+      "Pantomime"
+    ],
+    "question": "Unaccompanied sung melody where the rhythms and melodic contours are closely tied to the spoken rhythms of the text.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Scale",
+      "Tonality",
+      "Key",
+      "Melody"
+    ],
+    "question": "The arrangement of the rising or falling pitch sequence of the tones used in a musical system.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Cancan",
+      "Gavotte",
+      "Cotillion",
+      "Ballet"
+    ],
+    "question": "French dance noted for high kicking and suggestive bodily movements.",
+    "category": "Theater Concepts & Movements",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Recitative",
+      "Aria",
+      "Libretto",
+      "Oratorio"
+    ],
+    "question": "Style of musical composition for solo voice based largely on the natural inflections and rhythms of speech.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Viol",
+      "Shofar",
+      "Musette",
+      "Balalaika"
+    ],
+    "question": "Bowed stringed instrument popular from about 1500 to about 1750.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Lully, Jean Baptiste",
+      "Puccini, Giacomo",
+      "Corneille, Pierre",
+      "Sarasate, Pablo de"
+    ],
+    "question": "This French composer established opera in France.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Metastasio, Pietro",
+      "Handel, George Frideric",
+      "Gluck, Christoph Willibald",
+      "Puccini, Giacomo"
+    ],
+    "question": "The librettos of this Italian poet dominated 18th-century opera.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Boxing",
+      "Wrestling",
+      "Fencing",
+      "Karate"
+    ],
+    "question": "Athletic contest between two persons, in which both use their fists to try to knock the other unconscious.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Henson, Jim",
+      "Eisner, Michael",
+      "Disney, Walt",
+      "Geffen, David"
+    ],
+    "question": "American puppeteer and entertainment executive.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Segovia, Andrés",
+      "Casals, Pablo",
+      "Grappelli, Stéphane",
+      "Perlman, Itzhak"
+    ],
+    "question": "The most important classical guitarist of the 20th century.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Corelli, Arcangelo",
+      "Joachim, Joseph",
+      "Paganini, Nicolò",
+      "Kreisler, Fritz"
+    ],
+    "question": "His style of playing became the basis for the violin technique of the 18th and 19th centuries.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Square Dance",
+      "Tango",
+      "Fox-Trot",
+      "Charleston"
+    ],
+    "question": "A principal form of American folk dance, in which couples execute figures to the prompting of a caller.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Tchaikovsky, Peter Ilich",
+      "Beethoven, Ludwig van",
+      "Toscanini, Arturo",
+      "Chekhov, Anton Pavlovich"
+    ],
+    "question": "The foremost Russian composer of the 19th century.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Shostakovich, Dmitry Dmitrievich",
+      "Dostoyevsky, Fyodor Mikhaylovich",
+      "Tchaikovsky, Peter Ilich",
+      "Horowitz, Vladimir"
+    ],
+    "question": "The leading Soviet composer of the mid-20th century.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Albéniz, Isaac Manuel Francisco",
+      "Varse, Edgard",
+      "Faur, Gabriel Urbain",
+      "Villa-Lobos, Heitor"
+    ],
+    "question": "One of the leading composers of Spanish music, most noted for his piano works.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Tuning Fork",
+      "Metronome",
+      "Harp",
+      "Cadenza"
+    ],
+    "question": "A two-pronged metal device used by musicians to provide, when tapped, a fixed pitch.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Minuet",
+      "Hula",
+      "Square Dance",
+      "Cancan"
+    ],
+    "question": "Dance introduced during the 17th century at the court of Louis XIV of France.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Gregorian Chant",
+      "Hymn",
+      "Anthem",
+      "Spiritual"
+    ],
+    "question": "Official liturgical chant used in the Roman Catholic church.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Joplin, Scott",
+      "Monk, Thelonious Sphere",
+      "Gershwin, George",
+      "Foster, Stephen Collins"
+    ],
+    "question": "He was one of the most important developers of ragtime music.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Truffaut, François",
+      "Allen, Woody",
+      "Spielberg, Steven",
+      "Kubrick, Stanley"
+    ],
+    "question": "A leader of the nouvelle vague (new wave) movement of filmmakers.",
+    "category": "Theater Concepts & Movements",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Fiedler, Arthur",
+      "Bernstein, Leonard",
+      "Czerny, Carl",
+      "Levine, James Lawrence"
+    ],
+    "question": "Beloved conductor of the Boston Pops Orchestra.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Jongleurs",
+      "Bards",
+      "Druids",
+      "Sophists"
+    ],
+    "question": "The wandering minstrels who entertained courts in medieval France.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Basie, Count",
+      "Davis, Miles",
+      "Beiderbecke, Bix",
+      "Ives, Charles E."
+    ],
+    "question": "Jazz pianist and bandleader whose band was one of the finest of the 'swing' era of jazz.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Irving, Sir Henry",
+      "Booth, Edwin Thomas",
+      "Craig, (Edward Henry) Gordon",
+      "Barrymore, John"
+    ],
+    "question": "Professional name of English actor John Henry Brodribb.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Overture",
+      "Fugue",
+      "Toccata",
+      "Anthem"
+    ],
+    "question": "Musical introduction to an opera or other musical or nonmusical dramatic work.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Glockenspiel",
+      "Harp",
+      "Recorder",
+      "Zither"
+    ],
+    "question": "Percussion instrument consisting of a series of tuned metal bars mounted in two rows.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Betterton, Thomas",
+      "Purcell, Henry",
+      "Davenant, Sir William",
+      "Bernhardt, Sarah"
+    ],
+    "question": "One of the most popular English actors of the Restoration stage.",
+    "category": "Actors & Performers",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Allemande",
+      "Pavane",
+      "Polka",
+      "Polonaise"
+    ],
+    "question": "A 16th- and 17th-century courtly dance for a line of couples that originated in Germany.",
+    "category": "Performing Arts",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "His sonnets and lyric poetry.",
+      "His talent as an actor.",
+      "His plays.",
+      "His friendship with other famous people."
+    ],
+    "question": "William Shakespeare's reputation during his lifetime was based on:",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Coquelin, Benot Constant",
+      "Rostand, Edmond",
+      "Molière",
+      "Truffaut, François"
+    ],
+    "question": "He was the first actor to play the character Cyrano de Bergerac.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Improvisation",
+      "Modulation",
+      "Accent",
+      "Spiritual"
+    ],
+    "question": "In music, the art of creating all or part of a composition at the moment of performance.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Conducting",
+      "Choreography",
+      "Improvisation",
+      "Versification"
+    ],
+    "question": "In music, art of directing instrumentalists or singers in the performance of a musical work.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Marceau, Marcel",
+      "Grimaldi, Joseph",
+      "Chevalier, Maurice",
+      "Depardieu, Gérard"
+    ],
+    "question": "This French mime almost single-handedly revived the ancient art of pantomime.",
+    "category": "Mime & Physical Performance",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Organ",
+      "Piano",
+      "Harmonica",
+      "Bagpipe"
+    ],
+    "question": "Keyboard instrument in which compressed air vibrates within tuned pipes.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Villa-Lobos, Heitor",
+      "Mascagni, Pietro",
+      "Larrocha, Alicia de",
+      "Jaques-Dalcroze, Émile"
+    ],
+    "question": "The foremost Brazilian composer of the 20th century.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Hancock, Herbie",
+      "Hawkins, Coleman",
+      "Beiderbecke, Bix",
+      "Morton, Jelly Roll"
+    ],
+    "question": "This American pianist pioneered the style of jazz known as fusion.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Robinson, Edward G",
+      "Stewart, Jimmy",
+      "Tracy, Spencer",
+      "Keaton, Buster"
+    ],
+    "question": "This American actor's best-known roles were tough-talking gangsters.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Fife",
+      "Bagpipe",
+      "Accordion",
+      "Trumpet"
+    ],
+    "question": "High-pitched, horizontally held flute, historically associated with infantry troops.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Cello",
+      "Viola",
+      "Lyre",
+      "Mandolin"
+    ],
+    "question": "Large, low-pitched musical instrument of the violin family, held between the performer's knees.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Hula",
+      "Kolo",
+      "Pavane",
+      "Czardas"
+    ],
+    "question": "Hawaiian performance that includes dance, gesture, and chanting.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Castanets",
+      "Tambourine",
+      "Drum",
+      "Maracas"
+    ],
+    "question": "A percussion instrument consisting of two hollow shells loosely bound together by a cord.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Round",
+      "Sonata",
+      "Hymn",
+      "Shanty"
+    ],
+    "question": "Short vocal composition in which all voice parts sing the same melody at the same pitch, but each part enters at a given number of beats after the previous voice.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "King, B. B.",
+      "Leadbelly",
+      "Holly, Buddy",
+      "Hendrix, Jimi"
+    ],
+    "question": "He plays a guitar named Lucille in an economical style that combines traditional blues with touches of jazz.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Grieg, Edvard Hagerup",
+      "Grainger, Percy Aldridge",
+      "Delius, Frederick",
+      "Dvořák, Antonín"
+    ],
+    "question": "The most distinguished Norwegian composer of the 19th century.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Robeson, Paul",
+      "Mingus, Charles",
+      "Jones, James Earl",
+      "Abernathy, Ralph David"
+    ],
+    "question": "This American singer was also an early civil rights activist.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Griffith, D. W.",
+      "Kurosawa Akira",
+      "Eisenstein, Sergey Mikhaylovich",
+      "Lang, Fritz"
+    ],
+    "question": "Pioneering American motion-picture director.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Bell",
+      "Triangle",
+      "Harmonica",
+      "Vibraharp"
+    ],
+    "question": "A hollow cup-shaped vessel, this musical percussion instrument produces sound when struck with a clapper or hammer.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Band",
+      "Chorus",
+      "Glee",
+      "Orchestra"
+    ],
+    "question": "Musical ensemble of brass, woodwind, percussion, and keyboard instruments.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Victoria, Tomás Luis de",
+      "Palestrina, Giovanni Pierluigi da",
+      "Falla, Manuel de",
+      "Vega, Lope de"
+    ],
+    "question": "The greatest Spanish composer of the Renaissance.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Valentino, Rudolph",
+      "Mastroianni, Marcello",
+      "Chevalier, Maurice",
+      "Renoir, Jean"
+    ],
+    "question": "Idolized in the 1920s, this actor is considered the archetypal screen lover.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Graham, Martha",
+      "Claudel, Camille",
+      "Camargo, Marie Anne de Cupis de",
+      "Levertov, Denise"
+    ],
+    "question": "The major and most influential figure in American modern dance for more than 50 years.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Chaplin, Charlie",
+      "Fairbanks, Douglas",
+      "Gish, Lillian",
+      "Keaton, Buster"
+    ],
+    "question": "What silent movie actor, considered the first truly international film star, was best known for playing the 'Tramp'?",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Caesar, Sid",
+      "Burns, George",
+      "Gleason, Jackie",
+      "Berle, Milton"
+    ],
+    "question": "Star of the television variety show 'Your Show of Shows.'",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Goldberg, Whoopi",
+      "Streep, Meryl",
+      "Pfeiffer, Michelle",
+      "Tomlin, Lily"
+    ],
+    "question": "She won an Academy Award for her supporting role in the film Ghost (1990).",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Guarneri",
+      "Medici",
+      "Braganza",
+      "Strauss"
+    ],
+    "question": "Italian family of violin makers, one of whom is regarded as second only to Antonio Stradivari.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Fugard, Athol",
+      "Soyinka, Wole",
+      "Achebe, Chinua",
+      "Gide, André"
+    ],
+    "question": "South African theater artist whose works often focus on South African politics.",
+    "category": "Theater & Venues",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Eisner, Michael",
+      "Turner, Ted",
+      "Geffen, David",
+      "Bochco, Steven"
+    ],
+    "question": "He revitalized the Walt Disney Company in the 1980s and 1990s.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Beiderbecke, Bix",
+      "Grappelli, Stephane",
+      "Tatum, Art",
+      "Berlin, Irving"
+    ],
+    "question": "American jazz cornetist, pianist, and composer (1903-31).",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Kern, Jerome David",
+      "Bloch, Ernest",
+      "Roach, Max",
+      "Cage, John Milton, Jr."
+    ],
+    "question": "American composer who is noted for his musical scores for the Broadway stage.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Laban, Rudolf von",
+      "Duncan, Isadora",
+      "Diaghilev, Sergei Pavlovich",
+      "Vestris, Auguste"
+    ],
+    "question": "Hungarian dancer and ballet master, the inventor of the most widely used system of dance notation.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Burlesque",
+      "Commedia Dell'arte",
+      "Melodrama",
+      "Allegory"
+    ],
+    "question": "A satiric method, it appears in two forms: the mock epic in which a trivial subject is treated grandly and the travesty, in which a serious subject is regarded frivolously.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Marx Brothers",
+      "Warner Brothers",
+      "The Wright Brothers",
+      "Grimm Brothers"
+    ],
+    "question": "Four 20th-century American comedians, born in New York City.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Ziegfeld, Florenz",
+      "Daly, (John) Augustin",
+      "De Mille, Cecil B.",
+      "Barnum, P. T."
+    ],
+    "question": "American theatrical producer noted for his extravagant musical follies.",
+    "category": "Stage Design & Production",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Alonso, Alicia",
+      "Camargo, Marie Anne de Cupis de",
+      "Montez, Lola",
+      "Landowska, Wanda Louise"
+    ],
+    "question": "This Cuban ballerina founded the Ballet Nacional de Cuba.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Recorder",
+      "Xylophone",
+      "Harmonica",
+      "Oboe"
+    ],
+    "question": "The predominant European flute from about 1500 to about 1750, it is an end-blown flute.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Lind, Jenny",
+      "Tetrazzini, Luisa",
+      "Lehmann, Lotte",
+      "Garden, Mary"
+    ],
+    "question": "19th century Swedish soprano popularly known as the Swedish Nightingale.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Mazurka",
+      "Hora",
+      "Passacaglia",
+      "Gavotte"
+    ],
+    "question": "Traditional, highly improvisatory Polish dance for a circle of couples.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Gong",
+      "Drum",
+      "Triangle",
+      "Piano"
+    ],
+    "question": "This percussion instrument is typically a bronze disk that produces sound when struck by a knobbed beater.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Tuba",
+      "Oboe",
+      "Saxophone",
+      "Bugle"
+    ],
+    "question": "Lowest-pitched of the brass wind instruments shaped by vertically coiled tubing with an upward-pointing bell.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Holiday, Billie",
+      "Fitzgerald, Ella",
+      "Smith, Bessie",
+      "Jackson, Mahalia"
+    ],
+    "question": "One of the greatest jazz-blues singers of all time, also known as Lady Day.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Stroheim, Erich von",
+      "Gance, Abel",
+      "Reinhardt, Max",
+      "Lang, Fritz"
+    ],
+    "question": "Austrian-American motion-picture director of the legendary film Greed (1925).",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Berlin, Irving",
+      "Burns, Robert",
+      "Moore, Clement Clarke",
+      "Sax, Adolphe"
+    ],
+    "question": "He was one of the most popular songwriters in United States history.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Lang, Fritz",
+      "Brecht, Bertolt",
+      "Kazan, Elia",
+      "Mankiewicz, Joseph L"
+    ],
+    "question": "Austrian-American motion-picture director whose famous works include <i>Metropolis</i> (1927). ",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Artaud, Antonin",
+      "Barrault, Jean Louis",
+      "Beaumarchais, Pierre Augustin Caron de",
+      "Scribe, (Augustin) Eugène"
+    ],
+    "question": "French actor, poet, and dramatist who coined the concept of the theater of cruelty.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Pantomime",
+      "Minstrel Show",
+      "Burlesque",
+      "Ventriloquism"
+    ],
+    "question": "Art of dramatic representation by means of facial expressions and body movements rather than words.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Marsalis, Wynton",
+      "Gillespie, Dizzy",
+      "Corea, Chick",
+      "Waters, Muddy"
+    ],
+    "question": "The first musician to win Grammy Awards in both jazz and classical music categories in the same year.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Cagney, James Francis",
+      "Grant, Cary",
+      "Hoffman, Dustin",
+      "Allen, Woody"
+    ],
+    "question": "American actor and Academy Award winner, noted for his tough-guy roles.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Jolson, Al",
+      "Garbo, Greta",
+      "Chaplin, Charlie",
+      "Joplin, Scott"
+    ],
+    "question": "The star of the first 'talkie,' <i>The Jazz Singer</i>, was:",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Cerrito, Fanny",
+      "Tallchief, Maria",
+      "Graham, Martha",
+      "Kaye, Nora"
+    ],
+    "question": "This Italian ballerina was one of the few female choreographers of the 19th century.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Rap",
+      "Country-and-Western Music",
+      "Rhythm-and-Blues Music",
+      "Jazz"
+    ],
+    "question": "Popular music that consists of topical rhyme verses recited over a recorded or live instrumental background.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Sting",
+      "Jackson, Michael",
+      "Marley, Bob",
+      "Morrison, Jim"
+    ],
+    "question": "British singer, songwriter, and actor, who gained popularity as the lead singer for the British rock trio the Police.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Roussel, Albert",
+      "Branger, Pierre Jean de",
+      "Chausson, Ernest Amde",
+      "Halvy, Jacques François Fromental lie"
+    ],
+    "question": "One of the leading French composers of the era after World War I.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Garbo, Greta",
+      "Bergman, Ingrid",
+      "Crawford, Joan",
+      "De Havilland, Olivia"
+    ],
+    "question": "Swedish-American motion-picture actor who became a virtual recluse while still at the height of her popularity.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Folk Dance",
+      "Sarabande",
+      "Ballet",
+      "Kabuki"
+    ],
+    "question": "Recreational or ceremonial dance performed usually by members of the community to which the dance is traditional.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Banjo",
+      "Guitar",
+      "Viol",
+      "Hurdy-Gurdy"
+    ],
+    "question": "Stringed instrument of the lute family consisting of an open-backed round body and a long, narrow, fretted neck.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Cohan, George M.",
+      "Jolson, Al",
+      "Foster, Stephen Collins",
+      "Gershwin, George"
+    ],
+    "question": "American song and dance man whose lively musicals set a major trend on Broadway in the 1920s.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Callas, Maria",
+      "Nilsson, Birgit",
+      "Norman, Jessye",
+      "Anderson, Marian"
+    ],
+    "question": "This American operatic soprano was the first modern soprano to revive forgotten operas of the bel canto repertoire.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Drew, Louisa Lane",
+      "Bernhardt, Sarah",
+      "Campbell, Mrs. Patrick",
+      "Dunham, Katherine"
+    ],
+    "question": "This American actor and theater manager was also the matriarch of a well-known family of actors.",
+    "category": "Theater & Venues",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Marley, Bob",
+      "Metheny, Pat",
+      "Valens, Ritchie",
+      "Hendrix, Jimi"
+    ],
+    "question": "This singer, guitarist, and songwriter was a pioneer of Jamaican reggae music.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Parker, Charlie",
+      "Davis, Miles",
+      "Hawkins, Coleman",
+      "Metheny, Pat"
+    ],
+    "question": "He is generally acknowledged as the foremost jazz alto saxophonist.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Actors' Equity Association",
+      "Industrial Workers of the World",
+      "Teamsters Union",
+      "International Ladies' Garment Workers' Union"
+    ],
+    "question": "The labor union for actors, singers, dancers, and stage managers.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Eisenstein, Sergey Mikhaylovich",
+      "Sternberg, Josef von",
+      "Mankiewicz, Joseph L",
+      "Wilder, Billy"
+    ],
+    "question": "This Russian stage and motion-picture director is a master of montage and the use of symbols.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Farinelli",
+      "Gabrieli, Andrea",
+      "Canaletto",
+      "Gabrieli, Giovanni"
+    ],
+    "question": "The most renowned of the castrati, or male sopranos, of the 18th century.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Stallone, Sylvester",
+      "Stewart, Jimmy",
+      "Crosby, Bing",
+      "Allen, Woody"
+    ],
+    "question": "American motion-picture actor, noted for his portrayals of heroes in action-adventure movies.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Fox-Trot",
+      "Highland Fling",
+      "Minuet",
+      "Samba"
+    ],
+    "question": "American couple dance, whose many variants include the one-step  and the fast, jazzy, quickstep.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Schoenberg, Arnold",
+      "Leschetizky, Theodor",
+      "Wolf, Hugo",
+      "Mahler, Gustav"
+    ],
+    "question": "Austrian-born composer, creator of the twelve-tone system of musical composition.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Gillespie, Dizzy",
+      "Goodman, Benny",
+      "Hawkins, Coleman",
+      "Bowie, David"
+    ],
+    "question": "One of the leading exponents of bebop, and one of the foremost jazz trumpeters through six decades.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Liszt, Franz",
+      "Rachmaninoff, Sergey Vasilyevich",
+      "Blow, Hans Guido von",
+      "Berlioz, (Louis) Hector"
+    ],
+    "question": "This Hungarian-born pianist and composer founded the solo piano recital.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Crawford, Joan",
+      "De Havilland, Olivia",
+      "Bernhardt, Sarah",
+      "Pickford, Mary"
+    ],
+    "question": "This motion-picture actor is known for her hard-edged glamour and taut portrayals of strong-willed women.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Petit, Roland",
+      "Nijinsky, Vaslav",
+      "Balanchine, George",
+      "Bruhn, Erik"
+    ],
+    "question": "French dancer and choreographer, known for his inventive and theatrical ballets.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Kurosawa Akira",
+      "Suzuki Shin'ichi",
+      "Hiroshige",
+      "Pei, I(eoh) M"
+    ],
+    "question": "Japanese motion-picture director, known worldwide for the variety and visual beauty of his films.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Shankar, Uday",
+      "Ashton, Sir Frederick William Mallandaine",
+      "Petit, Roland",
+      "Gokhale, Gopal Krishna"
+    ],
+    "question": "Dancer and choreographer who brought Indian dance to international attention.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Sennett, Mack",
+      "Lang, Fritz",
+      "Griffith, D(avid) W",
+      "Wilder, Billy"
+    ],
+    "question": "He introduced and perfected the frenetic slapstick comedy of silent films.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Cher",
+      "Crawford, Joan",
+      "Foster, Jodie",
+      "Bergen, Candice"
+    ],
+    "question": "American singer and actor who won an Academy Award in 1987 for her leading role in Moonstruck.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Anderson, Marian",
+      "Jackson, Mahalia",
+      "Robeson, Paul",
+      "Norman, Jessye"
+    ],
+    "question": "The first African-American singer to perform at the Metropolitan Opera House in New York City.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Diaghilev, Sergei Pavlovich",
+      "Baryshnikov, Mikhail Nikolayevich",
+      "Lvov, Georgy Yevgenyevich, Prince",
+      "Chernyshevsky, Nikolay Gavrilovich"
+    ],
+    "question": "Russian dance impresario who, by establishing the Ballet Russes, revived ballet as a serious art form.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Hammerstein, Oscar, II",
+      "Lloyd Webber, Sir Andrew",
+      "Kern, Jerome David",
+      "Gilbert, Sir William Schwenck"
+    ],
+    "question": "American musical theater librettist, known for his work with Richard Rogers.",
+    "category": "Theater & Venues",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Lumière, Louis",
+      "Edison, Thomas Alva",
+      "Nobel, Alfred Bernhard",
+      "Wright, Orville"
+    ],
+    "question": "One of two brothers who invented an early motion-picture camera and projector.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Torelli, Giuseppe",
+      "Busoni, Ferruccio Benvenuto",
+      "Verdi, Giuseppe",
+      "Mozart, Wolfgang Amadeus"
+    ],
+    "question": "Italian composer and violinist who was one of the earliest to compose solo concertos.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Morton, Jelly Roll",
+      "Oliver, King",
+      "Marcos, Ferdinand Edralin",
+      "Henderson, (James) Fletcher"
+    ],
+    "question": "Professional name of American pianist Ferdinand Joseph La Menthe.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Hayes, Helen",
+      "Le Gallienne, Eva",
+      "Anderson, Dame Judith",
+      "Lansbury, Angela"
+    ],
+    "question": "American actor (1900-1993), often called the 'first lady of the American theater.'",
+    "category": "Theater & Venues",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Ragtime",
+      "Operetta",
+      "Country-and-Western Music",
+      "Rhythm-and-Blues Music"
+    ],
+    "question": "American musical genre that reached its greatest popularity between 1897 and World War I.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Globe Theatre",
+      "Drury Lane Theatre",
+      "Covent Garden",
+      "Abbey Theatre"
+    ],
+    "question": "The theater where the plays of Ben Jonson and William Shakespeare were first performed.",
+    "category": "Theater & Venues",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Ormandy, Eugene",
+      "Pergolesi, Giovanni Battista",
+      "Munch, Charles",
+      "Zukerman, Pinchas"
+    ],
+    "question": "Professional name of the Hungarian-American conductor Eugene Blau (1899-1985).",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Ulanova, Galina Sergeyevna",
+      "Callas, Maria",
+      "Markova, Dame Alicia",
+      "Diaghilev, Sergei Pavlovich"
+    ],
+    "question": "Russian dancer, whose style influenced Soviet ballet; she was the first Soviet prima ballerina assoluta.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Showboat",
+      "PT Boat",
+      "Ferry",
+      "Drury Lane Theatre"
+    ],
+    "question": "In U.S. history, a floating theater used to present popular plays, vaudeville, concerts, and circus acts.",
+    "category": "Theater & Venues",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Hart, Lorenz",
+      "Abbott, George",
+      "Porter, Cole",
+      "Gershwin, George"
+    ],
+    "question": "He wrote witty, frequently cynical lyrics set to music by Richard Rodgers for the Broadway stage.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Guthrie, Sir (William) Tyrone",
+      "Baker, George Pierce",
+      "Malory, Sir Thomas",
+      "Lamb, Charles"
+    ],
+    "question": "English stage director and dramatist who pioneered the writing and staging of expressionist plays.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Ford, Harrison",
+      "Eastwood, Clint",
+      "Cruise, Tom",
+      "Gibson, Mel"
+    ],
+    "question": "American motion-picture actor who played the title character in the Indiana Jones trilogy of films.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Bolero",
+      "Tango",
+      "Polonaise",
+      "Hora"
+    ],
+    "question": "Introduced in the late 18th century, this dance is considered the national dance of Spain.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Hansberry, Lorraine Vivian",
+      "Behn, Aphra",
+      "Angelou, Maya",
+      "Baraka, Amiri"
+    ],
+    "question": "The first African-American woman to have a play produced on Broadway.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Frohman",
+      "Gish",
+      "Robbia",
+      "Guarneri"
+    ],
+    "question": "Name of two American theatrical managers and producers who were brothers.",
+    "category": "Stage Design & Production",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Alice Liddell",
+      "Alice Kleberg",
+      "Alice B. Toklas",
+      "Alice Marble"
+    ],
+    "question": "The book <i>Alice in Wonderland</i> was originally written for her in 1862.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Trombone",
+      "Saxophone",
+      "Flute",
+      "Tuba"
+    ],
+    "question": "Brass wind instrument with a cup-shaped mouthpiece and a slide mechanism.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Xylophone",
+      "Triangle",
+      "Trombone",
+      "Recorder"
+    ],
+    "question": "Percussion instrument consisting of a series of graduated wooden bars that are struck with mallets.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Oratorio",
+      "Aria",
+      "Concerto",
+      "Chorale"
+    ],
+    "question": "Large-scale musical composition for voices and instruments usually on a religious subject.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Horowitz, Vladimir",
+      "Leschetizky, Theodor",
+      "Chopin, Frédéric François",
+      "Brubeck, Dave"
+    ],
+    "question": "This Russian-American pianist is one of the most well-known concert artists of the 20th century.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Carmagnole",
+      "Jota",
+      "Gavotte",
+      "Cancan"
+    ],
+    "question": "An anonymous song and street dance popular during the Reign of Terror of the French Revolution.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Gable, (William) Clark",
+      "Olivier, Laurence Kerr, 1st Baron Olivier of Brighton",
+      "Burbage, Richard",
+      "Brando, Marlon"
+    ],
+    "question": "American actor who played Rhett Butler in the movie Gone with the Wind.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Craig, (Edward Henry) Gordon",
+      "Shaw, George Bernard",
+      "Kingsley, Sidney",
+      "Burroughs, John"
+    ],
+    "question": "English stage designer, producer, and writer, known for his theories about set design and direction.",
+    "category": "Actors & Performers",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Beatles, The",
+      "Rolling Stones, The",
+      "Grateful Dead, The",
+      "Who, The"
+    ],
+    "question": "British rock music group that lead the so-called 'British Invasion' of the 1960s.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Fellini, Federico",
+      "Scorsese, Martin",
+      "Rossellini, Roberto",
+      "Truffaut, François"
+    ],
+    "question": "Italian film director whose films include <i>La Strada</i> (1954) and <i>8½</i> (1963).",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Concerto",
+      "Symphony",
+      "Fugue",
+      "Oratorio"
+    ],
+    "question": "Typically in three movements, a musical composition for one or more solo instruments with orchestra.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Newman, Paul",
+      "Redford, Robert",
+      "Gleason, Jackie",
+      "Cruise, Tom"
+    ],
+    "question": "He won an Academy Award for his role in <i>The Color of Money</i> (1986).",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Keillor, Garrison",
+      "King, Larry",
+      "Allen, Fred",
+      "Welles, (George) Orson"
+    ],
+    "question": "Creator and host of the radio series 'A Prairie Home Companion.'",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Glazunov, Aleksandr Konstantinovich",
+      "Eisenstein, Sergey Mikhaylovich",
+      "Liszt, Franz",
+      "Gogol, Nikolay Vasilyevich"
+    ],
+    "question": "The last important composer of the Russian national school founded by Mikhail Glinka.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Grierson, John",
+      "Hitchcock, Alfred",
+      "Flaherty, Robert",
+      "Ford, John"
+    ],
+    "question": "This British filmmaker founded the documentary movement and coined the term 'documentary'.",
+    "category": "Theater Concepts & Movements",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Berle, Milton",
+      "Caesar, Sid",
+      "Burns, George",
+      "Gleason, Jackie"
+    ],
+    "question": "His popularity is believed to have aided the sale of TV sets, earning him the nickname 'Mr. Television.'",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Tap Dance",
+      "Square Dance",
+      "Gavotte",
+      "Flamenco"
+    ],
+    "question": "A style of American theatrical dance distinguished by percussive footwork.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Puppets or Marionettes",
+      "Clown",
+      "Mask",
+      "Doll"
+    ],
+    "question": "Inanimate figures used in a theatrical performance operated by hand or with various other controls.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Sharp, Cecil James",
+      "Foster, Stephen Collins",
+      "Copland, Aaron",
+      "Mussorgsky, Modest Petrovich"
+    ],
+    "question": "This British musician awakened modern interest in English folk song and dance.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Henze, Hans Werner",
+      "Lehmbruck, Wilhelm",
+      "Puccini, Giacomo",
+      "Milhaud, Darius"
+    ],
+    "question": "One of the foremost German opera composers of the mid-20th century.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Buuel, Luis",
+      "Cela, Camilo Jos",
+      "Gris, Juan",
+      "Dal, Salvador"
+    ],
+    "question": "This Spanish motion-picture director is considered one of the masters of 20th-century cinema.",
+    "category": "Performing Arts",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Hymn",
+      "Opera",
+      "Ballad",
+      "Madrigal"
+    ],
+    "question": "A song praising a deity or expressing thoughts of religious meditation or worship.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Grant, Cary",
+      "Tracy, Spencer",
+      "Cooper, Gary",
+      "Astaire, Fred"
+    ],
+    "question": "British-born American motion-picture actor, known for his urbane and debonair manner.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Flamenco",
+      "Pavane",
+      "Mazurka",
+      "Polonaise"
+    ],
+    "question": "Traditional song and dance of the Roma of Andalusia in southern Spain.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Kabalevsky, Dmitry Borisovich",
+      "Tamm, Igor Yevgenyevich",
+      "Podgorny, Nikolay Viktorovich",
+      "Repin, Ilya Yefimovich"
+    ],
+    "question": "This Soviet composer's music often makes use of Russian folk melodies and is heavily nationalistic.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Ray, Satyajit",
+      "Tagore, Rabindranath",
+      "Shankar, Uday",
+      "Narayan, Jayaprakash"
+    ],
+    "question": "Indian filmmaker, known throughout the world for his evocative depictions of Indian life.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Partch, Harry",
+      "Schoenberg, Arnold",
+      "Jancek, Leos",
+      "Carter, Elliott Cook, Jr"
+    ],
+    "question": "This American composer's music is written to be played on instruments of his own invention.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Aria",
+      "Concerto",
+      "Fugue",
+      "Madrigal"
+    ],
+    "question": "Musical composition for solo voice with instrumental accompaniment, usually part of an opera, oratorio, or cantata.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Attenborough, Richard",
+      "Hitchcock, Sir Alfred Joseph",
+      "Lean, Sir David",
+      "Russell, Ken"
+    ],
+    "question": "British film director of Oh What a Lovely War (1969) and Gandhi (1982)",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Musical",
+      "Burlesque",
+      "Oratorio",
+      "Concert"
+    ],
+    "question": "Theatrical production in which songs, choruses, musical interludes and often dance are integrated into a dramatic plot.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Springsteen, Bruce",
+      "Sting",
+      "Bowie, David",
+      "Clapton, Eric"
+    ],
+    "question": "American rock-and-roll singer and songwriter noted for his populist, working-class appeal.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Rimsky-Korsakov, Nikolay Andreyevich",
+      "Karamzin, Nikolay Mikhaylovich",
+      "Tatlin, Vladimir",
+      "Smetana, Bedrich"
+    ],
+    "question": "One of the greatest composers of the Russian nationalist school, and a great master of orchestration.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Hurdy-Gurdy",
+      "Mandolin",
+      "Harpsichord",
+      "Carillon"
+    ],
+    "question": "A mechanized fiddle in which the player changes the notes by depressing keys along the fingerboard and sounds the strings by cranking a rosined wheel at the base of the instrument.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Walton, Sir William Turner",
+      "Persichetti, Vincent",
+      "Strachey, Lytton",
+      "Bonington, Richard Parkes"
+    ],
+    "question": "The work of this British composer forms a distinguished contribution to modern neoromantic music.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Vaughan Williams, Ralph",
+      "Byrd, William",
+      "Handel, George Frideric",
+      "Cage, John Milton, Jr."
+    ],
+    "question": "This composer's music established a British national style in the early 20th-century.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Piaf, Edith",
+      "Moses, Grandma",
+      "Dietrich, Marlene",
+      "Anderson, Marian"
+    ],
+    "question": "Parisian popular singer, whose sentimental ballads caught the fancy of an enormous international audience.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Wigman, Mary",
+      "Grahn, Lucile",
+      "Sokolow, Anna",
+      "Tamiris, Helen"
+    ],
+    "question": "German dancer, choreographer, and teacher, among the most influential figures in European modern dance.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Albee, Edward Franklin",
+      "Fugard, Athol",
+      "Scribe, (Augustin) Eugène",
+      "Glaspell, Susan"
+    ],
+    "question": "American playwright whose works depicting family relationships are marked by common themes of the theater of the absurd.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Burbage, Richard",
+      "Harrison, Sir Rex",
+      "Olivier, Laurence Kerr, 1st Baron Olivier of Brighton",
+      "Gable, (William) Clark"
+    ],
+    "question": "The first actor (1567?-1619) to perform in the roles of Hamlet, Lear, Richard III and Othello.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Waters, Ethel",
+      "Anderson, Marian",
+      "Baker, Josephine",
+      "Hansberry, Lorraine Vivian"
+    ],
+    "question": "A noted blues singer, she was one of the most prominent black performers of American stage and screen during the 1930s and '40s.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Debussy, (Achille) Claude",
+      "Mahler, Gustav",
+      "Dvork, Antonn",
+      "Berio, Luciano"
+    ],
+    "question": "French composer, whose harmonic innovations helped pave the way for the musical upheavals of the 20th century.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Kelly, Grace Patricia",
+      "Fields, Gracie",
+      "Hopper, Grace Murray",
+      "Hepburn, Audrey"
+    ],
+    "question": "The American film actor who became Princess Grace of Monaco.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Jefferson, Joseph",
+      "Boucicault, Dion",
+      "Booth, Edwin Thomas",
+      "Macready, William Charles"
+    ],
+    "question": "This American actor was best known for his portrayal of Rip Van Winkle.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Salieri, Antonio",
+      "Scarlatti, Alessandro",
+      "Mascagni, Pietro",
+      "Puccini, Giacomo"
+    ],
+    "question": "Italian composer chiefly remembered for his rivalry with Wolfgang Amadeus Mozart.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Rumba",
+      "Fox-Trot",
+      "Tango",
+      "Lindy Hop"
+    ],
+    "question": "Internationally popular in the 1930s, this ballroom dance for couples stems from Afro-Cuban folk origins.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Marceau, Marcel",
+      "Tom Thumb",
+      "Marivaux, Pierre Carlet de Chamblain de",
+      "Barrault, Jean Louis"
+    ],
+    "question": "French mime whose signature character is a white-faced clown named Bip who wears cullottes and a battered top hat.",
+    "category": "Mime & Physical Performance",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Armstrong, Louis",
+      "Housman, A.E.",
+      "Grappelli, Stephane",
+      "Ellington, Duke"
+    ],
+    "question": "American jazz trumpet player, singer, and bandleader (1901-1971), who influenced all subsequent jazz music. ",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Jolson, Al",
+      "Durante, Jimmy",
+      "Crosby, Bing",
+      "Kelly, Gene"
+    ],
+    "question": "American stage and film performer who is remembered for his role in the motion picture <i>The Jazz Singer</i>.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Commedia Dell'arte",
+      "Masque",
+      "Burlesque",
+      "Vaudeville"
+    ],
+    "question": "This influential form of professional theater originated in northern Italy in the 1550s and flourished for 200 years.",
+    "category": "Theater & Venues",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Lloyd Webber, Sir Andrew",
+      "Loewe, Frederick",
+      "Weill, Kurt",
+      "Hammerstein, Oscar, II"
+    ],
+    "question": "British composer of theatrical music whose popular stage musicals include Cats (1981) and Phantom of the Opera (1986).",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Holst, Gustav Theodore",
+      "Shankar, Ravi",
+      "Solti, Sir Georg",
+      "Britten, (Edward) Benjamin"
+    ],
+    "question": "This British composer based some of his compositions on Hindu literature and English folk song.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Do the Right Thing",
+      "Mean Streets",
+      "Midnight Cowboy",
+      "The Last Picture Show"
+    ],
+    "question": "Which movie was directed by modern African-American filmmaker Spike Lee?",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Synge, John Millington",
+      "Gregory, Isabella Augusta, Lady",
+      "Scribe, (Augustin) Eugène",
+      "Shaw, George Bernard"
+    ],
+    "question": "Author of the classic Irish drama, <i>Playboy of the Western World</i>.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Grappelli, Stephane",
+      "Brubeck, Dave",
+      "Roach, Max",
+      "Young, Lester"
+    ],
+    "question": "French jazz violinist (1908- ), who recorded with guitarist Django Reinhardt.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Tree, Sir Herbert Beerbohm",
+      "Olivier, Laurence Kerr, 1st Baron Olivier of Brighton",
+      "Shaw, George Bernard",
+      "Edward VII"
+    ],
+    "question": "Founder of the Royal Academy of Dramatic Art in London.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Burns, George",
+      "Caesar, Sid",
+      "Gleason, Jackie",
+      "Berle, Milton"
+    ],
+    "question": "This vaudevillian performer formed a comedy team with American actor Gracie Allen in 1923 which lasted for over 35 years.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Music Box",
+      "Ocarina",
+      "Hurdy-Gurdy",
+      "Xylophone"
+    ],
+    "question": "Mechanical musical instrument that produces sound when the tuned teeth of a steel comb are plucked by metal pins set in a revolving barrel or disk.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Highland Fling",
+      "Sword Dance",
+      "Reel",
+      "Jig"
+    ],
+    "question": "Folk dance of Scotland, originally performed after battles to celebrate victories.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Mendelssohn, Felix",
+      "Vivaldi, Antonio",
+      "Cage, John Milton, Jr.",
+      "Schoenberg, Arnold"
+    ],
+    "question": "This German composer was one of the leading figures of early 19th-century European romanticism.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Monteverdi, Claudio Giovanni Antonio",
+      "Dallapiccola, Luigi",
+      "Puccini, Giacomo",
+      "Bernini, Gianlorenzo"
+    ],
+    "question": "This Italian composer was the most important figure in the transition from Renaissance to baroque music.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Berlin International Film Festival",
+      "Cannes Film Festival",
+      "Hong Kong International Film Festival",
+      "Montral World Film Festival"
+    ],
+    "question": "International film festivals whose awards are known as the Golden Bear and the Silver Bear.",
+    "category": "Festivals & Events",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "March",
+      "Overture",
+      "Hymn",
+      "Chant"
+    ],
+    "question": "Musical composition designed to organize the movements of large groups of people, particularly soldiers.",
+    "category": "Stage Design & Production",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Piano",
+      "Harmonica",
+      "Cymbals",
+      "Mandolin"
+    ],
+    "question": "Stringed keyboard musical instrument, historically derived from the harpsichord and the clavichord.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Fairbanks, Douglas",
+      "Cronyn, Hume",
+      "Howard, Leslie",
+      "Grant, Cary"
+    ],
+    "question": "Daring athletic feats and expert swordsmanship highlighted the performances of this American film actor.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Loewe, Frederick",
+      "Hammerstein, Oscar, II",
+      "Lloyd Webber, Sir Andrew",
+      "Hart, Lorenz"
+    ],
+    "question": "American composer who is best known for his collaborations with the lyricist Alan Jay Lerner.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Joyce, James Augustine Aloysius",
+      "Capote, Truman",
+      "Hardy, Thomas",
+      "Kafka, Franz"
+    ],
+    "question": "Employing themes from Homer's Odyssey, his book, Ulysses (1922), follows the lives of two characters over a 24-hour period.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Burlesque",
+      "Pantomime",
+      "Melodrama",
+      "Opera"
+    ],
+    "question": "By the first quarter of the 20th century, the American version of this comic art emphasized broad, ribald comedy and scantily clad women.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Masque",
+      "Miracle Plays",
+      "Pantomime",
+      "Comédie-Française"
+    ],
+    "question": "Form of dramatic writing and production featuring poetry, music, and dance popular in 17th-century English court circles.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Gable, (William) Clark",
+      "Burton, Richard",
+      "Grant, Cary",
+      "Cooper, Gary"
+    ],
+    "question": "American motion-picture actor who played Rhett Butler in the film Gone With the Wind.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Barrymore, Ethel",
+      "Hayes, Helen",
+      "Tandy, Jessica",
+      "Anderson, Dame Judith"
+    ],
+    "question": "She won an Academy Award for her performance in <i>None But the Lonely Heart</i> (1944).",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Dance",
+      "Gymnastics",
+      "Fencing",
+      "Judo"
+    ],
+    "question": "Patterned and rhythmic bodily movements, usually performed to music, that serve as a form of communication or expression.",
+    "category": "Theater Concepts & Movements",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Cadenza",
+      "Aria",
+      "Fugue",
+      "Interval"
+    ],
+    "question": "Virtuosic solo passage, often improvised, inserted near the end of a musical composition or section.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Citizen Kane",
+      "The Wizard of Oz",
+      "Star Wars",
+      "Gone with the Wind"
+    ],
+    "question": "American art filmmaker Orson Welles was most noted for directing and acting in what landmark 1941 movie?",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Shankar, Ravi",
+      "Menuhin, Sir Yehudi",
+      "Narayan, Jayaprakash",
+      "Clementi, Muzio"
+    ],
+    "question": "Indian sitarist and composer, considered one of the foremost musicians of India.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Symphony",
+      "Chorale",
+      "Concerto",
+      "Fugue"
+    ],
+    "question": "A musical composition for an orchestra consisting usually of four contrasting sections, or movements.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Hepburn, Audrey",
+      "Bacall, Lauren",
+      "Bergman, Ingrid",
+      "Hepburn, Katharine"
+    ],
+    "question": "She starred in the films Roman Holiday (1953), Funny Face (1957), and Breakfast at Tiffany's (1961).",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Burns, George",
+      "Caesar, Sid",
+      "Gleason, Jackie",
+      "Berle, Milton"
+    ],
+    "question": "Born Nathan Birnbaum in New York City, this comic performer's career began in vaudeville and spanned over 70 years.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Accordion",
+      "Ukulele",
+      "Organ",
+      "Bolero"
+    ],
+    "question": "A hand-held musical instrument consisting of a bellows attached to two oblong frames on which buttons or pianolike keys are mounted.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Couperin, François",
+      "Rameau, Jean Philippe",
+      "Bach, Johann Sebastian",
+      "Debussy, (Achille) Claude"
+    ],
+    "question": "Called Le Grand, the work of this composer, organist, and harpsichordist, stands at the apex of French baroque music.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Appia, Adolphe",
+      "Mielziner, Jo",
+      "Beaton, Sir Cecil Walter Hardy",
+      "Schlemmer, Oskar"
+    ],
+    "question": "This Swiss artist and theatrical designer pioneered modern staging and lighting techniques.",
+    "category": "Stage Design & Production",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Congreve, William",
+      "Davenant, Sir William",
+      "Dryden, John",
+      "Wycherley, William"
+    ],
+    "question": "Seventeenth-century English playwright who wrote <i>The Way of the World</i>.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Donahue, Phil",
+      "Stewart, Jimmy",
+      "Sullivan, Ed",
+      "Rogers, Will"
+    ],
+    "question": "American television talk-show host, known for his confrontational style and for pioneering the audience-participation format of talk show.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Calypso",
+      "Fugue",
+      "Madrigal",
+      "Ragtime"
+    ],
+    "question": "Form of folk music developed in Trinidad, West Indies, and originally sung at carnivals.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Leadbelly",
+      "Baez, Joan",
+      "Guthrie, Woody",
+      "Bowie, David"
+    ],
+    "question": "The influential music of this American folk singer is deeply rooted in early African-American tradition.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Abbey Theatre",
+      "Habima Theater",
+      "Lincoln Center for the Performing Arts",
+      "Drury Lane Theatre"
+    ],
+    "question": "Dublin theatrical company participating in the late-nineteenth century revival of traditional Irish culture.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Puccini, Giacomo",
+      "Bellini, Vincenzo",
+      "Gluck, Christoph Willibald",
+      "Britten, (Edward) Benjamin"
+    ],
+    "question": "This Italian composer's operas blend intense emotion and theatricality with tender lyricism, colorful orchestration, and a rich vocal line.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Henderson, (James) Fletcher",
+      "Ellington, Duke",
+      "Goodman, Benny",
+      "Basie, Count"
+    ],
+    "question": "American jazz musician, who combined strict orchestral arrangement with free improvisation.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Valois, Dame Ninette de",
+      "Diaghilev, Sergei Pavlovich",
+      "Danilova, Alexandra",
+      "De Mille, Agnes George"
+    ],
+    "question": "English dancer and choreographer who founded the Royal Ballet at Sadler's Wells Theatre in London.",
+    "category": "Theater & Venues",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Berle, Milton",
+      "Caesar, Sid",
+      "Burns, George",
+      "Gleason, Jackie"
+    ],
+    "question": "American comedian and actor who gained prominence in the late 1940s as host of 'Texaco Star Theatre.'",
+    "category": "Theater & Venues",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Fonda, Jane",
+      "Streep, Meryl",
+      "Streisand, Barbra",
+      "Tomlin, Lily"
+    ],
+    "question": "American motion-picture actor, political activist, and writer and producer of exercise books and videos.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "De Mille, Agnes George",
+      "Morris, Mark",
+      "Balanchine, George",
+      "Fonteyn, Dame Margot"
+    ],
+    "question": "American dancer and choreographer who incorporated popular dance elements into classical ballets.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Praetorius, Michael",
+      "Wagner, (Wilhelm) Richard",
+      "Lehr, Franz",
+      "Karajan, Herbert von"
+    ],
+    "question": "German composer, theorist, and music publisher, who helped establish the style of early-17th-century German music.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "St. Denis, Ruth",
+      "Dunham, Katherine",
+      "De Mille, Agnes George",
+      "Holm, Hanya"
+    ],
+    "question": "She is credited with founding modern dance in America with the American dancer Isadora Duncan.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Foster, Stephen Collins",
+      "Waller, Fats",
+      "Gershwin, George",
+      "Joplin, Scott"
+    ],
+    "question": "The first professional songwriter in the United States (1826-1864), who wrote 'Oh! Susanna.'",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Dunham, Katherine",
+      "De Mille, Agnes George",
+      "St. Denis, Ruth",
+      "Anderson, Marian"
+    ],
+    "question": "This American choreographer, dancer, and scholar, was an influential leader in black theatrical dance.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Strindberg, (Johan) August",
+      "Ibsen, Henrik Johan",
+      "Kisfaludy, Kroly",
+      "Kotzebue, August Friedrich Ferdinand von"
+    ],
+    "question": "Swedish naturalistic and later expresssionistic playwright (1849-1912) who suffered through a period of mental illness.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Dean, James",
+      "Tracy, Spencer",
+      "Gable, (William) Clark",
+      "Martin, Steve"
+    ],
+    "question": "American actor on film, stage, and television, whose early death in an automobile accident contributed to his enduring legend.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Carol",
+      "National Anthem",
+      "Plainsong",
+      "Aria"
+    ],
+    "question": "Popular religious song, usually associated with Christmas, but also celebrating Easter and folk holidays.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Gleason, Jackie",
+      "Caesar, Sid",
+      "Burns, George",
+      "Berle, Milton"
+    ],
+    "question": "Television performer and comedian whose trademark phrases included 'How sweet it is' and 'Away we go!'",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Scarlatti, Alessandro",
+      "Verdi, Giuseppe",
+      "Domingo, Plcido",
+      "Ligeti, Gyrgy"
+    ],
+    "question": "This Italian composer helped to establish the Neapolitan style of opera that dominated 18th-century music.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Skinner, Cornelia Otis",
+      "Alcott, Louisa May",
+      "Fiske, Minnie Maddern",
+      "Siddons, Sarah Kemble"
+    ],
+    "question": "American actor and writer, acclaimed for her performances of dramatic monologues that she wrote herself.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Arlen, Harold",
+      "Robbins, Jerome",
+      "Chopin, Kate",
+      "Hopper, Edward"
+    ],
+    "question": "This American songwriter wrote extensively for films and Broadway musicals.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Terry, Dame Ellen Alicia",
+      "Langtry, Lillie",
+      "Hiller, Dame Wendy",
+      "Barrymore, Ethel"
+    ],
+    "question": "With long-time acting partner, Sir Henry Irving, she became the leading lady of the late nineteenth-century English stage.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Taglioni, Marie",
+      "Elssler, Fanny",
+      "Grahn, Lucile",
+      "Tallchief, Maria"
+    ],
+    "question": "This Swedish-Italian dancer established the delicate, ethereal style of early romantic ballet.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Oakley, Annie",
+      "Stone, Lucy",
+      "Hiawatha",
+      "Bonnie Parker"
+    ],
+    "question": "American markswoman who performed with Buffalo Bill's Wild West Show from 1885 to 1902.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "The Seventh Seal",
+      "The Seven Samurai",
+      "Rashomon",
+      "Throne of Blood"
+    ],
+    "question": "Which of the following is not a movie made by the acclaimed Japanese director Akira Kurosawa?",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Drury Lane Theatre",
+      "Old Vic Theatre",
+      "Abbey Theatre",
+      "Covent Garden"
+    ],
+    "question": "London theater built 1663 whose golden years are considered to be the thirty years (1746-1776) it was managed by actor David Garrick.",
+    "category": "Theater & Venues",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Vaudeville",
+      "Pantomime",
+      "Commedia Dell'arte",
+      "Opera"
+    ],
+    "question": "A form of theatrical entertainment, most typically, a kind of variety show popular in the United States in the late 19th and early 20th centuries.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Vaudeville",
+      "Commedia Dell'arte",
+      "Melodrama",
+      "Opera"
+    ],
+    "question": "This type of theatrical performance evolved both from British music-hall entertainment and, more directly, from barroom entertainment.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Ashton, Sir Frederick William Mallandaine",
+      "Nureyev, Rudolf Hametovich",
+      "Cranko, John",
+      "Helpmann, Sir Robert"
+    ],
+    "question": "This British dancer and choreographer led the Royal Ballet to its esteemed international reputation.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Auteur Theory",
+      "Surrealism",
+      "Bauhaus",
+      "Impressionism"
+    ],
+    "question": "This film movement, launched by young French filmmakers in the 1950s, argued that the director was the sole author of the film.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Ventriloquism",
+      "Pantomime",
+      "Burlesque",
+      "Animation"
+    ],
+    "question": "The art of speaking such that the projected sound seems to originate elsewhere, as from a hand-manipulated dummy or puppet.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Guthrie, Woody",
+      "Seeger, Pete",
+      "Springsteen, Bruce",
+      "Waters, Muddy"
+    ],
+    "question": "American folk singer who, during the Great Depression, became a legendary spokesman for the downtrodden.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "<i>The Comedy of Errors</i>",
+      "<i>Othello</i>",
+      "<i>Macbeth</i>",
+      "<i>Hamlet</i>"
+    ],
+    "question": "Which play is not from Shakespeare's so-called third period when he wrote his greatest tragedies and most dark and bitter comedies?",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Suite",
+      "Symphony",
+      "Gregorian Chant",
+      "Chorale"
+    ],
+    "question": "Developed in the 16th century as a series of dance tunes, it contains a series of discrete sections usually composed in one key.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Buxtehude, Dietrich",
+      "Gigli, Beniamino",
+      "Khachaturian, Aram Ilich",
+      "Riegger, Wallingford"
+    ],
+    "question": "Danish-born German organist and composer and leader of an influential 17th-century school of organist-composers.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Hope, Bob",
+      "Grant, Cary",
+      "Allen, Woody",
+      "Sullivan, Ed"
+    ],
+    "question": "American comedian and film actor, noted for his entertainment of American military troops overseas.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Strasberg, Lee",
+      "Brando, Marlon",
+      "Hoffman, Dustin",
+      "Stanislavski, Konstantin"
+    ],
+    "question": "This American director and actor was the leading teacher of the acting technique known as 'the Method.'",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Presley, Elvis Aaron",
+      "Pavarotti, Luciano",
+      "Brown, James",
+      "Springsteen, Bruce"
+    ],
+    "question": "An early pioneer or rock-and-roll music, this American singer and actor was one of the most popular entertainers of the 20th century.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Twelve-Tone System",
+      "Harmonics",
+      "Polyphony",
+      "Tonality"
+    ],
+    "question": "An approach to writing music developed by the Austrian composer Arnold Schoenberg.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Barnum, P.T.",
+      "Trumbull, Lyman",
+      "Tom Thumb",
+      "Marceau, Marcel"
+    ],
+    "question": "Museum owner, Connecticut state legislator, entertainment impresario and circus promoter (1810-91).",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Berkeley, Busby",
+      "Fosse, Bob",
+      "Altman, Robert",
+      "Zeffirelli, Franco"
+    ],
+    "question": "American film director of the 1930s (1895-1976) whose distinctive choreographic style involved lavish sets and fluid camera movement.",
+    "category": "Theater Concepts & Movements",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Stream-of-consciousness",
+      "Naturalism",
+      "Expressionism",
+      "Transcendentalism"
+    ],
+    "question": "This narrative technique reveals the thoughts, feelings and actions often in an associative, rather than a logical, sequence.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Gleason, Jackie",
+      "Caesar, Sid",
+      "Burns, George",
+      "Berle, Milton"
+    ],
+    "question": "Two of his popular nightclub characters were Joe the Bartender and Charlie the Loudmouth.",
+    "category": "Performing Arts",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Wayne, John",
+      "Niven, David",
+      "Nicholson, Jack",
+      "Olivier, Laurence"
+    ],
+    "question": "American motion-picture actor (1907-1979), beloved as the archetype of rugged, honest American manhood.",
+    "category": "Actors & Performers",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Shepard, Sam",
+      "Büchner, (Karl) Georg",
+      "Soyinka, Wole",
+      "Dryden, John"
+    ],
+    "question": "Contemporary American playwright and film actor who is known for writing plays that mix surreal elements with images from popular culture.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Sibelius, Jean",
+      "Brahms, Johannes",
+      "Runeberg, Johan Ludvig",
+      "Aalto, (Hugo) Alvar Henrik"
+    ],
+    "question": "This Finnish composer's symphonic poems reflect his romantic and intensely nationalistic approach to music.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Eastwood, Clint",
+      "Bono, Sonny",
+      "Mankiewicz, Joseph L",
+      "Wayne, John"
+    ],
+    "question": "American motion-picture actor and director who performed in such movies as A Fistful of Dollars and Dirty Harry.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Durante, Jimmy",
+      "Burns, George",
+      "Rogers, Will",
+      "Crosby, Bing"
+    ],
+    "question": "American comedian (1893-1980), remembered particularly for his prominent nose and gravelly voice.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Rodgers, Richard",
+      "Berlin, Irving",
+      "Gershwin, George",
+      "Sondheim, Stephen Joshua"
+    ],
+    "question": "This composer is best known for his collaborations with the lyricists Lorenz Hart and Oscar Hammerstein II.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Brubeck, Dave",
+      "Scarlatti, Alessandro",
+      "Glass, Philip",
+      "Hart, Lorenz"
+    ],
+    "question": "American composer and pianist, known for his jazz compositions incorporating unusual meters and classical techniques.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Campbell, Mrs. Patrick",
+      "Terry, Dame Ellen Alicia",
+      "Lawrence, Gertrude",
+      "Thorndike, Dame (Agnes) Sybil"
+    ],
+    "question": "Playwright George Bernard Shaw created the character of Eliza Doolittle for this actor.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Wilder, Billy",
+      "Fellini, Federico",
+      "Hitchcock, Sir Alfred Joseph",
+      "Lang, Fritz"
+    ],
+    "question": "American motion-picture director whose films employ his distinctive dialogue to elucidate a satirical view of human nature.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "King, Larry",
+      "Leno, Jay",
+      "Cosby, Bill",
+      "Hall, Arsenio"
+    ],
+    "question": "American broadcaster, known for his influential interviews of public figures, especially politicians.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Kaye, Nora",
+      "Makarova, Natalia Romanovna",
+      "Dunham, Katherine",
+      "Fonteyn, Dame Margot"
+    ],
+    "question": "American dramatic ballerina who has been called the Duse of dance, after the Italian actor Eleonora Duse.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Primus, Pearl",
+      "St. Denis, Ruth",
+      "Anderson, Marian",
+      "Baker, Josephine"
+    ],
+    "question": "Trinidadian-American dancer and anthropologist who helped establish the importance of African-American dance.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Coward, Sir Noel Pierce",
+      "Wilde, Oscar",
+      "Chekhov, Anton Pavlovich",
+      "Bulwer-Lytton, Edward George"
+    ],
+    "question": "A chronicler of British upper-class life, this English playwright not only wrote his plays, but produced and starred in them as well.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Burlesque",
+      "Vaudeville",
+      "Melodrama",
+      "Allegory"
+    ],
+    "question": "One of the earliest uses of this form of comic art in literature was in the ancient Greek mock epic poem 'The Battle of the Frogs and the Mice.'",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Clapton, Eric",
+      "Dylan, Bob",
+      "Guthrie, Woody",
+      "Seeger, Pete"
+    ],
+    "question": "British rock guitarist, singer, and songwriter, best known for his lyric guitar style and use of blues techniques to enhance his rock-music performances.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Sawyer, Diane",
+      "Walters, Barbara",
+      "Lunden, Joan",
+      "Pauley, Jane"
+    ],
+    "question": "American broadcast journalist, the first woman correspondent on the television news program '60 Minutes.'",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Bruckner, (Josef) Anton",
+      "Walter, Bruno",
+      "Franck, Csar Auguste",
+      "Delius, Frederick"
+    ],
+    "question": "Austrian composer and organist, highly regarded for his immense, original symphonic works.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Chopin, Frédéric François",
+      "Horowitz, Vladimir",
+      "Debussy, (Achille) Claude",
+      "Cage, John Milton, Jr."
+    ],
+    "question": "Polish composer and pianist of the romantic school, regarded by some as the greatest of all composers of music for the piano.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Avignon, Festival d'",
+      "Edinburgh Festival",
+      "Locarno International Film Festival",
+      "Comédie-Française"
+    ],
+    "question": "Outdoor performance event created by French actor Jean Vilar as a means to restore a festive aspect to theater not seen in state and commercial theaters.",
+    "category": "Theater & Venues",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Grainger, Percy Aldridge",
+      "Grieg, Edvard Hagerup",
+      "Copland, Aaron",
+      "Hadley, Henry Kimball"
+    ],
+    "question": "Many of the 400 compositions of this American pianist and composer  are based on the folk music of the British Isles.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Minstrel",
+      "Bard",
+      "Troubadour",
+      "Vaudevillian"
+    ],
+    "question": "Professional entertainer in medieval Europe, skilled at a variety of performance techniques, particularly singing and acrobatics. ",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Mitropoulos, Dimitri",
+      "Hadley, Henry Kimball",
+      "Szell, George",
+      "Karamanlis, Constantine"
+    ],
+    "question": "This Greek-American conductor was acclaimed for his interpretations of the works of 20th-century composers.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Robbins, Jerome",
+      "Graham, Martha",
+      "Balanchine, George",
+      "Fosse, Bob"
+    ],
+    "question": "American Broadway director and choreographer of West Side Story and Fiddler on the Roof.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Kelly, Gene",
+      "Fosse, Bob",
+      "Robbins, Jerome",
+      "Graham, Martha"
+    ],
+    "question": "Dancer and choreographer who appeared in such movie musicals like Singin' in the Rain and An American in Paris.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Baker, Josephine",
+      "Smith, Bessie",
+      "Piaf, Edith",
+      "Dunham, Katherine"
+    ],
+    "question": "The fame of this American-born French dancer and singer reflected the Parisian passion for Afro-American culture in the 1920s.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Booth, Edwin Thomas",
+      "Betterton, Thomas",
+      "Siddons, Sarah Kemble",
+      "Copeau, Jacques"
+    ],
+    "question": "Nineteenth-century American actor (1833-1893), considered one of America's greatest tragic actors.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Hall, Arsenio",
+      "Newman, Paul",
+      "Jennings, Peter",
+      "Johnson, Magic"
+    ],
+    "question": "American motion-picture actor and television talk-show host, the first African-American man to host his own nationally syndicated talk show.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Riefenstahl, Leni",
+      "Goebbels, Paul Joseph",
+      "Himmler, Heinrich",
+      "Hitler, Adolf"
+    ],
+    "question": "Documentarian of the National Socialist (Nazi) party rally of 1934 and the 1936 Berlin Olympics.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Strauss, Richard",
+      "Stravinsky, Igor Fyodorovich",
+      "Liszt, Franz",
+      "Offenbach, Jacques"
+    ],
+    "question": "This German composer and conductor was a leading composer for the modern orchestra and a master of composing for the human voice.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Mahler, Gustav",
+      "Scarlatti, Alessandro",
+      "Verdi, Giuseppe",
+      "Beethoven, Ludwig van"
+    ],
+    "question": "The works of this Austrian composer and conductor mark the culmination of the postromantic development of the symphony.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Meyerhold, Vsevolod",
+      "Odets, Clifford",
+      "Büchner, (Karl) Georg",
+      "Artaud, Antonin"
+    ],
+    "question": "The work of this innovative Russian theater director of the 1920s and 1930s inspired many revolutionary artists and filmmakers of his era.",
+    "category": "Theater & Venues",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Benny, Jack",
+      "Berle, Milton",
+      "Caesar, Sid",
+      "Hope, Bob"
+    ],
+    "question": "American comedian appearing on both radio and television. He was famous for his acerbic, penny-pinching character.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shawn, Ted",
+      "Martins, Peter",
+      "Nijinsky, Vaslav",
+      "Tudor, Antony"
+    ],
+    "question": "Founder of the annual Jacob's Pillow Dance Festival, and organizer of the Denishawn Dance Company.",
+    "category": "Festivals & Events",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Lerner, Alan Jay",
+      "Hart, Lorenz",
+      "Lloyd Webber, Sir Andrew",
+      "Hammerstein, Oscar, II"
+    ],
+    "question": "American lyricist and librettist who collaborated with the composer Frederick Loewe.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Belasco, David",
+      "Garrick, David",
+      "Heywood, John",
+      "Wanamaker, Sam"
+    ],
+    "question": "One of the first American producers to unify all elements of a theatrical production under the supervision of one person.",
+    "category": "Stage Design & Production",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Gleason, Jackie",
+      "Caesar, Sid",
+      "Burns, George",
+      "Berle, Milton"
+    ],
+    "question": "He created the television comedy series 'The Honeymooners' (1955-1956) and starred as the boisterous Ralph Kramden.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Cymbals",
+      "Gong",
+      "Maracas",
+      "Accordion"
+    ],
+    "question": "Round, concave plates of copper-tin alloy that are clashed together or struck separately with beaters, producing a long-lasting loud or soft sound of indeterminate pitch.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "De Mille, Cecil B",
+      "Fellini, Federico",
+      "Wenders, Wim",
+      "Lean, Sir David"
+    ],
+    "question": "This American motion-picture director produced historical epics and biblical film extravaganzas.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Noguchi, Isamu",
+      "Bertoia, Harry",
+      "Johns, Jasper",
+      "Isozaki Arata"
+    ],
+    "question": "American sculptor, who also designed stage sets and costumes for George Balanchine's New York City Ballet.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Craig, (Edward Henry) Gordon",
+      "Barrault, Jean Louis",
+      "Appia, Adolphe",
+      "Geddes, Norman Bel"
+    ],
+    "question": "Innovative English stage designer known for his radically simplified stage settings and symbolic use of lighting.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Burns, George",
+      "Caesar, Sid",
+      "Gleason, Jackie",
+      "Berle, Milton"
+    ],
+    "question": "Star of the popular films <i>Oh, God!</i> (1977), <i>Going in Style</i> (1979), and <i>18 Again!</i> (1988).",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Golden Globe Awards",
+      "Academy Awards",
+      "Pulitzer Prizes",
+      "Emmy Awards"
+    ],
+    "question": "Motion-picture and television awards administered by the Hollywood Foreign Press Association.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Houdini, Harry",
+      "Marceau, Marcel",
+      "Machiavelli, Niccol",
+      "Nostradamus"
+    ],
+    "question": "The professional name of Ehrich Weiss, the American magician born in Budapest, Hungary.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Bach, Johann Sebastian",
+      "Berlioz, (Louis) Hector",
+      "Pachelbel, Johann",
+      "Stravinsky, Igor Fyodorovich"
+    ],
+    "question": "German organist and composer of the baroque era, one of the greatest and most productive geniuses in the history of Western music.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "The Who",
+      "The Rolling Stones",
+      "The Beatles",
+      "Bloomsbury Group"
+    ],
+    "question": "British rock music group organized in 1964 by Peter Townshend, John Entwistle, Roger Daltrey, and Keith Moon.",
+    "category": "Theater & Venues",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Metheny, Pat",
+      "Hendrix, Jimi",
+      "King, B. B.",
+      "Clapton, Eric"
+    ],
+    "question": "American electric guitarist and composer, known for his ability to blend influences from many different types of music into his own unique type of jazz.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Russell, Lillian",
+      "Horne, Marilyn",
+      "Lehmann, Lotte",
+      "Melba, Nellie"
+    ],
+    "question": "American light-opera soprano of the late 19th century who, in addition to her singing, was known for her beauty and flamboyant life-style.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Thorndike, Dame (Agnes) Sybil",
+      "Terry, Dame Ellen Alicia",
+      "Evans, Dame Edith Mary",
+      "Adams, Maude"
+    ],
+    "question": "Playwright George Bernard Shaw created the play <i>Saint Joan</i> for this English actress.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Stokowski, Leopold Antoni Stanislaw",
+      "Beecham, Sir Thomas",
+      "Hadley, Henry Kimball",
+      "Boulez, Pierre"
+    ],
+    "question": "This Anglo-American conductor brought the Philadelphia Orchestra to international renown.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Oliver, King",
+      "Ellington, Duke",
+      "Morton, Jelly Roll",
+      "Davis, Miles"
+    ],
+    "question": "This American cornetist was the earliest major jazz figure, and the single greatest influence on Louis Armstrong.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Dowland, John",
+      "Jonson, Ben",
+      "Sforza, Francesco",
+      "Betterton, Thomas"
+    ],
+    "question": "He was one of the greatest musicians of the Elizabethan and Jacobean eras and one of the greatest song writers of all time.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Rachmaninoff, Sergey Vasilyevich",
+      "Horowitz, Vladimir",
+      "Chopin, Frédéric François",
+      "Solti, Sir Georg"
+    ],
+    "question": "One of the most brilliant pianists and composers of the 20th century, his work is considered the last major musical expression of the romantic era.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Spohr, Louis",
+      "Stockhausen, Karlheinz",
+      "Munch, Charles",
+      "Mozart, Wolfgang Amadeus"
+    ],
+    "question": "The reputation of this popular German composer, violinist, and conductor (1784-1859) rivaled that of Ludwig van Beethoven.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Scorsese, Martin",
+      "Kazan, Elia",
+      "Lucas, George",
+      "Mayer, Louis B."
+    ],
+    "question": "American motion-picture director, whose best films have reflected the Italian-American experience of his childhood.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Vaudeville",
+      "Pantomime",
+      "Melodrama",
+      "Opera"
+    ],
+    "question": "In 1928, when this type of entertainment was at the height of its popularity, an estimated 2 million people daily attended performances given at approximately 1000 theaters in the U.S.",
+    "category": "Theater & Venues",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Barrie, Sir James Matthew",
+      "Coward, Sir Noel Pierce",
+      "Wilde, Oscar",
+      "Bulwer-Lytton, Edward George Earle Lytton, 1st Baron Lytton"
+    ],
+    "question": "Scottish dramatist whose plays include The Admirable Crichton (1902), What Every Woman Knows (1908), and Peter Pan (1904).",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Dryden, John",
+      "Shakespeare, William",
+      "Arnold, Matthew",
+      "Eliot, T.S."
+    ],
+    "question": "His poem, Annus Mirabilis, celebrates the events of the year 1666 including the English naval victory over the Dutch and the Great Fire of London.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Hendrix, Jimi",
+      "Holly, Buddy",
+      "Zappa, Frank",
+      "Clapton, Eric"
+    ],
+    "question": "Considered one of the best guitarists in rock-and-roll music, this American rock guitarist, singer, and songwriter died at the height of his fame in 1970.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Duncan, Isadora",
+      "Graham, Martha",
+      "Tharp, Twyla",
+      "Pavlova, Anna Pavlovna"
+    ],
+    "question": "American dancer whose expressive dance style, inspired by ancient Greek dance forms, laid the groundwork for the modern dance movement of the 20th century.",
+    "category": "Theater Concepts & Movements",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Smith, David Roland",
+      "Segal, George",
+      "Maillol, Aristide",
+      "Cornell, Joseph"
+    ],
+    "question": "American sculptor, whose abstract metal constructions were an important and influential development in 20th-century sculpture.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Griffith, D.W.",
+      "Chaplin, Charlie",
+      "Wayne, John",
+      "Edison, Thomas Alva"
+    ],
+    "question": "What early American motion picture director is best known for producing long, epic films such as Birth of a Nation and Intolerance?",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Schiller, (Johann Christoph) Friedrich von",
+      "Shakespeare, William",
+      "Beckett, Samuel",
+      "Soyinka, Wole"
+    ],
+    "question": "His poem, 'An die Freude' (Ode to Joy),  was set to music by Ludwig von Beethoven in the composer's Ninth Symphony.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Cooper, Gary",
+      "Fairbanks, Douglas",
+      "Cagney, James Francis",
+      "De Niro, Robert"
+    ],
+    "question": "American motion-picture actor, known for his portrayals of calm, soft-spoken American heroes, single-mindedly dedicated to justice.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "<i>The Magnificent Seven</i>",
+      "<i>High Noon</i>",
+      "<i>Stagecoach</i>",
+      "<i>The Good, the Bad and the Ugly</i>"
+    ],
+    "question": "Japanese director Akira Kurosawas film <i>The Seven Samurai</i> served as the model for which American Western?",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Schiller, (Johann Christoph) Friedrich von",
+      "Heine, Heinrich",
+      "Grillparzer, Franz",
+      "Goethe, Johann Wolfgang von"
+    ],
+    "question": "His poem, 'An die Freude' (Ode to Joy),  was set to music by Ludwig von Beethoven in the composer's Ninth Symphony.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Brokaw, Tom",
+      "Jennings, Peter",
+      "Brinkley, David McClure",
+      "Donaldson, Sam"
+    ],
+    "question": "American television journalist who became co-anchor of the 'NBC Nightly News' with Roger Mudd in 1981.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Dvořák, Antonín",
+      "Friml, (Charles) Rudolf",
+      "Lehr, Franz",
+      "Masaryk, Tomáš Garrigue"
+    ],
+    "question": "Czech composer (1841-1904), a leading figure in 19th century music, who authored the symphony known as <i>From the New World</i>.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Goodman, Benny",
+      "Armstrong, Louis",
+      "Puente, Tito",
+      "Bernstein, Leonard"
+    ],
+    "question": "This American jazz clarinetist and orchestra leader is known for his technical virtuosity and the melodic inventiveness of his improvisations.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Keaton, Buster",
+      "Chaplin, Charlie",
+      "De Mille, Cecil B",
+      "Gance, Abel"
+    ],
+    "question": "American motion-picture actor, director, and screenwriter, whose deadpan expressions, superb timing, and acrobatic skills made him one of the major figures of silent-film comedy.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Gregory, Isabella Augusta, Lady",
+      "Browning, Elizabeth Barrett",
+      "Bulwer-Lytton, Edward George Earle Lytton, 1st Baron Lytton",
+      "Tennyson, Alfred, Lord"
+    ],
+    "question": "Irish playwright, aristocrat, leader in the so-called Irish Renaissance and co-founder of Abbey Theatre in Dublin.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Orchestra",
+      "Band",
+      "Chorale",
+      "Opera"
+    ],
+    "question": "Large ensemble of musical instruments having as its core a group of bowed-string instruments of the violin family, augmented by woodwind, brass, and percussion instruments.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Szell, George",
+      "Munch, Charles",
+      "Beecham, Sir Thomas",
+      "Cortot, Alfred Denis"
+    ],
+    "question": "Under the auspices of this Hungarian-born U.S. conductor, the Cleveland Orchestra came to be considered one of the finest in the world.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Havel, Vclav",
+      "Forman, Milos",
+      "Vrsmarty, Mihly",
+      "Soyinka, Wole"
+    ],
+    "question": "His plays were banned after he denounced the Soviet Union's invasion of Czechoslovakia.  He became its President after the fall of the Czech communist party.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Burlesque",
+      "Vaudeville",
+      "Commedia Dell'arte",
+      "Allegory"
+    ],
+    "question": "In drama, this comic art form first appeared in the plays of the Greek dramatists Aristophanes and Euripides and the Roman playwright Plautus.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Kazan, Elia",
+      "Mielziner, Jo",
+      "Brando, Marlon",
+      "Tandy, Jessica"
+    ],
+    "question": "Director of both the original film and broadway stage versions of Tennessee William's <i>A Streetcar Named Desire</i>.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shange, Ntozake",
+      "Angelou, Maya",
+      "Dove, Rita",
+      "Winfrey, Oprah"
+    ],
+    "question": "African-American playwright and poet, whose major contribution to American drama is the choreopoem, which involves narrative pieces presented with music and dance.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Brecht, Bertolt",
+      "Büchner, (Karl) Georg",
+      "Grillparzer, Franz",
+      "Schiller, (Johann Christoph) Friedrich von"
+    ],
+    "question": "German Marxist playwright (1898-1956) who developed a unique theatrical technique intended to prevent audiences from identifying with the characters on stage.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Burns, George",
+      "Caesar, Sid",
+      "Gleason, Jackie",
+      "Berle, Milton"
+    ],
+    "question": "This popular radio and television comedian returned to motion pictures in 1975 after a 30-year hiatus, appearing in the film <i>The Sunshine Boys</i>.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Nouvelle Vague",
+      "Docudrama",
+      "Cahiers du Cinema",
+      "Futurism"
+    ],
+    "question": "This film movement, launched by young French filmmakers in the 1950s and influenced by American film noir and Italian neorealism, argued that the director was the sole author of the film.",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Caesar, Sid",
+      "Burns, George",
+      "Gleason, Jackie",
+      "Berle, Milton"
+    ],
+    "question": "This television comedian was known for the dialects, pantomimes, and improvisations he performed as cohost of 'Your Show of Shows' (1950-1954).",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Old Vic Theatre",
+      "Lincoln Center for the Performing Arts",
+      "Drury Lane Theatre",
+      "Abbey Theatre"
+    ],
+    "question": "London theater re-organized by Lillian Bayliss in 1914 as a non-profit organization dedicated to performing the works of William Shakespeare.",
+    "category": "Theater & Venues",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Allen, Woody",
+      "Altman, Robert",
+      "Hitchcock, Sir Alfred Joseph",
+      "Truffaut, François"
+    ],
+    "question": "American motion-picture director, actor, and writer, whose highly personal films are often humorous depictions of neurotic urban characters preoccupied with love and death.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Vaudeville",
+      "Burlesque",
+      "Pantomime",
+      "Melodrama"
+    ],
+    "question": "A stage entertainment made up of several individual 'acts' or presentations by a single entertainer or group of entertainers such as acrobats, family acts, musicians, comedians, jugglers, magicians, trained animals, and so forth.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "D'Oyly Carte, Richard",
+      "Bulwer-Lytton, Edward George Earle Lytton, 1st Baron Lytton",
+      "Daly, (John) Augustin",
+      "Lloyd Webber, Sir Andrew"
+    ],
+    "question": "English producer of light opera whose company, after his death, continued to perform the works of Sir Arthur Sullivan and Sir William S. Gilbert in the traditional style.",
+    "category": "Stage Design & Production",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Bankhead, Tallulah",
+      "Hepburn, Katharine",
+      "Lawrence, Gertrude",
+      "West, Mae"
+    ],
+    "question": "American stage and film actor (1903-68) known for her husky voice.  Appeared in the films <i>The Little Foxes</i> (1939), <i>The Skin of Our Teeth</i> (1942), and <i>Lifeboat</i> (1944).",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Gleason, Jackie",
+      "Caesar, Sid",
+      "Burns, George",
+      "Berle, Milton"
+    ],
+    "question": "This television comedian played dramatic roles in such motion pictures as <i>The Hustler</i> (1961) and <i>Requiem for a Heavyweight</i> (1962).",
+    "category": "Playwrights & Dramatists",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Impressionism",
+      "Constructivism",
+      "Expressionism",
+      "Modernism"
+    ],
+    "question": "Movement in painting and music that developed in late 19th-century France in reaction to the formalism and sentimentality that characterized academic art and much 18th- and early-19th-century music.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Vaudeville",
+      "Burlesque",
+      "Pantomime",
+      "Melodrama"
+    ],
+    "question": "The name of this theatrical form dates from the 15th century and is supposed to refer to the valley of Vire (Middle French 'vau de Vire') in France where satirical or humorous drinking songs were reputed to originate.",
+    "category": "Performing Arts",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Babbitt, Milton Byron",
+      "Glass, Philip",
+      "Copland, Aaron",
+      "Scarlatti, Alessandro"
+    ],
+    "question": "American composer and leading proponent of total serialization (the use of predetermined series of pitches, rhythms, durations, tone colors, and other musical elements) as the basis for musical composition.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Griffith, D. W.",
+      "De Mille, Cecil B.",
+      "Stroheim, Erich von",
+      "Flaherty, Robert Joseph"
+    ],
+    "question": "What early American motion-picture director is best known for producing long, epic films such as <i>Birth of a Nation</i> and <i>Intolerance</i>?",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Churchill, Caryl",
+      "Glaspell, Susan",
+      "Jewett, Sarah Orne",
+      "Stein, Gertrude"
+    ],
+    "question": "British playwright whose political perspective and experimentation with theatrical forms made her one of the most important contemporary female playwrights in Great Britain.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Bernhardt, Sarah",
+      "Campbell, Mrs. Patrick",
+      "Rachel",
+      "Terry, Dame Ellen Alicia"
+    ],
+    "question": "Legendary french actor (1844-1923) whose celebrated roles include <i>La dame aux camlias</i> by Alexandre Dumas fils and <i>La Tosca</i> by Victorien Sardou.",
+    "category": "Actors & Performers",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Dryden, John",
+      "Shakespeare, William",
+      "Marlowe, Christopher",
+      "Shaw, George Bernard"
+    ],
+    "question": "One of his later tragedies in blank verse, <i>All for Love; or, the World Well Lost</i> (1678) is considered his greatest play and one of the masterpieces of Restoration tragedy.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Purcell, Henry",
+      "Vaughan Williams, Ralph",
+      "Handel, George Frideric",
+      "Massenet, Jules Émile Frédéric"
+    ],
+    "question": "One of England's greatest native composers (1659-95) , whose compositions combined elements of the French and Italian baroque and traditional English musical forms.",
+    "category": "Opera & Musical Theater",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Brecht, Bertolt",
+      "Dürrenmatt, Friedrich",
+      "Goethe, Johann Wolfgang von",
+      "Kotzebue, August Friedrich Ferdinand von"
+    ],
+    "question": "In 1948 this influential playwright returned to Germany, settled in East Berlin, and founded his own theatrical company, the Berliner Ensemble.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Molière",
+      "Dante Alighieri",
+      "Homer"
+    ],
+    "question": "The author of Hamlet.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Sophocles",
+      "Shakespeare, William",
+      "Ibsen, Henrik Johan",
+      "Freud, Sigmund"
+    ],
+    "question": "Author of Oedipus Rex.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Middleton, Thomas",
+      "Jonson, Ben",
+      "Marlowe, Christopher"
+    ],
+    "question": "The author of Romeo and Juliet.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Molière",
+      "Racine, Jean Baptiste",
+      "Jonson, Ben"
+    ],
+    "question": "The author of King Lear.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Wilder, Thornton Niven",
+      "Hellman, Lillian",
+      "Glaspell, Susan",
+      "Williams, Tennessee"
+    ],
+    "question": "Author of Our Town.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "La Scala",
+      "Globe Theatre",
+      "Comédie-Française",
+      "Sadler's Wells"
+    ],
+    "question": "Opera house in Milan, Italy.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Racine, Jean Baptiste",
+      "Petrarch",
+      "Shaw, George Bernard"
+    ],
+    "question": "The author of Othello.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Cervantes Saavedra, Miguel de",
+      "Jonson, Ben",
+      "Wilde, Oscar"
+    ],
+    "question": "The author of the play Coriolanus.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Memling, Hans",
+      "Dürer, Albrecht",
+      "Albers, Josef",
+      "Brueghel, Jan"
+    ],
+    "question": "15th century Flemish painter of religious works and portraits.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Goethe, Johann Wolfgang von",
+      "Brecht, Bertolt",
+      "Shakespeare, William",
+      "Hauptmann, Gerhart"
+    ],
+    "question": "Author of the epic poetic drama, <i>Faust</i>.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Aeschylus",
+      "Sophocles",
+      "Euripides",
+      "Aristophanes"
+    ],
+    "question": "Dramatist known as the 'father of Greek tragedy.'",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Jarry, Alfred",
+      "Breton, André",
+      "Apollinaire, Guillaume",
+      "Anouilh, Jean"
+    ],
+    "question": "Author of the early absurdist play <i>Ubu Roi</i> (1896).",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Goldoni, Carlo",
+      "Quasimodo, Salvatore",
+      "Machiavelli, Niccol",
+      "Albee, Edward Franklin"
+    ],
+    "question": "Italian playwright, considered the founder of modern Italian comedy.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Hansberry, Lorraine Vivian",
+      "Morrison, Toni",
+      "Brooks, Gwendolyn Elizabeth",
+      "Hurston, Zora Neale"
+    ],
+    "question": "Author of the play A Raisin in the Sun (1959), which was made into a motion picture in 1961.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Shaw, George Bernard",
+      "Sidney, Sir Philip",
+      "Wilde, Oscar"
+    ],
+    "question": "The author of A Midsummer Night's Dream.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Miller, Arthur",
+      "Williams, Tennessee",
+      "O'Neill, Eugene Gladstone",
+      "Mamet, David"
+    ],
+    "question": "Author of the play, <i>Death of a Salesman</i>.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Poquelin, Jean Baptiste",
+      "Arouet, François Marie",
+      "Marlowe, Christopher",
+      "Voltaire"
+    ],
+    "question": "The actual name of the 17th-century French dramatist Molière.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Minnesinger",
+      "Cavalier Poets",
+      "Bards",
+      "Troubadours and Trouvres"
+    ],
+    "question": "German lyric poet-composers of the 12th to the 14th century.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Brecht, Bertolt",
+      "Shaw, George Bernard",
+      "Shakespeare, William",
+      "Dryden, John"
+    ],
+    "question": "Author of the play Mother Courage and Her Children.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Schiller, (Johann Christoph) Friedrich von",
+      "Büchner, (Karl) Georg",
+      "Goethe, Johann Wolfgang von",
+      "Shakespeare, William"
+    ],
+    "question": "Author of the verse drama, <i>William Tell</i> (1804).",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Wilder, Thornton Niven",
+      "Hellman, Lillian",
+      "Anderson, Maxwell",
+      "Williams, Tennessee"
+    ],
+    "question": "Author of the play, <i>The Skin of Our Teeth</i>.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Aeschylus",
+      "Nero",
+      "Molière",
+      "Pindar"
+    ],
+    "question": "Greek dramatist, the earliest of the great tragic poets of Athens.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Terence",
+      "Pindar",
+      "Aeschylus",
+      "Homer"
+    ],
+    "question": "Roman playwright whose plays were forerunners of the modern comedy of manners.",
+    "difficulty": 22.1
+  },
+  {
+    "answers": [
+      "Amphitheater",
+      "Catacombs",
+      "Erechtheum",
+      "Obelisk"
+    ],
+    "question": "In architecture, spacious open-air building generally oval in form.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Lessing, Gotthold Ephraim",
+      "Bunyan, John",
+      "Niemller, Martin",
+      "Gorkiy, Maksim"
+    ],
+    "question": "German dramatist and critic who was one of the leaders of the Enlightenment.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Congreve, William",
+      "Marlowe, Christopher",
+      "Spenser, Edmund",
+      "Pope, Alexander"
+    ],
+    "question": "English dramatist and poet, who wrote comedy during the Restoration period.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Cervantes Saavedra, Miguel de",
+      "Jonson, Ben",
+      "Wilde, Oscar"
+    ],
+    "question": "Many in the Western world believe him to be the greatest dramatist ever.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Kalidasa",
+      "Omar Khayyam",
+      "Shiva",
+      "Radhakrishnan, Sarvepalli"
+    ],
+    "question": "Indian court poet and dramatist, known for his three surviving verse dramas of romantic love.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Beckett, Samuel",
+      "Oates, Joyce Carol",
+      "Ayckbourn, Alan",
+      "Wilson, August"
+    ],
+    "question": "Irish-born poet, novelist, and leading dramatist of the theater of the absurd.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Capa, Robert",
+      "Evans, Walker",
+      "Stieglitz, Alfred",
+      "Atget, (Jean) Eugène Auguste"
+    ],
+    "question": "Hungarian-born American photographer, outstanding for his war photographs.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Wilson, August",
+      "Baraka, Amiri",
+      "Hughes, (James Mercer) Langston",
+      "Baldwin, James Arthur"
+    ],
+    "question": "American playwright, known for plays that portray the lives of black Americans.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Brecht, Bertolt",
+      "Shaw, George Bernard",
+      "Lloyd Webber, Sir Andrew",
+      "Gershwin, George"
+    ],
+    "question": "The author of the opera <i>Rise and Fall of the City of Mahagonny</i> which featured music by Kurt Weill.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Pulitzer Prizes",
+      "Presidential Medal of Freedom",
+      "Nobel Prizes",
+      "Academy Awards"
+    ],
+    "question": "Series of 21 awards for outstanding achievements in drama, letters, music, and journalism.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Vondel, Joost van den",
+      "Gryphius, Andreas",
+      "Rattigan, Sir Terence Mervyn",
+      "Kleist, (Bernd) Heinrich Wilhelm von"
+    ],
+    "question": "Playwright, who was also the outstanding poet of Holland's golden age.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Dryden, John",
+      "Shakespeare, William",
+      "Shaw, George Bernard",
+      "Wilde, Oscar"
+    ],
+    "question": "Author of the bawdy restoration comedy, <i>Marriage à la Mode</i> (1672).",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Corneille, Pierre",
+      "Guillaume de Lorris",
+      "Lucan",
+      "France, Anatole"
+    ],
+    "question": "French dramatist whose plays are masterpieces of classical French literature.",
+    "difficulty": 28.65
+  },
+  {
+    "answers": [
+      "Sophocles",
+      "Homer",
+      "Horace",
+      "Ibycus"
+    ],
+    "question": "One of the three great tragic dramatists of ancient Athens, the other two being Aeschylus and Euripides.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Ionesco, Eugène",
+      "Beckett, Samuel",
+      "Giraudoux, (Hyppolyte) Jean",
+      "Pérez Galdós, Benito"
+    ],
+    "question": "Romanian-born French playwright, one of the chief exponents of the movement known as theater of the absurd.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Klopstock, Friedrich Gottlieb",
+      "Hauptmann, Gerhart",
+      "Nietzsche, Friedrich",
+      "Grass, Günter Wilhelm"
+    ],
+    "question": "Poet and dramatist, who was one of the earliest important writers of the German classical period.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Euripides",
+      "Aristophanes",
+      "Pericles",
+      "Callimachus"
+    ],
+    "question": "Greek dramatist, with Aeschylus and Sophocles, the third of the great Attic tragic poets.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "<i>A Comedy of Errors</i>",
+      "<i>A Midsummer Night's Dream</i>",
+      "<i>Love's Labour's Lost</i>",
+      "<i>The Merchant of Venice</i>"
+    ],
+    "question": "This play by William Shakespeare concerns two sets of twins involved in romance and war.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "<i>The Tempest</i>",
+      "<i>King Lear</i>",
+      "<i>All's Well That Ends Well</i>",
+      "<i>Love's Labour's Lost</i>"
+    ],
+    "question": "In this play by William Shakespeare, a duke, deprived is banished to an island, where he employs magical powers.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Alfieri, Vittorio, Conte",
+      "Len, Luis Ponce de",
+      "Belasco, David",
+      "Malherbe, François de"
+    ],
+    "question": "Italian dramatist and poet, who was one of the leading literary and patriotic figures of modern Italian history.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Beckett, Samuel",
+      "Osborne, John",
+      "Behan, Brendan",
+      "Joyce, James"
+    ],
+    "question": "This modern Irish dramatist is best known for his play <i>Waiting for Godot</i>.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Macbeth",
+      "Othello",
+      "Hamlet",
+      "Julius Caesar"
+    ],
+    "question": "In this play set in Scotland, Shakespeare depicts the tragedy of a man who succumbs to ambition.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "O'Neill, Eugene Gladstone",
+      "Albee, Edward Franklin",
+      "Hughes, (James Mercer) Langston",
+      "Williams, Tennessee"
+    ],
+    "question": "The author of the semi-autobiographical play, <i>Long Day's Journey into Night</i>.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Farce",
+      "Satire",
+      "Paean",
+      "Elegy"
+    ],
+    "question": "Form of drama intended to excite laughter through exaggeration and extravagance rather than by realistic imitation of life.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Strindberg, (Johan) August",
+      "Wedekind, Frank",
+      "Genet, Jean",
+      "Moravia, Alberto"
+    ],
+    "question": "This Swedish dramatist is often considered the greatest figure in Swedish literature.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Chekhov, Anton Pavlovich",
+      "Ibsen, Henrik Johan",
+      "Tolstoy, Leo",
+      "Stanislavski, Konstantin"
+    ],
+    "question": "This Russian dramatist and short-story writer is one of the foremost figures in Russian literature.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Mask",
+      "Crown",
+      "Hat",
+      "Tattooing"
+    ],
+    "question": "Face covering that, in ritual and theater, disguises the wearer and usually communicates an alternate identity.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Kleist, (Bernd) Heinrich Wilhelm von",
+      "Herder, Johann Gottfried von",
+      "Schlegel, August Wilhelm von",
+      "Grass, Günter Wilhelm"
+    ],
+    "question": "German dramatist, known for his depiction of humanity's torment by incompatible demands.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Brecht, Bertolt",
+      "Shakespeare, William",
+      "Shaw, George Bernard",
+      "Belasco, David"
+    ],
+    "question": "This Marxist playwright's epic theater technique prevents the spectators from identifying with the characters on stage.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Synge, John Millington",
+      "Colum, Padraic",
+      "Yeats, William Butler",
+      "Hyde, Douglas"
+    ],
+    "question": "A leader in the Irish Renaissance, who wrote <i>The Playboy of the Western World</i>.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Donne, John",
+      "Shaw, George Bernard",
+      "Wilde, Oscar"
+    ],
+    "question": "This famous poet left the English town of Stratford-upon-Avon to become a successful playwright in London.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Isherwood, Christopher",
+      "Bellow, Saul",
+      "Vonnegut, Kurt, Jr",
+      "Brecht, Bertolt"
+    ],
+    "question": "Author of <i>The Berlin Stories</i> (1946), the basis for the broadway musical <i>Cabaret</i> (1966).",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Schiller, (Johann Christoph) Friedrich von",
+      "Büchner, (Karl) Georg",
+      "Brecht, Bertolt",
+      "Goethe, Johann Wolfgang von"
+    ],
+    "question": "As a student, this famous German dramatist wrote poetry and finished his first play, <i>The Robbers</i> (1781).",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Shaw, George Bernard",
+      "Jonson, Ben",
+      "O'Neill, Eugene",
+      "Marlowe, Christopher"
+    ],
+    "question": "Pygmalion (1914), the comic masterpiece of this British playwright, later was adapted to become the musical My Fair Lady.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Aristophanes",
+      "Cleon",
+      "Pindar",
+      "Solon"
+    ],
+    "question": "This Athenian playwright is considered one of the greatest writers of comedy in literary history.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "<i>Hamlet</i>",
+      "<i>Macbeth</i>",
+      "<i>Othello</i>",
+      "<i>Julius Caesar</i>"
+    ],
+    "question": "This tragedy, perhaps Shakespeare's most famous play, concerns the indecision of a prince to revenge the murder of his father.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Middleton, Thomas",
+      "Jonson, Ben",
+      "Marlowe, Christopher"
+    ],
+    "question": "He shared in the profits of the acting company called The Chamberlain's Men, later to become known as The King's Men.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Reinhardt, Max",
+      "Lang, Fritz",
+      "Herzog, Werner",
+      "Lubitsch, Ernst"
+    ],
+    "question": "This innovative Austrian-American theater director debuted his famous production of The Miracle in 1911.",
+    "difficulty": 32.83
+  },
+  {
+    "answers": [
+      "Odets, Clifford",
+      "Albee, Edward Franklin",
+      "Mamet, David",
+      "Inge, William Motter"
+    ],
+    "question": "American playwright, regarded as the most gifted of the American social-protest playwrights of the 1930s.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Antony and Cleopatra",
+      "Romeo and Juliet",
+      "Othello",
+      "Julius Caesar"
+    ],
+    "question": "This play by William Shakespeare is concerned with the passion of a middle-aged Roman general for an Egyptian queen.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Molière",
+      "Racine, Jean Baptiste",
+      "Jonson, Ben"
+    ],
+    "question": "The author of the romantic tragicomedies Pericles, Prince of Tyre and Cymbeline.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Luce, Clare Boothe",
+      "O'Connor, Sandra Day",
+      "Temple, Shirley",
+      "Jordan, Barbara Charline"
+    ],
+    "question": "American foreign correspondent, legislator, diplomat, and author of the play, <i>The Women</i>.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Hugo, Victor Marie",
+      "France, Anatole",
+      "Rilke, Rainer Maria",
+      "Sartre, Jean Paul"
+    ],
+    "question": "French poet, novelist, and playwright whose voluminous works provided the single greatest impetus to the romantic movement.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shaw, George Bernard",
+      "Joyce, James Augustine Aloysius",
+      "Ibsen, Henrik Johan",
+      "Williams, Tennessee"
+    ],
+    "question": "This Irish-born writer is considered the most significant British dramatist since Shakespeare.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Romeo and Juliet",
+      "Othello",
+      "Antony and Cleopatra",
+      "Love's Labour's Lost"
+    ],
+    "question": "This play by William Shakespeare dramatizes the fate of two lovers victimized by the feuds and misunderstandings of their elders.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Pinter, Harold",
+      "Vondel, Joost van den",
+      "Mamet, David"
+    ],
+    "question": "Toward the end of his 16th-century career, he created several plays that, through the intervention of magic, art, compassion, or grace, often suggest redemptive hope for the human condition.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Le bourgeois gentilhomme",
+      "Le Misanthrope",
+      "No Exit",
+      "Phedre"
+    ],
+    "question": "A famous comedy by the 17th-century French dramatist Molière, about a cloth merchant with aspirations to becoming a gentleman.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Molière",
+      "Terence",
+      "Sartre, Jean Paul",
+      "Perse, Saint-John"
+    ],
+    "question": "Pseudonym of French dramatist Jean Baptiste Poquelin, admired for his superb comedies.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "John Donne",
+      "William Tyndale"
+    ],
+    "question": "The Elizabethan playwright who authored such works as Tamburlaine, part 1; and The Jew of Malta.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Williams, Tennessee",
+      "Glaspell, Susan",
+      "Shepard, Sam",
+      "O'Neill, Eugene Gladstone"
+    ],
+    "question": "American playwright and two-time Pulitzer Prize winner whose works are set largely in the American South.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Goethe, Johann Wolfgang von",
+      "Shaw, George Bernard",
+      "Wilde, Oscar"
+    ],
+    "question": "His plays were frequently performed at the court of Queen Elizabeth I and later at the court of King James I.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Ibsen, Henrik Johan",
+      "Shaw, George Bernard",
+      "Strindberg, (Johan) August",
+      "Bergman, Ingmar"
+    ],
+    "question": "Norwegian dramatist whose plays dealing realistically with psychological and social problems won him recognition as the father of modern drama.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Werfel, Franz",
+      "Brecht, Bertolt",
+      "Mann, Thomas",
+      "Pontoppidan, Henrik"
+    ],
+    "question": "Austrian novelist, poet, and dramatist, whose plays include Juarez and Maximilian, and Jacobowsky und der Oberst.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Middleton, Thomas",
+      "Cervantes Saavedra, Miguel de",
+      "Marlowe, Christopher"
+    ],
+    "question": "Among his earliest dramatic works are the series of plays depicting the English civil strife of the 15th century that lead to the founding of the Tudor dynasty.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "A Midsummer Night's Dream",
+      "All's Well That Ends Well",
+      "Love's Labour's Lost",
+      "The Merchant of Venice"
+    ],
+    "question": "This play by William Shakespeare features the characters of Puck, King Oberon, and Queen Titania.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Dryden, John",
+      "Shakespeare, William",
+      "Racine, Jean Baptiste",
+      "Petrarch"
+    ],
+    "question": "He wrote 'Alexander's Feast' (1697) and 'A Song for Saint Cecilia's Day' (1687) to music by Henry Purcell for a London musical society.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Burns, Robert",
+      "Frost, Robert Lee",
+      "Longfellow, Henry Wadsworth",
+      "Joyce, James Augustine Aloysius"
+    ],
+    "question": "Scottish poet and writer of traditional Scottish folk songs whose works are known and loved wherever the English language is read.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Simon, (Marvin) Neil",
+      "Miller, Arthur",
+      "Inge, William Motter",
+      "Hart, Lorenz"
+    ],
+    "question": "This American playwright, winner of two Tony Awards and a Pulitzer Prize started in the mailroom at Warner Brothers.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Yeats, William Butler",
+      "Doyle, Roddy",
+      "Whitman, Walt",
+      "Faulkner, William"
+    ],
+    "question": "Irish poet, dramatist, and Nobel laureate, who was a leader of the Irish Renaissance and one of the foremost writers of the 20th century.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Schiller, (Johann Christoph) Friedrich von",
+      "Hugo, Victor Marie",
+      "Ibsen, Henrik Johan",
+      "Thomas, Dylan Marlais"
+    ],
+    "question": "German poet, dramatist, philosopher, and historian, who is regarded as the greatest dramatist in the history of the German theater.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Walcott, Derek",
+      "Guillaume de Lorris",
+      "Baldwin, James Arthur",
+      "Hood, Thomas"
+    ],
+    "question": "West Indian poet, playwright, and Nobel laureate, who is known for his vivid portrayal of Caribbean culture and his inventive use of language.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Othello",
+      "Love's Labour's Lost",
+      "Antony and Cleopatra",
+      "Hamlet"
+    ],
+    "question": "This play by William Shakespeare portrays the jealousy of the protagonist, a Moor serving as a general in the Venetian army.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Brecht, Bertolt",
+      "Mann, Thomas",
+      "Weill, Kurt",
+      "Gay, John"
+    ],
+    "question": "German dramatist, director, and poet whose disengaged treatment of social themes and experiments greatly influenced modern drama and theatrical production.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Racine, Jean Baptiste",
+      "Shakespeare, William",
+      "Villon, François",
+      "Derrida, Jacques"
+    ],
+    "question": "Seventeenth-century dramatist, considered the greatest writer of French classical tragedy, whose works include Phedre and Iphigenie en Aulide.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "<i>Pericles, Prince of Tyre</i>",
+      "<i>Titus Andronicus</i>",
+      "<i>Coriolanus</i>",
+      "<i>Timon of Athens</i>"
+    ],
+    "question": "This romantic tragicomedy by William Shakespeare concerns the painful loss of the title character's wife and the persecution of his daughter.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Blank Verse",
+      "Couplet",
+      "Saga",
+      "Lyric"
+    ],
+    "question": "Unrhymed poetry, typically in iambic pentameter, that has been the dominant verse form of English dramatic and narrative poetry since the mid-16th century.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Shakespeare, William",
+      "Middleton, Thomas",
+      "Jonson, Ben",
+      "Marlowe, Christopher"
+    ],
+    "question": "Some have suggested that his plays were written by someone more educated, perhaps statesman and philosopher Sir Francis Bacon or the Earl of Southampton.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Hofmannsthal, Hugo von",
+      "Dürrenmatt, Friedrich",
+      "Grillparzer, Franz",
+      "Werfel, Franz"
+    ],
+    "question": "This Austrian poet, essayist and dramatist collaborated with the composer Richard Strauss on six operas including <i>Der Rosenkavalier</i> (1911).",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "<i>Nineteen Eighty-four</i>",
+      "<i>Brave New World</i>",
+      "<i>Where Angels Fear To Tread</i>",
+      "<i>Finnegan's Wake</i>"
+    ],
+    "question": "This novel by British writer George Orwell envisions a totalitarian future where life is under the constant surveillance of 'Big Brother'.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Paris",
+      "Vienna",
+      "Berlin",
+      "Rome"
+    ],
+    "question": "The Opéra de la Bastille, Theatre de la Comédie-Française, and the Odéon are among the theaters located in this European city.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Hofmannsthal, Hugo von",
+      "Metastasio, Pietro",
+      "Gluck, Christoph Willibald",
+      "Heine, Heinrich"
+    ],
+    "question": "Austrian poet, playwright, and essayist, best known for his lyrical poetry and for his collaboration on librettos, including Der Rosenkavalier.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Góngora y Argote, Luis de",
+      "Ortega y Gasset, Jose",
+      "Paz, Octavio",
+      "Greco, El"
+    ],
+    "question": "Spanish lyric poet and dramatist, whose style of exaggerated elegance came to be known as culteranismo, the equivalent of euphuism in English Renaissance poetry. ",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Apollinaire, Guillaume",
+      "Breton, André",
+      "Jarry, Alfred",
+      "Dal, Salvador"
+    ],
+    "question": "He is credited with the first use of the term surrealist, which appeared in his introduction to the drama <i>Les mamelles de Tirsias</i> (The Breasts of Tiresias).",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "Glaspell, Susan",
+      "Behn, Aphra",
+      "Mallarm, Stphane",
+      "Spark, Muriel"
+    ],
+    "question": "Pulitzer Prize-winning American playwright, fiction writer, and co-founder of the influential drama company the Provincetown Players.",
+    "difficulty": 39.36
+  },
+  {
+    "answers": [
+      "<i>The Merchant of Venice</i>",
+      "<i>A Midsummer Night's Dream</i>",
+      "<i>All's Well That Ends Well</i>",
+      "<i>Love's Labour's Lost</i>"
+    ],
+    "question": "In this play, the Renaissance motifs of masculine friendship and romantic love are portrayed in opposition to the bitter inhumanity of a usurer named Shylock.",
+    "difficulty": 39.36
+  }
+]

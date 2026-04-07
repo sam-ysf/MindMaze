@@ -1,0 +1,5149 @@
+[
+  {
+    "answers": [
+      "Croquet",
+      "Cricket",
+      "Lawn Bowls",
+      "Curling"
+    ],
+    "question": "What is the name of the lawn game in which players hit wooden balls through a series of hoops?",
+    "category": "Lawn & Outdoor Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Twenty-one",
+      "Bingo",
+      "Solitaire",
+      "Cribbage"
+    ],
+    "question": "Another name for the card game called blackjack is:",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Miniature Pinscher",
+      "Newfoundland",
+      "Great Dane",
+      "Doberman Pinscher"
+    ],
+    "question": "Breed of toy dog.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Beagle",
+      "German Shepherd Dog",
+      "Borzoi",
+      "Great Dane"
+    ],
+    "question": "Breed of small dog of unknown origin.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Wickets",
+      "Bases",
+      "Tees",
+      "Birdies"
+    ],
+    "question": "In croquet, what is the name of the hoops through which players hit wooden balls?",
+    "category": "Lawn & Outdoor Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Chow Chow",
+      "Bulldog",
+      "Keeshond",
+      "Samoyed"
+    ],
+    "question": "Breed of dog that is of ancient Chinese origin.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Chess",
+      "Cribbage",
+      "Checkers",
+      "MahJong"
+    ],
+    "question": "'Checkmate' ends this board game:",
+    "category": "Board & Table Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Chemin de fer",
+      "Pinochle",
+      "Bridge",
+      "Canasta"
+    ],
+    "question": "A variety of the French card game baccarat:",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Affenpinscher",
+      "Briard",
+      "Siberian Husky",
+      "Manx"
+    ],
+    "question": "Small, sturdy dog of the toy breed classification.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Strike",
+      "Home run",
+      "Spare",
+      "Checkmate"
+    ],
+    "question": "What is it called when a bowler knocks down all the pins with one ball?",
+    "category": "Bowling",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Saluki",
+      "Shih Tzu",
+      "Shetland Sheepdog",
+      "Lhasa Apso"
+    ],
+    "question": "Breed of hound for which records date from 329 B.C.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Lawn Bowls",
+      "Marbles",
+      "Shuffleboard",
+      "Curling"
+    ],
+    "question": "Outdoor game in which players roll balls, called bowls or woods, over a flat lawn.",
+    "category": "Lawn & Outdoor Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Douglas, John, Marquess of Queensberry",
+      "Seaver, Tom",
+      "Tyson, Mike",
+      "Marciano, Rocky"
+    ],
+    "question": "Originator of the modern rules of boxing.",
+    "category": "Martial Arts & Combat Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Whist",
+      "Backgammon",
+      "Chess",
+      "Solitaire"
+    ],
+    "question": "Bridge originally developed from this card game:",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Fencing",
+      "Archery",
+      "Judo",
+      "Karate"
+    ],
+    "question": "Art of attack and defense with a sword or similar weapon.",
+    "category": "Other",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bridge",
+      "Euchre",
+      "Solitaire",
+      "Bingo"
+    ],
+    "question": "One of several related card games played by four people with a deck of 52 cards.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Canasta",
+      "Charades",
+      "Bridge",
+      "Pinochle"
+    ],
+    "question": "Variant of rummy played with a pack made up of two regular 52-card decks and 4 jokers.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Billiards",
+      "Croquet",
+      "Table Tennis",
+      "Badminton"
+    ],
+    "question": "This game is played on a table using colored balls and cue sticks:",
+    "category": "Billiards & Cue Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Curling",
+      "Ice Hockey",
+      "Croquet",
+      "Cricket"
+    ],
+    "question": "The object of this game played on ice is to sweep a heavy stone toward a target:",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Rowing",
+      "Sailing",
+      "Yachting",
+      "Boat Racing"
+    ],
+    "question": "Method of moving a boat through water by using one or more oars.",
+    "category": "Water Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Motorboat Racing",
+      "Sailing",
+      "Rowing",
+      "Surfing"
+    ],
+    "question": "Crafts in this sport can reach speeds over 200 mph (320 km/h)",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Greyhound",
+      "Bloodhound",
+      "Norwich Terrier",
+      "Pomeranian"
+    ],
+    "question": "Breed of hunting dog noted for its speed and keen sight.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Cricket",
+      "Field Hockey",
+      "Baseball",
+      "Badminton"
+    ],
+    "question": "Outdoor game played with a ball and bat between two teams of 11 players each.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Racquets",
+      "Tennis",
+      "Badminton",
+      "Jai Alai"
+    ],
+    "question": "Indoor court game played with a racquet and a hard ball on a black cement court.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bowling",
+      "Croquet",
+      "Badminton",
+      "Cricket"
+    ],
+    "question": "In this game, players roll balls along an alley to knock down pins:",
+    "category": "Bowling",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Cribbage",
+      "Checkers",
+      "Poker",
+      "Chess"
+    ],
+    "question": "Score for this card game is kept on a wooden board into which pegs are inserted:",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Soccer",
+      "Hockey",
+      "Volleyball",
+      "Lacrosse"
+    ],
+    "question": "Game played by two teams in which players drive the ball primarily with their feet.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Trick",
+      "Checkmate",
+      "Home run",
+      "Spare"
+    ],
+    "question": "In the game of bridge, four players each lay down a card in one round called a:",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "English Setter",
+      "German Shepherd Dog",
+      "Abyssinian",
+      "Akita"
+    ],
+    "question": "Breed of dog originally bred for bird hunting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Pinochle",
+      "Poker",
+      "Solitaire",
+      "Twenty-One"
+    ],
+    "question": "Card game played by two, three, or four persons with a special pack of 48 cards.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Rodeo",
+      "Polo",
+      "Kentucky Derby",
+      "Dog Racing"
+    ],
+    "question": "Competitive sport in which riders display their skills by riding and roping cattle and horses.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bloodhound",
+      "Bouvier des Flandres",
+      "Chesapeake Bay Retriever",
+      "Dachshund"
+    ],
+    "question": "Breed of hunting dog that is the oldest known of the type of hound that hunts by scent alone.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Fitzsimmons, Bob",
+      "Johnson, Jack",
+      "Corbett, James J",
+      "Ali, Muhammad"
+    ],
+    "question": "British-born prizefighter.",
+    "category": "Other",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Dachshund",
+      "Dandie Dinmont Terrier",
+      "Doberman Pinscher",
+      "Foxhound"
+    ],
+    "question": "Breed of 'badger dog' having short legs, a long body, and long ears.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Brussels Griffon",
+      "Basenji",
+      "Cairn Terrier",
+      "Great Pyrenees"
+    ],
+    "question": "Breed of toy dog named for a mythological animal which it is said to resemble.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Connolly, Maureen",
+      "Graf, Steffi",
+      "Navratilova, Martina",
+      "King, Billie Jean"
+    ],
+    "question": "American tennis player who was the first woman to win the grand slam of tennis.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Budge, Don",
+      "King, Billie Jean",
+      "Lendl, Ivan",
+      "Becker, Boris"
+    ],
+    "question": "American tennis player who in 1938 became the first player to achieve a tennis grand slam.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Snooker",
+      "Pool",
+      "Croquet",
+      "Cricket"
+    ],
+    "question": "The most popular form of billiards in England:",
+    "category": "Billiards & Cue Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Vizsla",
+      "Schipperke",
+      "Saluki",
+      "Pudelpointer"
+    ],
+    "question": "Breed of sporting dog known in Hungary centuries ago.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bowling",
+      "Croquet",
+      "Badminton",
+      "Cribbage"
+    ],
+    "question": "Three hundred is the highest possible score a player can achieve in this game:",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Chess",
+      "Checkers",
+      "Cribbage",
+      "MahJong"
+    ],
+    "question": "The object of this popular board game is to attack the opponent's king:",
+    "category": "Board & Table Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Crossword",
+      "Pictogram",
+      "Sonnet",
+      "Riddle"
+    ],
+    "question": "This puzzle uses clues to fill in words on a diagram of white and black squares:",
+    "category": "Puzzles & Word Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Cricket",
+      "Baseball",
+      "Rugby",
+      "Soccer"
+    ],
+    "question": "This popular outdoor game is played with a ball and bat and uses 11 players:",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Baseball",
+      "Volleyball",
+      "Softball",
+      "Tennis"
+    ],
+    "question": "Competitive game of skill played with a hard ball and bat between two teams of nine players each.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Checkers",
+      "Chess",
+      "Dominoes",
+      "Bingo"
+    ],
+    "question": "Family of games played by two people on a checkered board.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Volleyball",
+      "Golf",
+      "Basketball",
+      "Soccer"
+    ],
+    "question": "Popular team sport played by hitting an inflated ball back and forth over a high net.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Cribbage",
+      "Curling",
+      "Solitaire",
+      "Poker"
+    ],
+    "question": "Card game played with a regular 52-card deck and a pegboard to keep score.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Baccarat",
+      "Rummy",
+      "Solitaire",
+      "Euchre"
+    ],
+    "question": "French card game dating from the end of the 15th century.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Ashe, Arthur Robert, Jr",
+      "Tilden, Bill",
+      "Jones, Bobby",
+      "Becker, Boris"
+    ],
+    "question": "American tennis player who was the first black player to win a major men's tennis tournament.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Whist",
+      "Tarot",
+      "Roulette",
+      "Keno"
+    ],
+    "question": "Game of cards played by two sets of partners using a full pack of 52 cards.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Botvinnik, Mikhail Moiseyevich",
+      "Hoyle, Edmond",
+      "Ceulemans, Raymond",
+      "Fischer, Bobby"
+    ],
+    "question": "Russian chess player who was born in Saint Petersburg.",
+    "category": "Board & Table Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Kelpie",
+      "Shetland Sheepdog",
+      "Dingo",
+      "Staffordshire Bull Terrier"
+    ],
+    "question": "Breed of dog developed in Australia for herding sheep.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Foxhound",
+      "Pharaoh Hound",
+      "Retriever",
+      "Pointer"
+    ],
+    "question": "Breed of hound used chiefly in the sport of fox hunting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Solitaire",
+      "Cribbage",
+      "Fan Tan",
+      "Canasta"
+    ],
+    "question": "American term applied to any of the various games of cards that can be played by one person.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "American Wirehair",
+      "Burmese",
+      "Manx",
+      "Siamese"
+    ],
+    "question": "Rare breed of cat whose coat looks like steel wool and whose whiskers even curl at odd angles.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Blackjack",
+      "Baccarat",
+      "Pinochle",
+      "Bridge"
+    ],
+    "question": "In this card game, the object is to draw cards totaling 21:",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Poker",
+      "Solitaire",
+      "Bridge",
+      "Pinochle"
+    ],
+    "question": "Any of several card games in which players bet on the value of their hands for the purpose of winning the pool (known as the pot).",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Roller Skating",
+      "Ice Skating",
+      "Hockey",
+      "Curling"
+    ],
+    "question": "Recreation and sport of gliding over a surface on skates that have wheels built onto a special boot.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Weightlifting",
+      "Track and Field",
+      "Boxing",
+      "Wrestling"
+    ],
+    "question": "Sport whose categories include the snatch and the clean and jerk.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Irish Wolfhound",
+      "Kerry Blue Terrier",
+      "Dachshund",
+      "Beagle"
+    ],
+    "question": "Ancient Irish breed of hunting dog, the tallest dog known.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Pekingese",
+      "English Toy Spaniel",
+      "Griffon",
+      "Pomeranian"
+    ],
+    "question": "Breed of toy dog, which originated in China about 8th century ad.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Whippet",
+      "Spitz",
+      "Irish Wolfhound",
+      "Saint Bernard"
+    ],
+    "question": "Breed of hound or sporting dog that hunts by sight, not by scent.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Spitz",
+      "Scottish Terrier",
+      "Pudelpointer",
+      "Doberman Pinscher"
+    ],
+    "question": "Bushy-haired dog having a small head with pointed snout and small, upright ears.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Barber, Red",
+      "Namath, Joe",
+      "Cronkite, Walter",
+      "Brown, Jim"
+    ],
+    "question": "American baseball radio broadcaster for more than 30 years.",
+    "category": "Team Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Welsh Corgi",
+      "Welsh Terrier",
+      "Staffordshire Bull Terrier",
+      "Shetland Sheepdog"
+    ],
+    "question": "Generic name for two breeds of working dogs bred for centuries in Wales.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Curling",
+      "Shuffleboard",
+      "Lawn Bowls",
+      "Baccarat"
+    ],
+    "question": "Game played on ice in which players slide circular, handle-topped granite stones toward a target.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Horseshoe Pitching",
+      "Lawn Bowls",
+      "Horse Racing",
+      "Canasta"
+    ],
+    "question": "An outdoor game, close cousin to quoits, which may have been invented by the Romans.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Graf, Steffi",
+      "King, Billie Jean",
+      "Gibson, Althea",
+      "Evert, Chris"
+    ],
+    "question": "German professional tennis player  who in 1988 became only the fifth player to win the grand slam of tennis.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Black and Tan Coonhound",
+      "Boston Terrier",
+      "Burmese",
+      "Japanese Chin"
+    ],
+    "question": "Breed of hound that trails small game entirely by scent.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bubka, Sergei",
+      "Ederle, Gertrude Caroline",
+      "Henie, Sonja",
+      "Tretiak, Vladislav"
+    ],
+    "question": "Ukrainian pole vaulter who broke the world record more than 30 times.",
+    "category": "Other",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Crossword Puzzle",
+      "Croquet",
+      "Anagram",
+      "Charades"
+    ],
+    "question": "Puzzle in which words, guessed from their definitions, are fitted into a diagram of white and black squares.",
+    "category": "Puzzles & Word Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Gibson, Althea",
+      "Marble, Alice",
+      "Navratilova, Martina",
+      "López, Nancy"
+    ],
+    "question": "American professional tennis player and golfer who was named woman athlete of the year for 1957.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Fittipaldi, Emerson",
+      "Unser, Al",
+      "Andretti, Mario Gabriel",
+      "Campbell, Sir Malcolm"
+    ],
+    "question": "Brazilian professional automobile racer.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Papillon",
+      "Pekingese",
+      "Pomeranian",
+      "Yorkshire Terrier"
+    ],
+    "question": "Breed of toy dog named for its ears, which in some varieties resemble the wings of a butterfly.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Goren, Charles Henry",
+      "Hoppe, Willie",
+      "Lasker, Emanuel",
+      "Fischer, Bobby"
+    ],
+    "question": "American lawyer and writer who is noted as an expert at contract bridge.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Robinson, Jackie",
+      "Douglas, John, 8th Marquess of Queensbury",
+      "Richard, Maurice",
+      "Maradona, Diego"
+    ],
+    "question": "American athlete and business executive.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bannister, Sir Roger",
+      "Blondin, Charles",
+      "Campbell, Sir Malcolm",
+      "Arcaro, Eddie"
+    ],
+    "question": "British physician who was the first athlete in history to run a mile in less than 4 minutes.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Samoyed",
+      "Sealyham Terrier",
+      "Vizsla",
+      "Puli"
+    ],
+    "question": "Breed of working dog with an ancient origin in western Siberia.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "English Springer Spaniel",
+      "Eskimo Dog",
+      "Great Pyrenees",
+      "Cocker Spaniel"
+    ],
+    "question": "Breed of hunting dog known for its ability to 'spring' or flush game.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bueno, Maria Ester Audion",
+      "Capriati, Jennifer",
+      "Evert, Chris",
+      "Graf, Steffi"
+    ],
+    "question": "Brazilian amateur tennis player born in São Paulo, Brazil.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Briard",
+      "Brussels Griffon",
+      "Brittany",
+      "Curly-Coated Retriever"
+    ],
+    "question": "Herding dog bred in France since at least the 12th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Dominoes",
+      "Chess",
+      "Dice and Dice Games",
+      "Checkers"
+    ],
+    "question": "Game played by two or more persons with 28 small, rectangular blocks made of ivory, bone, plastic, or wood.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Karate",
+      "Fencing",
+      "Boxing",
+      "Wrestling"
+    ],
+    "question": "Martial art of unarmed self-defense that centers on directed or focused blows of the hands and feet.",
+    "category": "Other",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Cockfighting",
+      "Fencing",
+      "Steeplechasing",
+      "Bearbaiting"
+    ],
+    "question": "Sport of placing specially trained gamecocks in a pit or on a stage to fight each other.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Puli",
+      "Schipperke",
+      "Pudelpointer",
+      "Otter Hound"
+    ],
+    "question": "Breed of working dog, used as a sheepdog in Hungary for more than 1000 years.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Frisch, Frankie",
+      "Hornsby, Rogers",
+      "Jones, Bobby",
+      "Mantle, Mickey Charles"
+    ],
+    "question": "American baseball player known as the Fordham Flash.",
+    "category": "Team Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Bingo",
+      "Horse Racing",
+      "Skydiving",
+      "Poker"
+    ],
+    "question": "This game of chance is a popular fund raiser for churches and charitable groups:",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Fox Hunting",
+      "Fox-Trot",
+      "Bullbaiting",
+      "Bearbaiting"
+    ],
+    "question": "Pursuit of a small wild animal for the sake of sport  by persons on horseback following hounds.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Rummy",
+      "Solitaire",
+      "Roulette",
+      "Mah Jongg"
+    ],
+    "question": "Card game played by two to six participants with a standard deck of 52 cards.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Sullivan, John L",
+      "Ueberroth, Peter Victor",
+      "Thorpe, Jim",
+      "Unitas, Johnny"
+    ],
+    "question": "Bare-knuckles American boxer who was born in Boston.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Fan Tan",
+      "Hearts",
+      "Mah Jongg",
+      "Pinochle"
+    ],
+    "question": "Chinese gambling game, as well as a Western card game.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Euchre",
+      "Gambling",
+      "Poker",
+      "Roulette"
+    ],
+    "question": "Card game generally played by four persons with a pack of 32 cards, consisting of sevens through the aces.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Abyssinian",
+      "Basenji",
+      "Kelpie",
+      "Persian"
+    ],
+    "question": "Breed of shorthaired cat, one of the oldest breeds of domesticated cats.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Hearts",
+      "Bridge",
+      "Euchre",
+      "Rummy"
+    ],
+    "question": "Game of cards in which players attempt to lose as many tricks as possible in order to avoid having cards in the heart suit.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Horse Racing",
+      "Harness Racing",
+      "Rodeo",
+      "Pentathlon"
+    ],
+    "question": "Contest of speed between two or more horses, usually Thoroughbreds, that are driven or ridden over a special course.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Gordon Setter",
+      "Himalayan",
+      "Harrier",
+      "Collie"
+    ],
+    "question": "Breed of field dog used chiefly in hunting birds, particularly woodcock.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Norfolk Terrier",
+      "Otter Hound",
+      "Papillon",
+      "Scottish Terrier"
+    ],
+    "question": "Breed of dog, variety of Norwich terrier, that differs only in having drop ears instead of erect ears.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Keno",
+      "Hearts",
+      "Rummy",
+      "Euchre"
+    ],
+    "question": "Game of chance, closely related to bingo, that is played with numbered cards and counters.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Darts",
+      "Archery",
+      "Fencing",
+      "Billiards"
+    ],
+    "question": "Game of accuracy in which players throw small, weighted missiles at a round board hanging on a wall.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Lakeland Terrier",
+      "Maltese",
+      "Mexican Hairless",
+      "Akita"
+    ],
+    "question": "English breed of dog, established in the 19th century for hunting purposes.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Connors, Jimmy",
+      "Agassi, André",
+      "Lendl, Ivan",
+      "Graf, Steffi"
+    ],
+    "question": "American professional tennis player who was one of the top players in the world in the 1970s and 1980s.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Shuffleboard",
+      "Curling",
+      "Lawn Bowls",
+      "Horseshoe Pitching"
+    ],
+    "question": "Game in which two or four players use 6-ft (1.83-m) cues to shove disks  into scoring areas on a marked court.",
+    "category": "Sports & Recreation",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Yamaguchi, Kristi Tsuya",
+      "Blair, Bonnie Kathleen",
+      "Witt, Katarina",
+      "Fleming, Peggy Gale"
+    ],
+    "question": "American figure skater who was winner of the 1992 women's figure skating Olympic gold medal.",
+    "category": "Winter Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Pool",
+      "Snooker",
+      "Croquet",
+      "Cricket"
+    ],
+    "question": "The most popular form of billiards in the United States:",
+    "category": "Billiards & Cue Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Spaniel",
+      "Hound",
+      "Shetland Sheepdog",
+      "Portuguese Water Dog"
+    ],
+    "question": "Type of dog used in hunting and retrieving small game and that is named for a type of toy dog popular as a pet.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Fox Terrier",
+      "Foxhound",
+      "Field Dog",
+      "Dandie Dinmont Terrier"
+    ],
+    "question": "Breed of dog once used for driving a fox out of its hiding place when pursued by hounds, but now chiefly a pet.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Piquet",
+      "Poker",
+      "Baccarat",
+      "Whist"
+    ],
+    "question": "Card game for two players that was widely played in France and England during the 19th century.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Soft-Coated Wheaten Terrier",
+      "Welsh Corgi",
+      "Irish Setter",
+      "English Toy Spaniel"
+    ],
+    "question": "Breed of dog developed as a work animal in Ireland several centuries ago and named for its fur.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Borg, Björn",
+      "Lendl, Ivan",
+      "Agassi, André",
+      "Becker, Boris"
+    ],
+    "question": "Swedish professional tennis player who won 11 grand slam tournaments and held the men's number one ranking.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Casino",
+      "Checkers",
+      "Dominoes",
+      "Poker"
+    ],
+    "question": "Popular family card game that originated in Italy in the 19th century.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Tarot",
+      "Hearts",
+      "Fan Tan",
+      "Keno"
+    ],
+    "question": "The name for a special deck of 78 cards and for the game still played in Central Europe using these cards.",
+    "category": "Card & Casino Games",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Acrostic",
+      "Acromegaly",
+      "Charades",
+      "Crossword Puzzle"
+    ],
+    "question": "A group of phrases, words, or most often, verses, the first letters of which when taken consecutively form a word, name, phrase, or other predetermined entity.",
+    "category": "Other",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Weimaraner",
+      "Schipperke",
+      "Puli",
+      "Pekingese"
+    ],
+    "question": "Breed of hunting dog which originated in Germany at the beginning of the 19th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Airedale Terrier",
+      "Bichon Frise",
+      "Abyssinian",
+      "Bedlington Terrier"
+    ],
+    "question": "Breed of dog that originated in Yorkshire, England.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Pudelpointer",
+      "Dachshund",
+      "Doberman Pinscher",
+      "Field Spaniel"
+    ],
+    "question": "Breed of dog developed in Germany in the 19th century for use in hunting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 22.45
+  },
+  {
+    "answers": [
+      "Backgammon",
+      "Checkers",
+      "Chess",
+      "Dominoes"
+    ],
+    "question": "Two-person game where dice are rolled to move counters on a specially marked board..",
+    "category": "Board & Table Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Magic",
+      "Numismatics",
+      "Gymnastics",
+      "Athletics"
+    ],
+    "question": "Art of entertaining with tricks that are in apparent violation of natural law.",
+    "category": "Entertainment & Magic",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bobsledding",
+      "Track and Field",
+      "Skiing",
+      "Shuffleboard"
+    ],
+    "question": "Competitive winter team sport which first became popular late in the 19th century in Saint Moritz, Switzerland.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Sailing",
+      "Rowing",
+      "Fencing",
+      "Waterskiing"
+    ],
+    "question": "Propulsion of a boat or ship by means of the driving force of the wind through the use of sails.",
+    "category": "Water Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Tobogganing",
+      "Curling",
+      "Luging",
+      "Snorkeling"
+    ],
+    "question": "Winter sport of coasting down snow-covered slopes on a flat-bottomed sled.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Swimming",
+      "Diving",
+      "Surfing",
+      "Waterskiing"
+    ],
+    "question": "Sport or recreation that involves propelling oneself through water by means of the hands and feet.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Shar-Pei",
+      "Dachshund",
+      "Ibizan Hound",
+      "Kelpie"
+    ],
+    "question": "Breed of dog, developed in China in ancient times as a guard dog and fighter.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Lhasa Apso",
+      "Maltese",
+      "Komondor",
+      "Himalayan"
+    ],
+    "question": "Breed of nonsporting dog that is native to Tibet, where it originated more than 800 years ago.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bagatelle",
+      "Bowling",
+      "Curling",
+      "Keno"
+    ],
+    "question": "Game with many variations that is somewhat similar to billiards.",
+    "category": "Billiards & Cue Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Norwegian Elkhound",
+      "Norwich Terrier",
+      "Newfoundland",
+      "Curly-Coated Retriever"
+    ],
+    "question": "Breed of sporting or hunting dog that originated in Norway more than 6000 years ago.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Dog Shows and Trials",
+      "Dog Racing",
+      "Iditarod Trail Sled Dog Race",
+      "Dog Family"
+    ],
+    "question": "Events in which purebred dogs compete for prizes and titles on the basis of their show qualities or training.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Ice Skating",
+      "Roller Derby",
+      "Roller Skating",
+      "Hockey"
+    ],
+    "question": "Speed races of this sport can be traced to the 17th-century Netherlands.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Otter Hound",
+      "Afghan Hound",
+      "Pharaoh Hound",
+      "Bloodhound"
+    ],
+    "question": "Breed of web-footed hound known in England since the 12th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Maltese",
+      "Newfoundland",
+      "Pharaoh Hound",
+      "Rex"
+    ],
+    "question": "Breed of extremely small toy spaniel that reputedly originated on an island more than 2800 years ago.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Cobb, Ty",
+      "Gehrig, Lou",
+      "Johnson, Jack",
+      "Ruth, Babe"
+    ],
+    "question": "American professional baseball player nicknamed the Georgia Peach.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Chadwick, Florence",
+      "Joyner-Kersee, Jackie",
+      "Mack, Connie",
+      "Mathewson, Christy"
+    ],
+    "question": "American swimmer who was the first woman to swim the English Channel in both directions.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Akita",
+      "Foxhound",
+      "Doberman Pinscher",
+      "Borzoi"
+    ],
+    "question": "A breed of Japanese working dog employed both as a family guard dog and for hunting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Boitano, Brian",
+      "Louganis, Greg",
+      "Thorpe, Jim",
+      "Ryun, Jim"
+    ],
+    "question": "American figure skater who was winner of the 1988 Olympic gold medal in men's figure skating.",
+    "category": "Winter Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Field Dog",
+      "Hound",
+      "Bloodhound",
+      "Mexican Hairless"
+    ],
+    "question": "Term applied to several breeds of sporting dog used as aids in hunting game birds such as quail and grouse.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Handball",
+      "Squash",
+      "Badminton",
+      "Tennis"
+    ],
+    "question": "Competitive game in which a ball is hit with the hand against a wall alternately by opposing players.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Soaring and Gliding",
+      "Skydiving",
+      "Steeplechasing",
+      "Sailing"
+    ],
+    "question": "Sport of flying a motorless aircraft known as a glider or sailplane.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Domestic Dog",
+      "Domestic Cat",
+      "Horse",
+      "Sheep"
+    ],
+    "question": "Carnivorous mammal that has been domesticated since humans were cavedwellers.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Belgian Malinois",
+      "Puli",
+      "Brittany",
+      "Brussels Griffon"
+    ],
+    "question": "A working dog that is one of four breeds of sheepherding dogs that originated in Belgium.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bullbaiting",
+      "Cricket",
+      "Falconry",
+      "Bullfighting"
+    ],
+    "question": "Barbarous sport, once popular in England, in which bulldogs played a grisly role.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Falconry",
+      "Fox Hunting",
+      "Hurling",
+      "Skeet"
+    ],
+    "question": "The training of raptors to capture wild game or fowl for the hunter, and also the sport of hunting with these trained birds of prey.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Croquet",
+      "Polo",
+      "Marbles",
+      "Lawn Bowls"
+    ],
+    "question": "Lawn game in which the players drive wooden balls through a series of hooks or hoops using long-handled wooden mallets.",
+    "category": "Lawn & Outdoor Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Waterskiing",
+      "Skiing",
+      "Fencing",
+      "Water Polo"
+    ],
+    "question": "Recreational and competitive sport invented in 1922 in which persons balance upright on water while traveling at high speeds.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Blair, Bonnie Kathleen",
+      "Yamaguchi, Kristi Tsuya",
+      "Witt, Katarina",
+      "Henie, Sonja"
+    ],
+    "question": "American ice skater who is the most successful women's speed skater in the history of the United States.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Ederle, Gertrude Caroline",
+      "Connolly, Maureen",
+      "Chadwick, Florence",
+      "Griffith Joyner, Florence"
+    ],
+    "question": "American swimmer who was the first woman to swim across the English Channel.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Maris, Roger Eugene",
+      "Mantle, Mickey Charles",
+      "Cobb, Ty",
+      "Williams, Ted"
+    ],
+    "question": "American baseball player who first broke Babe Ruth's record for home runs in a season.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Afghan Hound",
+      "Basset Hound",
+      "Italian Greyhound",
+      "Saint Bernard"
+    ],
+    "question": "Breed of sporting dog that has long been found in the hill country of northern Afghanistan.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Faro",
+      "Hearts",
+      "Baccarat",
+      "Fan Tan"
+    ],
+    "question": "Card game played with an ordinary 52-card deck, by any number of persons, for the sole purpose of gambling.",
+    "category": "Card & Casino Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Horse Shows",
+      "Decathlons",
+      "Roller Derbys",
+      "Steeplechases"
+    ],
+    "question": "Public exhibitions in which trained riders and horses compete with one another in executing difficult jumps or various maneuvers.",
+    "category": "Other",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Old English Sheepdog",
+      "German Shepherd Dog",
+      "Pug",
+      "Weimaraner"
+    ],
+    "question": "Breed of long-haired working dog used primarily for guarding herds of sheep or cattle.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Hagler, Marvin",
+      "Holmes, Larry",
+      "Tyson, Mike",
+      "Foreman, George"
+    ],
+    "question": "American boxer who was middleweight champion of the world from 1980 to 1987.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Baccarat",
+      "Whist",
+      "Pinochle",
+      "Bridge"
+    ],
+    "question": "A popular form of gambling in which the object is to form a combination of two or three cards totaling 9 or 19:",
+    "category": "Card & Casino Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Court Tennis",
+      "Table Tennis",
+      "Hockey",
+      "Jai Alai"
+    ],
+    "question": "Game played usually indoors by two or four players with a ball and rackets on a rectangular, cement court 110 ft (33.53 m) long and 38 ft (11.58 m) wide",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Dice and Dice Games",
+      "Dominoes",
+      "Checkers",
+      "Cards and Card Games"
+    ],
+    "question": "Small cubes, usually made of bone or plastic, with variously marked faces; and the games of chance in which they are used.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Griffon",
+      "Pointer",
+      "Bullmastiff",
+      "Field Dog"
+    ],
+    "question": "Name of two breeds of dog, one, a toy dog from Brussels, and the other a wirehaired sporting dog.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Schnauzer",
+      "Siamese",
+      "Great Dane",
+      "Yorkshire Terrier"
+    ],
+    "question": "Dog that exists in three separate breeds: giant, standard, and miniature.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Fischer, Bobby",
+      "Botvinnik, Mikhail Moiseyevich",
+      "Euwe, Max",
+      "Hoppe, Willie"
+    ],
+    "question": "American chess player who in 1972 became the first American chess player to win the world championship.",
+    "category": "Board & Table Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Malamute",
+      "Beagle",
+      "Siamese",
+      "Keno"
+    ],
+    "question": "Hardy breed of Arctic working dog that is extensively used in the Arctic for hauling sledges.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Chesapeake Bay Retriever",
+      "Collie",
+      "Doberman Pinscher",
+      "Lhasa Apso"
+    ],
+    "question": "Breed of sporting dog trained to discover and fetch killed or wounded game, principally land and aquatic birds.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Tilden, Bill",
+      "Ueberroth, Peter Victor",
+      "Weissmuller, Johnny",
+      "Becker, Boris"
+    ],
+    "question": "American tennis player who dominated the sport during the 1920s with his powerful style of play.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Hockey",
+      "Softball",
+      "Basketball",
+      "Water Polo"
+    ],
+    "question": "Game in which two opposing teams attempt to drive a ball, puck, or other small object through the goal of the opponent by means of sticks that are curved or hooked at one end.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Arcaro, Eddie",
+      "Bannister, Sir Roger",
+      "Bresnahan, Roger Philip",
+      "Budge, Don"
+    ],
+    "question": "American jockey who is one of the top money-winning jockeys in the history of Thoroughbred racing.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Manchester Terrier",
+      "Black and Tan Coonhound",
+      "Boston Terrier",
+      "Burmese"
+    ],
+    "question": "English breed of dog, formerly called the black-and-tan terrier or rat terrier.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Collie",
+      "Dalmatian",
+      "Great Pyrenees",
+      "Kuvasz"
+    ],
+    "question": "Breed of large working dog developed in Scotland and the north of England to herd sheep and cattle.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Charades",
+      "Cribbage",
+      "Mah Jongg",
+      "Gambling"
+    ],
+    "question": "A popular game of word riddles pantomimed at parties in the United States and Britain.",
+    "category": "Puzzles & Word Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Howe, Gordie",
+      "Gretzky, Wayne",
+      "Landis, Kenesaw Mountain",
+      "LeMond, Greg"
+    ],
+    "question": "Canadian ice hockey player from 1946 to 1980, one of the most prolific scorers in history.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Collins, Edward Trowbridge",
+      "Corbett, James J",
+      "Hagen, Walter",
+      "Montana, Joe"
+    ],
+    "question": "American baseball player who retired with a lifetime batting average of .333 and a total of 744 stolen bases.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Draughts",
+      "Cribbage",
+      "Chess",
+      "Solitaire"
+    ],
+    "question": "In Great Britain, the board game checkers is known as:",
+    "category": "Board & Table Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "McEnroe, John",
+      "Lendl, Ivan",
+      "Becker, Boris",
+      "Agassi, André"
+    ],
+    "question": "American tennis player, known for his temper, who dominated the men's professional tour in the early 1980s.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Pit Bull",
+      "Staffordshire Bull Terrier",
+      "French Bulldog",
+      "Boston Terrier"
+    ],
+    "question": "Name applied to any of several crossbreeds of dog that result from the crossing of bulldogs with terriers.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Ali, Muhammad",
+      "Camp, Walter Chauncey",
+      "Dempsey, Jack",
+      "Gooden, Dwight"
+    ],
+    "question": "American boxer who in 1978 became the first boxer to win the world heavyweight championship title three different times.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Alexander, Grover Cleveland",
+      "Blondin, Charles",
+      "Fitzsimmons, Bob",
+      "Clinton, George"
+    ],
+    "question": "American baseball player who is considered one of the finest pitchers in the history of the game.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Canseco, José",
+      "Comiskey, Charles A",
+      "DiMaggio, Joe",
+      "Jackson, Reggie"
+    ],
+    "question": "American baseball player, who in 1988 became the first player to hit 40 or more home runs and steal 40 or more bases in the same season.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Lacrosse",
+      "Polo",
+      "Rugby Football",
+      "Squash"
+    ],
+    "question": "Field game played by two opposing teams with a ball and a special netted stick, or crosse, with which the ball is caught, carried, and thrown.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Wills, Helen Newington",
+      "Witt, Katarina",
+      "Rudolph, Wilma Glodean",
+      "López, Nancy"
+    ],
+    "question": "American tennis champion who is considered one of the greatest woman players in the history of tennis.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Maine Coon Cat",
+      "Puma",
+      "Siamese",
+      "Himalayan"
+    ],
+    "question": "Large breed of cat, North America's only native longhaired breed.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Schipperke",
+      "Bouvier des Flandres",
+      "Rhodesian Ridgeback",
+      "Belgian Malinois"
+    ],
+    "question": "Breed of small dog whose name means 'Little Captain' in Flemish.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bouvier des Flandres",
+      "Brittany",
+      "Scottish Deerhound",
+      "Great Pyrenees"
+    ],
+    "question": "Breed of working dog originally used in Belgium and northern France to drive cattle.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Pharaoh Hound",
+      "Italian Greyhound",
+      "Fox Terrier",
+      "French Bulldog"
+    ],
+    "question": "Dog breed of uncertain origin that is related to the greyhound and the Ibizan Hound.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Kramer, Jack",
+      "Becker, Boris",
+      "McEnroe, John",
+      "Lendl, Ivan"
+    ],
+    "question": "American-born tennis player and promoter who was one of the best United States tennis players of all time.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Hagen, Walter",
+      "Howe, Gordie",
+      "Maris, Roger Eugene",
+      "Evers, John Joseph"
+    ],
+    "question": "American professional golfer born in Rochester, New York.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Cairn Terrier",
+      "Dachshund",
+      "Irish Setter",
+      "French Bulldog"
+    ],
+    "question": "Breed of dog that originated on the Isle of Skye, perhaps as early as the 16th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Harrier",
+      "Greyhound",
+      "Dandie Dinmont Terrier",
+      "Pekingese"
+    ],
+    "question": "Breed of hunting dog closely resembling the English foxhound but having a proportionally larger head.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Decathlon",
+      "Triathlon",
+      "Marathon",
+      "Pentathlon"
+    ],
+    "question": "Track and field event consisting of ten separate contests held on two consecutive days.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Domestic Cat",
+      "Lion",
+      "Tiger",
+      "Leopard"
+    ],
+    "question": "Small, mainly carnivorous animal, Felis catus, that is a member of the family Felidae.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bearded Collie",
+      "Belgian Tervuren",
+      "German Shepherd Dog",
+      "Cairn Terrier"
+    ],
+    "question": "Breed of working dog of ancient origin that resembles the Old English sheepdog.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Border Terrier",
+      "English Springer Spaniel",
+      "Irish Wolfhound",
+      "Scottish Deerhound"
+    ],
+    "question": "Breed of small dog developed from strains found in the area between England and Scotland.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Manx",
+      "Rex",
+      "Abyssinian",
+      "Siamese"
+    ],
+    "question": "Breed of shorthaired cat whose most distinctive features are a rabbitlike gait and the absence of a tail.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Johnson, Ban",
+      "Landis, Kenesaw Mountain",
+      "Rose, Pete",
+      "Anson, Cap"
+    ],
+    "question": "American baseball promoter and creator of the American League.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Italian Greyhound",
+      "Pharaoh Hound",
+      "Rhodesian Ridgeback",
+      "Whippet"
+    ],
+    "question": "Breed of miniature English greyhound that belongs to the toy-dog class and is more slender in all proportions.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "German Shepherd",
+      "Pharaoh Hound",
+      "Chinese Shar-Pei",
+      "Bullmastiff"
+    ],
+    "question": "Breed of working dog that originated in northern Europe several centuries ago.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Poodle",
+      "Saint Bernard",
+      "Skye Terrier",
+      "Malamute"
+    ],
+    "question": "Breed of dog, believed to have originated in Germany as a water retriever.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Irish Terrier",
+      "Irish Wolfhound",
+      "Labrador Retriever",
+      "Miniature Pinscher"
+    ],
+    "question": "Breed of small dog that reputedly originated in Ireland several centuries ago.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Australian Cattle Dog",
+      "Australian Terrier",
+      "Shetland Sheepdog",
+      "Collie"
+    ],
+    "question": "Breed of working dog developed in Australia in the 19th century for herding purposes.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Basenji",
+      "Portuguese Water Dog",
+      "Pharaoh Hound",
+      "Whippet"
+    ],
+    "question": "Breed of the domestic dog belonging to the hound group, also called the African barkless dog.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Karpov, Anatoly Yevgenyevich",
+      "Fischer, Bobby",
+      "Rutskoy, Aleksandr Vladimirovich",
+      "Chernyshevsky, Nikolay Gavrilovich"
+    ],
+    "question": "Russian chess player and world chess champion who was the youngest player ever awarded the title of Soviet Master.",
+    "category": "Board & Table Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Shih Tzu",
+      "Skye Terrier",
+      "Chow Chow",
+      "Akita"
+    ],
+    "question": "Breed of toy dog, probably native to Tibet, which has been bred extensively in China since the 17th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Ceulemans, Raymond",
+      "Alekhine, Alexander",
+      "Botvinnik, Mikhail Moiseyevich",
+      "Culbertson, Ely"
+    ],
+    "question": "One of the greatest all-around players in the history of the game of Belgian billiards..",
+    "category": "Billiards & Cue Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Basketball",
+      "Golf",
+      "Volleyball",
+      "Lacrosse"
+    ],
+    "question": "Fast-paced game played on a rectangular court, generally indoors, by two teams of five players each.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Polo",
+      "Rodeo",
+      "Horse Racing",
+      "Croquet"
+    ],
+    "question": "Game in which two opposing teams of players mounted on horseback attempt to drive a small ball through each other's goal by means of mallets.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Boxer",
+      "Burmese",
+      "English Toy Spaniel",
+      "Shih Tzu"
+    ],
+    "question": "Breed of working dog whose ancestors were originally used for dogfighting and bullbaiting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Football",
+      "Gymnastics",
+      "Baseball",
+      "Hockey"
+    ],
+    "question": "Outdoor game played by two opposing teams, in which points are scored by carrying or kicking the ball to the opponent's goal line.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Hunting",
+      "Fishing",
+      "Steeplechasing",
+      "Fox Hunting"
+    ],
+    "question": "Sport of pursuing and killing wild game animals for food, the thrill of the chase, or for the enjoyment of outdoor life.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Trapshooting and Skeet",
+      "Fencing",
+      "Archery",
+      "Hunting"
+    ],
+    "question": "Outdoor competitive sports in which participants fire at targets catapulted into the air by mechanical devices.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Hoppe, Willie",
+      "Ceulemans, Raymond",
+      "Fischer, Bobby",
+      "Hoyle, Edmond"
+    ],
+    "question": "American billiards player regarded as one of the greatest players of all time.",
+    "category": "Billiards & Cue Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Duffy, Hugh",
+      "Ewing, Patrick",
+      "Hagen, Walter",
+      "Kramer, Jack"
+    ],
+    "question": "American baseball player and manager who set the all-time highest season batting average in the major leagues.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Brown, Three Finger",
+      "Brown-Squard, Charles douard",
+      "Brown, Ford Madox",
+      "Brown, Jacob Jennings"
+    ],
+    "question": "American baseball player born in Nyesville, Indiana.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Oh Sadaharu",
+      "Iba, Henry",
+      "Keeler, Wee Willie",
+      "Hokusai"
+    ],
+    "question": "Japanese professional baseball player known for his world lifetime record of 868 home runs.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Euwe, Max",
+      "Fischer, Bobby",
+      "Ceulemans, Raymond",
+      "Hoyle, Edmond"
+    ],
+    "question": "Dutch chess grandmaster and professor of mathematics who was the world chess champion from 1935 to 1937.",
+    "category": "Board & Table Games",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Golf",
+      "Tennis",
+      "Jai Alai",
+      "Soccer"
+    ],
+    "question": "Outdoor game in which individual players use specially designed clubs to propel a small, hard ball over a field of play known as a course or links.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bowling",
+      "Soccer",
+      "Lawn Bowls",
+      "Croquet"
+    ],
+    "question": "Indoor game in which players roll balls along a runway called an alley, attempting to overturn ten pins in the fewest possible rolls.",
+    "category": "Bowling",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Labrador Retriever",
+      "Maltese",
+      "Old English Sheepdog",
+      "Pointer"
+    ],
+    "question": "Breed of sporting dog trained to discover and fetch killed or wounded game, principally aquatic birds or pheasants.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Gambling",
+      "Horse Racing",
+      "Casino",
+      "Poker"
+    ],
+    "question": "General name for the act of wagering on an uncertain event that is dependent either wholly on chance, or partly on chance and partly on skill.",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Navratilova, Martina",
+      "Graf, Steffi",
+      "Bueno, Maria Ester Audion",
+      "Capriati, Jennifer"
+    ],
+    "question": "Czech-American tennis player who has won 167 singles championships, the women's all-time record.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Davis Cup",
+      "Grand National Steeplechase",
+      "Wimbledon",
+      "America's Cup Race"
+    ],
+    "question": "International team competition for men's tennis players held annually and named for a Harvard student and statesman.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Willard, Jess",
+      "Thorpe, Jim",
+      "Robinson, Sugar Ray",
+      "Queensberry, John Sholto Douglas, 8th Marquess of"
+    ],
+    "question": "American boxer who was born on Potawatomi land in Kansas.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Foreman, George",
+      "Agassi, André",
+      "Anson, Cap",
+      "Bannister, Sir Roger"
+    ],
+    "question": "American professional boxer who was the heavyweight boxing champion from 1973 to 1974.",
+    "category": "Martial Arts & Combat Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Jeffries, Jim",
+      "Fitzsimmons, Bob",
+      "Tyson, Mike",
+      "Maris, Roger Eugene"
+    ],
+    "question": "American boxer who was six-time heavyweight champion of the world.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Stadium",
+      "Parthenon",
+      "Delphi",
+      "Globe Theatre"
+    ],
+    "question": "A large structure designed for spectator events, especially sports contests.",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Steeplechasing",
+      "Track and Field",
+      "Rodeo",
+      "Fox Hunting"
+    ],
+    "question": "Horse racing over a prescribed course that involves jumping over obstacles such as hedges, ditches, and walls.",
+    "category": "Horse Racing & Equestrian Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Kerry Blue Terrier",
+      "Irish Wolfhound",
+      "Irish Setter",
+      "Soft-Coated Wheaten Terrier"
+    ],
+    "question": "Breed of medium-sized dog which originated in Ireland before the beginning of the 19th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Grand National Steeplechase",
+      "Rodeo",
+      "Kentucky Derby",
+      "Hunting"
+    ],
+    "question": "Classic horse racing and jumping event held annually toward the end of March at the Aintree track near Liverpool.",
+    "category": "Billiards & Cue Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Pomeranian",
+      "Russian Wolfhound",
+      "Vizsla",
+      "Poodle"
+    ],
+    "question": "Breed of toy dog believed to have descended from the sledge dogs of Iceland and Lapland.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Seles, Monica",
+      "Connolly, Maureen",
+      "Navratilova, Martina",
+      "Capriati, Jennifer"
+    ],
+    "question": "Serbian-born professional tennis player who is considered one of the world's greatest female players.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Harness Racing",
+      "Cycling",
+      "Flat Racing",
+      "Steeplechasing"
+    ],
+    "question": "Form of horse racing in which each competing horse pulls a lightweight, two-wheeled cart, called a sulky or racing bike.",
+    "category": "Horse Racing & Equestrian Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Maradona, Diego",
+      "Marciano, Rocky",
+      "Rozelle, Pete",
+      "Vardon, Harry"
+    ],
+    "question": "Argentine soccer player who led Argentina to a World Cup title in 1986.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bresnahan, Roger Philip",
+      "Comiskey, Charles A",
+      "Rickey, (Wesley) Branch",
+      "Frisch, Frankie"
+    ],
+    "question": "American baseball player and manager who devised the shin guards worn by baseball catchers.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Landis, Kenesaw Mountain",
+      "Lasorda, Tommy",
+      "Johnson, Jack",
+      "Howe, Gordie"
+    ],
+    "question": "American jurist and baseball official who became baseball's first commissioner in 1920.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Palmer, Arnold",
+      "Trevino, Lee",
+      "Steinbrenner, George Michael, III",
+      "Lemieux, Mario"
+    ],
+    "question": "American golfer who was the first to win the Masters championship four times and who is one of the most successful and popular golfers of all time.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Tarkenton, Fran",
+      "Ueberroth, Peter Victor",
+      "Lendl, Ivan",
+      "Holmes, Larry"
+    ],
+    "question": "American football player, a quarterback, noted for his ability to run with the ball while looking for a receiver.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "American Curl",
+      "American Wirehair",
+      "Curly-Coated Retriever",
+      "Maine Coon Cat"
+    ],
+    "question": "Rare United States breed of cat that is descended from Shulamith.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Tretiak, Vladislav",
+      "Mikita, Stan",
+      "Karamzin, Nikolay Mikhaylovich",
+      "Barlach, Ernst"
+    ],
+    "question": "Russian ice-hockey player and coach who led the Soviet team to three gold medals in the Winter Olympics.",
+    "category": "Team Sports",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Bedlington Terrier",
+      "Airedale Terrier",
+      "Dalmatian",
+      "Italian Greyhound"
+    ],
+    "question": "Breed of dog originally bred for fighting, now used in hunting foxes, badgers, otters, and other small animals.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Cricket",
+      "Baseball",
+      "Basketball",
+      "Ice Hockey"
+    ],
+    "question": "This popular outdoor ball game is generally considered to be the national sport of England:",
+    "category": "Sports & Recreation",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Borzoi",
+      "Bouvier des Flandres",
+      "Komondor",
+      "Kuvasz"
+    ],
+    "question": "Formerly Russian wolfhound, this hunting dog originated in Russia in ancient times.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 27.88
+  },
+  {
+    "answers": [
+      "Iditarod Trail Sled Dog Race",
+      "Kentucky Derby",
+      "All-American Soapbox Derby",
+      "Triathlon"
+    ],
+    "question": "Annual event held in March in which mushers race teams on a grueling Alaskan course from Anchorage to Nome.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Scottish Deerhound",
+      "Scottish Terrier",
+      "Weimaraner",
+      "Greyhound"
+    ],
+    "question": "Breed of hound that originated in Scotland about the 16th century and was once widely used in the hunting of large game.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Rottweiler",
+      "Pharaoh Hound",
+      "Doberman Pinscher",
+      "Foxhound"
+    ],
+    "question": "Breed of working dog that probably descended from a herding dog used by Roman armies to drive cattle and guard their camps.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Pan American Games",
+      "Triathlon",
+      "All-American Soapbox Derby",
+      "Kentucky Derby"
+    ],
+    "question": "Amateur sports competition for athletes from the western hemisphere that is modeled after the Olympic Games.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Blackjack",
+      "Bridge",
+      "Casino",
+      "Bingo"
+    ],
+    "question": "Wagering card game that rivals poker in popularity and that possibly derived from the gambling casino game of baccarat.",
+    "category": "Card & Casino Games",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Weissmuller, Johnny",
+      "Spitz, Mark",
+      "Evans, Janet",
+      "Rockne, Knute Kenneth"
+    ],
+    "question": "American swimmer and motion-picture actor who won five gold medals at the Olympic Games during his swimming career.",
+    "category": "Water Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Terrier",
+      "Setter",
+      "Spitz",
+      "Bulldog"
+    ],
+    "question": "Any of several breeds of small to medium-size pet dogs who originally were trained to dig into burrows and hunt small animals.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Keeshond",
+      "Kelpie",
+      "Komondor",
+      "Italian Greyhound"
+    ],
+    "question": "Breed of nonsporting dog long popular in Holland, where it was a riverboat pet and watchdog.",
+    "category": "Water Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Button, Dick",
+      "Heiden, Eric Arthur",
+      "Gretzky, Wayne",
+      "Boitano, Brian"
+    ],
+    "question": "American figure skater who was a winner of men's figure skating gold medals at the Olympic Games in 1948 and 1952.",
+    "category": "Winter Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Brittany",
+      "Clumber Spaniel",
+      "Curly-Coated Retriever",
+      "Bichon Frise"
+    ],
+    "question": "Sporting dog developed from a variety bred in France at the beginning of the 20th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Ibizan Hound",
+      "Komondor",
+      "Manx",
+      "Rex"
+    ],
+    "question": "Breed of dog whose history, on the evidence of excavated representations, goes back to ancient Egypt.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Nagurski, Bronko",
+      "Unitas, Johnny",
+      "Rockne, Knute Kenneth",
+      "Hornung, Paul Vernon"
+    ],
+    "question": "American professional football player who played for the Chicago Bears of the NFL.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Bernese Mountain Dog",
+      "Borzoi",
+      "Chihuahua",
+      "English Toy Spaniel"
+    ],
+    "question": "Breed of working dog of ancient lineage; it was brought to Switzerland by Roman soldiers.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Bulldog",
+      "Bullmastiff",
+      "Chinese Shar-Pei",
+      "Chow Chow"
+    ],
+    "question": "Breed of dog developed in England in the 13th century for courage and ferocity needed in the sport of bullbaiting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "LeMond, Greg",
+      "Lewis, Carl",
+      "Indurin, Miguel",
+      "Owens, Jesse"
+    ],
+    "question": "American cyclist and three-time winner of the prestigious Tour de France race (1986, 1989, 1990).",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Wrestling",
+      "Judo",
+      "Karate",
+      "Boxing"
+    ],
+    "question": "Sport in which two contestants use holds and techniques in an attempt to force the opponent's shoulders against a mat.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Rose, Pete",
+      "Williams, Ted",
+      "Steinbrenner, George Michael, III",
+      "Jackson, Bo"
+    ],
+    "question": "American baseball player and manager, who set the Major League record for career hits (4256).",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Ballesteros, Severiano",
+      "Bueno, Maria Ester Audion",
+      "Canseco, Jos",
+      "Pel"
+    ],
+    "question": "Spanish professional golfer who in 1980 became the youngest player and the first European to win the Masters championship.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Australian Terrier",
+      "Great Dane",
+      "Hound",
+      "Kuvasz"
+    ],
+    "question": "Breed of dog that dates to the late 1860s and is probably the result of a mixture of several short-legged sporting terrier breeds.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Chess",
+      "Checkers",
+      "Mah Jongg",
+      "Dominoes"
+    ],
+    "question": "Game of skill between two people that is played using specially-designed, varied pieces on a square board with alternating light and dark squares.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Belgian Tervuren",
+      "Bearded Collie",
+      "Borzoi",
+      "Briard"
+    ],
+    "question": "One of four breeds of Belgian sheepherding dogs; it is most closely related to the Groenendael type, from which it differs mainly in color.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Marathon",
+      "Pentathlon",
+      "Decathlon",
+      "Aerobics"
+    ],
+    "question": "Running event that is traditionally the longest race (42 km, 195 m/26 mi, 385 yd) included in track and field competitions.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Kite",
+      "Whist",
+      "Fan Tan",
+      "Balloon"
+    ],
+    "question": "Wind-supported flying device consisting of a wooden or similar framework covered with paper, cloth, or synthetic material.",
+    "category": "Other",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Mathews, Eddie",
+      "Dean, Dizzy",
+      "Grove, Lefty",
+      "Rose, Pete"
+    ],
+    "question": "American professional baseball player whose career record 512 home runs by a third baseman remained unsurpassed for 19 years.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Zaharias, Babe Didrikson",
+      "Chadwick, Florence",
+      "Gibson, Althea",
+      "Joyner-Kersee, Jackie"
+    ],
+    "question": "American athlete who was named the greatest woman athlete of the first half of the 20th century by an Associated Press poll in 1950.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Retriever",
+      "Schnauzer",
+      "Toy Dog",
+      "Medals and Decorations"
+    ],
+    "question": "Any one of several breeds of sporting dogs trained to discover and fetch killed or wounded game, principally aquatic and land birds.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Luge",
+      "Roller Derby",
+      "Wrestling",
+      "Tobogganing"
+    ],
+    "question": "Winter sports event in which competitors slide down a twisting, ice-covered course while lying on their backs with their feet at the front of a runnered vehicle called a luge sled.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Corbett, James J",
+      "Louis, Joe",
+      "Ali, Muhammad",
+      "Foreman, George"
+    ],
+    "question": "American prizefighter who was the first heavyweight champion under the Queensberry rules.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Richard, Maurice",
+      "Gretzky, Wayne",
+      "Lemieux, Mario",
+      "Howe, Gordie"
+    ],
+    "question": "Canadian ice hockey player nicknamed the Rocket because of his hard shots and his colorful, explosive personality.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Jones, Bobby",
+      "Jones, James Earl",
+      "Jones, James",
+      "Jones, Inigo"
+    ],
+    "question": "American amateur golfer who was winner of the grand slam of golf in 1930 and founder of the prestigious Masters golf tournament.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Seaver, Tom",
+      "Young, Cy",
+      "Robinson, Jackie",
+      "Ruth, Babe"
+    ],
+    "question": "American professional baseball player nicknamed 'Tom Terrific' by fans.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Marciano, Rocky",
+      "Foreman, George",
+      "Plank, Eddie",
+      "Unitas, Johnny"
+    ],
+    "question": "American boxer, who retired as the only undefeated heavyweight champion in boxing history.",
+    "category": "Martial Arts & Combat Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Young, Cy",
+      "Cobb, Ty",
+      "Ryan, Nolan",
+      "Paige, Satchel"
+    ],
+    "question": "American baseball player, the memory of whom inspired an annual award for best major-league pitcher.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Johnson, Walter",
+      "Mack, Connie",
+      "Mantle, Mickey",
+      "DiMaggio, Joe"
+    ],
+    "question": "American professional baseball player, one of the greatest major league pitchers ever.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Tunney, Gene",
+      "Arcaro, Eddie",
+      "Brown, Jim",
+      "Canseco, Jos"
+    ],
+    "question": "American boxer, champion in both the light heavyweight and heavyweight categories.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Sisler, George Harold",
+      "Tilden, Bill",
+      "Weissmuller, Johnny",
+      "Jones, Bobby"
+    ],
+    "question": "American professional baseball player famous for his batting and for the phenomenal speed of his fielding.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Portuguese Water Dog",
+      "Rhodesian Ridgeback",
+      "Schnauzer",
+      "Soft-Coated Wheaten Terrier"
+    ],
+    "question": "Working breed of dog that somewhat resembles a poodle but with a more spaniel-like face and more webbing between the toes.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Chihuahua",
+      "Pomeranian",
+      "Shih Tzu",
+      "Pug"
+    ],
+    "question": "Breed of toy dog descended from an ancient breed known to the Toltec people in Mexico in the 9th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Henie, Sonja",
+      "Yamaguchi, Kristi Tsuya",
+      "Fleming, Peggy Gale",
+      "Gibson, Althea"
+    ],
+    "question": "Norwegian figure skater and movie actress who helped increase the popularity of competitive figure skating.",
+    "category": "Winter Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Boston Terrier",
+      "Bullmastiff",
+      "Chihuahua",
+      "Dalmatian"
+    ],
+    "question": "Breed of nonsporting dog that originated by crossing an English bulldog with a white English terrier.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Rhodesian Ridgeback",
+      "Saint Bernard",
+      "Shetland Sheepdog",
+      "West Highland White Terrier"
+    ],
+    "question": "Breed of large hunting dog that is characterized by a ridge of hair growing along the spine in a direction opposite to that of the rest of the coat.",
+    "category": "Water Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "American Staffordshire Terrier",
+      "Basenji",
+      "Black and Tan Coonhound",
+      "Doberman Pinscher"
+    ],
+    "question": "Breed of dog, originally developed in England, from a mixture of bulldog and terrier for the purpose of dogfighting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Himalayan",
+      "Keeshond",
+      "Russian Blue",
+      "Maltese"
+    ],
+    "question": "Breed of longhaired cat with Siamese-type coloring and a Persian-type body and coat.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Patterson, Floyd",
+      "Ali, Muhammad",
+      "Namath, Joe",
+      "Dempsey, Jack"
+    ],
+    "question": "American professional boxer, an Olympic gold medalist, and the first to lose and then regain the heavyweight championship title.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Cochrane, Mickey",
+      "Grove, Lefty",
+      "Speaker, Tris",
+      "Williams, Ted"
+    ],
+    "question": "American baseball player who is considered one of the greatest catchers in baseball.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Hurling",
+      "Rugby Football",
+      "Lacrosse",
+      "Lawn Bowls"
+    ],
+    "question": "Traditional Irish field sport in which a ball, called a slitter, is caught on a hurley, or stick, and carried or hurled into the opponent's goal.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Cocker Spaniel",
+      "Borzoi",
+      "Alaskan Malamute",
+      "Afghan Hound"
+    ],
+    "question": "The smallest of the sporting dogs, weighing between 10 and 13 kg (22 and 28 lb) and standing only about 35 to 39 cm (14 to 15 in).",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Racquetball",
+      "Tennis",
+      "Badminton",
+      "Handball"
+    ],
+    "question": "Fast game played exclusively on an enclosed indoor court with a racquet (also called racket) and ball; it became popular in North America in the early 1970s.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Jackson, Bo",
+      "Jackson, Michael",
+      "Jackson, Alexander Young",
+      "Jackson, Robert Houghwout"
+    ],
+    "question": "American professional athlete noted for playing both professional baseball and football in the same year, from 1987 to 1990.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Burmese",
+      "Maine Coon Cat",
+      "Persian",
+      "Himalayan"
+    ],
+    "question": "Breed of shorthaired cat that was developed by crossing a brown cat from Myanmar with a Siamese.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Bryant, Bear",
+      "Stagg, Amos Alonzo",
+      "Rockne, Knute Kenneth",
+      "Bresnahan, Roger Philip"
+    ],
+    "question": "American college football coach who broke the record for most college football coaching victories (323).",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Rex",
+      "Abyssinian",
+      "Burmese",
+      "Siamese"
+    ],
+    "question": "The common name for any of three distinct breeds of curly-coated cat: the Cornish, the Devon, and the Selkirk.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Kuvasz",
+      "Lhasa Apso",
+      "Manx",
+      "Ibizan Hound"
+    ],
+    "question": "Breed of working dog that originated in Tibet and was intensively bred in 15th-century Hungary.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Pug",
+      "Old English Sheepdog",
+      "Dalmatian",
+      "Shih Tzu"
+    ],
+    "question": "Breed of toy dog believed to have originated in China and then imported to England in the 16th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Bingo",
+      "Blackjack",
+      "Casino",
+      "Craps"
+    ],
+    "question": "Game of chance, widely popular in the United States, played by any number of people with numbered cards and counters.",
+    "category": "Card & Casino Games",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Cycling",
+      "Derby",
+      "Steeplechasing",
+      "Harness Racing"
+    ],
+    "question": "Activity enjoyed either as a competitive sport or for recreation by an estimated 33 million adult Americans.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Mikita, Stan",
+      "Tretiak, Vladislav",
+      "Eisner, Michael",
+      "Louganis, Greg"
+    ],
+    "question": "Canadian professional ice hockey player who is one of the all-time scoring leaders of the National Hockey League.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Russell, Bill",
+      "Chamberlain, Wilt",
+      "Aaron, Hank",
+      "Moses, Edwin Corley"
+    ],
+    "question": "American basketball player, coach, and television sports announcer who is often considered the finest defensive player of all time.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Chamberlain, Wilt",
+      "Ewing, Patrick",
+      "Mikan, George Lawrence",
+      "Rice, Grantland"
+    ],
+    "question": "American basketball player who is the second all-time leading scorer in the NBA after Kareem Abdul-Jabbar.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Backgammon",
+      "Chess",
+      "Chinese Checkers",
+      "Cribbage"
+    ],
+    "question": "The oldest board game in recorded history, believed to have originated in Mesopotamia:",
+    "category": "Board & Table Games",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Nicklaus, Jack William",
+      "Robinson, Jackie",
+      "Tilden, Bill",
+      "Rockne, Knute Kenneth"
+    ],
+    "question": "American professional golfer known as the Golden Bear who holds a record-setting 20 championship titles.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Spahn, Warren Edward",
+      "Sullivan, John L",
+      "Palmer, Arnold",
+      "Maradona, Diego"
+    ],
+    "question": "American baseball player who retired with the most career wins for a left-handed pitcher in Major League history.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Lasorda, Tommy",
+      "Koufax, Sandy",
+      "Mack, Connie",
+      "Young, Cy"
+    ],
+    "question": "American baseball manager who led the Los Angeles Dodgers to World Series titles in 1981 and 1988.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Setter",
+      "Spaniel",
+      "Pointer",
+      "Hound"
+    ],
+    "question": "Variety of hunting dog formerly trained to crouch or set with its nose pointing toward concealed game; now trained to stand rigid like the hunting dog known as the pointer.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Lewis, Carl",
+      "Maris, Roger Eugene",
+      "Naismith, James",
+      "Johnson, Ben"
+    ],
+    "question": "American track-and-field athlete who won a total of eight gold medals at the Olympic Games in 1984, 1988, and 1992.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Siamese",
+      "Maine Coon Cat",
+      "Persian",
+      "Himalayan"
+    ],
+    "question": "Breed of shorthaired cat that originated in what is now Thailand more than 200 years before it was first shown in England, in 1871.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Gaelic Football",
+      "Highland Games",
+      "Rugby Football",
+      "Jai Alai"
+    ],
+    "question": "Type of football played principally in Ireland, where it originated and became popular in the 16th century.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Pointer",
+      "Retriever",
+      "Spaniel",
+      "Hound"
+    ],
+    "question": "Breed of large sporting dog that hunts by scent; when locating game, it stands rigid with its nose pointing in the direction of the spot.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Billiards",
+      "Table Tennis",
+      "Ping-Pong",
+      "Darts"
+    ],
+    "question": "Family of games played on rectangular tables twice as long as they are wide, with balls propelled by tapered, leather-tipped rods called cues.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Knight, Bobby",
+      "Russell, Bill",
+      "Smith, Dean Edwards",
+      "West, Jerry Alan"
+    ],
+    "question": "American basketball coach and player who coached Indiana University's men's team to NCAA championships in 1976, 1981, and 1987.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Korbut, Olga",
+      "Navratilova, Martina",
+      "Comaneci, Nadia",
+      "Zaharias, Babe Didrikson"
+    ],
+    "question": "Soviet gymnast who was winner of three gold medals at the 1972 Summer Olympics in Munich, West Germany.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Badminton",
+      "Basketball",
+      "Cricket",
+      "Table Tennis"
+    ],
+    "question": "Game that somewhat resembles tennis and involves use of a net, lightweight rackets, and a shuttlecock.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Spitz, Mark",
+      "Heiden, Eric Arthur",
+      "Owens, Jesse",
+      "Louganis, Greg"
+    ],
+    "question": "American swimmer who was winner of seven gold medals at the 1972 Olympic Games in Munich, West Germany.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Basset Hound",
+      "Belgian Malinois",
+      "Cocker Spaniel",
+      "English Setter"
+    ],
+    "question": "Sporting dog originally bred in France from the French bloodhound and the Saint Hubert hound.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Jai Alai",
+      "Gaelic Football",
+      "Handball",
+      "Court Tennis"
+    ],
+    "question": "Ball game of Basque origin played by opposing individuals or teams who alternately bounce a small, hard ball against one, two, or three walls and catch it upon its return.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Orr, Bobby",
+      "Howe, Gordie",
+      "Gretzky, Wayne",
+      "Richard, Maurice"
+    ],
+    "question": "Canadian ice hockey player who transformed the role of the hockey defensive line, showing that it could also be an offensive force.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "De Palma, Ralph",
+      "Dean, Dizzy",
+      "Feller, Bob",
+      "Grange, Red"
+    ],
+    "question": "American automobile racer, born in Italy, who by the time of his retirement from racing in 1934 had won 2557 of his 2889 races.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Bonds, Barry Lamar",
+      "Jackson, Bo",
+      "Mays, Willie",
+      "Hershiser, Orel"
+    ],
+    "question": "American professional baseball player, who was named most valuable player of the National League in 1990, 1992, and 1993.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Naismith, James",
+      "Richard, Maurice",
+      "Rickey, (Wesley) Branch",
+      "Mikan, George Lawrence"
+    ],
+    "question": "Canadian-American teacher of physical education who is recognized as the inventor of the sport of basketball.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Abdul-Jabbar, Kareem",
+      "Jackson, Bo",
+      "O'Neal, Shaquille",
+      "Canseco, Jos"
+    ],
+    "question": "American professional basketball player who is a  six-time NBA champion and six-time winner of the most valuable player award.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Grove, Lefty",
+      "Dean, Dizzy",
+      "Collins, Edward Trowbridge",
+      "De Palma, Ralph"
+    ],
+    "question": "American professional baseball player who was one of the best southpaw pitchers in baseball.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Warner, Pop",
+      "Thorpe, Jim",
+      "Rockne, Knute Kenneth",
+      "Clemens, (William) Roger"
+    ],
+    "question": "American football coach credited with originating the single and double wingback formations.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Becker, Boris",
+      "Ashe, Arthur Robert, Jr",
+      "Lendl, Ivan",
+      "Bueno, Maria Ester Audion"
+    ],
+    "question": "German tennis player born in Leiman, West Germany (now part of the united Federal Republic of Germany).",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Aaron, Hank",
+      "Lewis, Carl",
+      "DiMaggio, Joe",
+      "Tyson, Mike"
+    ],
+    "question": "American baseball player nicknamed The Hammer, whose 715 home runs broke the record previously held by Babe Ruth.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Hogan, Ben",
+      "Hornsby, Rogers",
+      "Jones, Bobby",
+      "Landis, Kenesaw Mountain"
+    ],
+    "question": "American professional golfer who won more than 60 tournaments and is considered one of the greatest golfers of all time.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Moses, Edwin Corley",
+      "Lewis, Carl",
+      "Johnson, Ben",
+      "Bowe, Riddick"
+    ],
+    "question": "American track athlete, a hurdler, who specialized in the demanding 400-m hurdles.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Louis, Joe",
+      "Mantle, Mickey Charles",
+      "Ali, Muhammad",
+      "Musial, Stan"
+    ],
+    "question": "American boxer whose fights against Schmelling became emblematic of the struggles of World War II.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Leonard, Sugar Ray",
+      "Louis, Joe",
+      "Marciano, Rocky",
+      "Patterson, Floyd"
+    ],
+    "question": "American professional boxer, winner of boxing titles in various weight categories, who was one of the most successful and popular boxers of the 1980s.",
+    "category": "Martial Arts & Combat Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "America's Cup Race",
+      "Grand National Steeplechase",
+      "Henley Regatta",
+      "Iditarod Race"
+    ],
+    "question": "International yacht race in which individual crews compete for the right to represent their home countries in either a challenge or a defense of the event's trophy.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Ryun, Jim",
+      "Bannister, Sir Roger",
+      "Chadwick, Florence",
+      "Spalding, Albert Goodwill"
+    ],
+    "question": "American track and field athlete who was winner of a silver medal in the 1500-meter run at the 1968 Olympic Games in Mexico City.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Dandie Dinmont Terrier",
+      "West Highland White Terrier",
+      "Kerry Blue Terrier",
+      "Sealyham Terrier"
+    ],
+    "question": "Breed of dog that originated about 1700 in the Cheviot Hills region between Scotland and England.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Fleming, Peggy Gale",
+      "Henie, Sonja",
+      "Yamaguchi, Kristi Tsuya",
+      "Witt, Katarina"
+    ],
+    "question": "American figure skater, winner of the women's figure skating gold medal at the 1968 Winter Olympics in Grenoble, France.",
+    "category": "Winter Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Capablanca, Jos Ral",
+      "Mart, Jos Julian",
+      "Ceulemans, Raymond",
+      "Culbertson, Ely"
+    ],
+    "question": "Cuban chess grandmaster who was born in Havana and educated at Columbia University.",
+    "category": "Board & Table Games",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Thorpe, Jim",
+      "Rockne, Knute Kenneth",
+      "Owens, Jesse",
+      "Sisler, George Harold"
+    ],
+    "question": "Great American athlete whose original, Native American name was Wa-tho-huck.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Louganis, Greg",
+      "Boitano, Brian",
+      "Lewis, Carl",
+      "Agassi, André"
+    ],
+    "question": "American diver who won gold medals in both springboard and platform diving at the Olympic Games in 1984 and 1988.",
+    "category": "Water Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Mastiff",
+      "Sphynx",
+      "Old English Sheepdog",
+      "Kerry Blue Terrier"
+    ],
+    "question": "Breed of giant dog of the working dog variety that supposedly originated in Asia in remote antiquity and was known in Egypt about 3000 B.C.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Skye Terrier",
+      "Welsh Corgi",
+      "West Highland White Terrier",
+      "Scottish Deerhound"
+    ],
+    "question": "Breed of dog, that originated many centuries ago on the Island of Skye off the northwestern coast of Scotland.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Bichon Frise",
+      "Poodle",
+      "Retriever",
+      "Sealyham Terrier"
+    ],
+    "question": "Breed of nonsporting dog that is descended from a water spaniel and that originated in ancient times in the Mediterranean area.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Evert, Chris",
+      "Bueno, Maria Ester Audion",
+      "Navratilova, Martina",
+      "Graf, Steffi"
+    ],
+    "question": "American tennis player and tournament broadcast commentator who was one of the first top players to rely on a two-handed backhand.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Sphynx",
+      "Manx",
+      "Russian Blue",
+      "Siamese"
+    ],
+    "question": "Nearly hairless breed of cat that first appeared in Canada in 1966; it is also known as the Canadian hairless.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Coins and Coin Collecting",
+      "Stamps and Stamp Collecting",
+      "Book Collecting",
+      "Medal Collecting"
+    ],
+    "question": "Sometimes referred to by the single term numismatics (from Greek nomisma, 'coin').",
+    "category": "Hobbies & Collections",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Spalding, Albert",
+      "Ueberroth, Peter",
+      "Ruth, Babe",
+      "Rose, Pete"
+    ],
+    "question": "Professional baseball player and manufacturer of sporting goods, born in Byron, Illinois.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Staffordshire Bull Terrier",
+      "Shetland Sheepdog",
+      "Pit Bull",
+      "Whippet"
+    ],
+    "question": "Breed of dog developed in England after bullbaiting was outlawed in 1835 and when a smaller dog was desired for dogfighting.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Gooden, Dwight",
+      "Ruth, Babe",
+      "Feller, Bob",
+      "Grove, Lefty"
+    ],
+    "question": "American professional baseball player who led the New York Mets to victory in the World Series in 1986.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Esposito, Phil",
+      "Gretzky, Wayne",
+      "Richard, Maurice",
+      "Lemieux, Mario"
+    ],
+    "question": "Canadian professional ice hockey player, coach, and sports executive who was inducted into hockey's Hall of Fame in 1984.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Horsemanship",
+      "Rodeo",
+      "Harness Racing",
+      "Steeplechasing"
+    ],
+    "question": "Art of maintaining precise control over a horse while riding it (sometimes referred to as equitation), or while driving it from the seat of a vehicle.",
+    "category": "Other",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Johnson, Jack",
+      "Foreman, George",
+      "Tyson, Mike",
+      "Louis, Joe"
+    ],
+    "question": "American boxer whose life was the subject of The Great White Hope (1968), a Pulitzer Prize-winning drama.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Namath, Joe",
+      "Speaker, Tris",
+      "Ueberroth, Peter Victor",
+      "Zaharias, Babe Didrikson"
+    ],
+    "question": "American football player who led the New York Jets to the 1969 Super Bowl championship.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Keeler, Wee Willie",
+      "Naismith, James",
+      "Maradona, Diego",
+      "Rice, Grantland"
+    ],
+    "question": "American professional baseball player who coined the baseball axiom, 'Keep your eye on the ball and hit 'em where they ain't.'",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Edberg, Stefan",
+      "Graf, Steffi",
+      "Lendl, Ivan",
+      "Agassi, André"
+    ],
+    "question": "Swedish professional tennis player who was the winner of the singles titles at Wimbledon in 1988 and 1990 and the United States Open in 1991 and 1992.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Table Tennis",
+      "Cricket",
+      "Squash",
+      "Badminton"
+    ],
+    "question": "Game played by two or four contestants, with a small, lightweight celluloid ball and small rackets, often called bats or paddles.",
+    "category": "Sports & Recreation",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Ruth, Babe",
+      "Rockne, Knute Kenneth",
+      "Elway, John",
+      "Jordan, Michael"
+    ],
+    "question": "American professional baseball player who was one of the most phenomenally gifted and popular players in the history of baseball.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Koufax, Sandy",
+      "Lewis, Carl",
+      "Mays, Willie Howard, Jr",
+      "Naismith, James"
+    ],
+    "question": "American baseball player who is a Cy Young Memorial Award winner and Baseball Hall of Fame member.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Shoemaker, Bill",
+      "Spahn, Warren Edward",
+      "Arcaro, Eddie",
+      "Auerbach, Red"
+    ],
+    "question": "American jockey who retired in 1990 with the most career victories in the history of horse racing, and who is regarded as the best rider in Thoroughbred-racing history.",
+    "category": "Horse Racing & Equestrian Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Banks, Ernie",
+      "Aaron, Hank",
+      "Ruth, Babe",
+      "Mays, Willie Howard, Jr"
+    ],
+    "question": "American professional baseball player who established a major league record in 1955 by hitting five grand-slam home runs in a single season.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Plank, Eddie",
+      "Dean, Dizzy",
+      "Young, Cy",
+      "Evers, John Joseph"
+    ],
+    "question": "American professional baseball player, one of the greatest left-handed pitchers in the history of baseball.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Hershiser, Orel",
+      "Kramer, Jack",
+      "Paige, Satchel",
+      "Stengel, Casey"
+    ],
+    "question": "American baseball player, a pitcher, who set a major league record in 1988 by throwing 59 consecutive scoreless innings.",
+    "category": "Team Sports",
+    "difficulty": 32.4
+  },
+  {
+    "answers": [
+      "Pelé",
+      "Maradona, Diego",
+      "Iglesias, Julio",
+      "Abdul-Jabbar, Kareem"
+    ],
+    "question": "Brazilian soccer player, who led Brazil to three World Cup titles and is considered one of the greatest soccer players of all time.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Sealyham Terrier",
+      "Welsh Corgi",
+      "Staffordshire Bull Terrier",
+      "West Highland White Terrier"
+    ],
+    "question": "Breed of terrier developed by the hunter and breeder Captain John Edwardes on his estate in Wales between 1850 and 1891.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Mah Jongg",
+      "Dominoes",
+      "Fan Tan",
+      "Baccarat"
+    ],
+    "question": "A game with ancient Chinese origins that was introduced into the United States in the 1920s and enjoyed enormous popularity in the succeeding decade.",
+    "category": "Sports & Recreation",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Foyt, A. J.",
+      "Andretti, Mario Gabriel",
+      "Unser, Al",
+      "Campbell, Sir Malcolm"
+    ],
+    "question": "Texas-born American professional automobile racer who was the first four-time winner of the Indianapolis 500 (1961, 1964, 1967, 1977).",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Anson, Cap",
+      "Blondin, Charles",
+      "Camp, Walter Chauncey",
+      "Lapchick, Joe"
+    ],
+    "question": "American professional baseball player who was posthumously elected to the Baseball Hall of Fame.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Marble, Alice",
+      "McGinnity, Joe",
+      "Navratilova, Martina",
+      "Lendl, Ivan"
+    ],
+    "question": "American tennis player and four-time winner of the singles title at the United States Nationals tournament (which became the U.S. Open in 1968).",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Stagg, Amos Alonzo",
+      "Warner, Pop",
+      "Rockne, Knute Kenneth",
+      "Montana, Joe"
+    ],
+    "question": "American football player and coach who was the first person elected to the College Football Hall of Fame as both a player and a coach.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Sarazen, Gene",
+      "Spalding, Albert Goodwill",
+      "Speaker, Tris",
+      "Sisler, George Harold"
+    ],
+    "question": "American professional golfer, known as the Squire, who is considered one of the preeminent professional golfers of the 1920s and 1930s.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Snead, Sam",
+      "Stagg, Amos Alonzo",
+      "Rickey, (Wesley) Branch",
+      "Maradona, Diego"
+    ],
+    "question": "American professional golfer who won a record  84 Professional Golfers' Association (PGA) tour events.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "West, Jerry Alan",
+      "Barkley, Charles",
+      "Shula, Don",
+      "Smith, Dean Edwards"
+    ],
+    "question": "American basketball player, coach, and general manager who averaged 27 points per game during his career and is considered one of the best who ever played the guard position.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Bowe, Riddick",
+      "Tyson, Mike",
+      "Marciano, Rocky",
+      "Foreman, George"
+    ],
+    "question": "American professional boxer who became the world heavyweight champion after defeating Evander Holyfield in 1992.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "McCovey, Willie",
+      "Cochrane, Mickey",
+      "Johnson, Ban",
+      "Wagner, Honus"
+    ],
+    "question": "American professional baseball player who in 1968 and 1969 led the National League (NL) in home runs and runs batted in.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Steinbrenner, George Michael, III",
+      "Ueberroth, Peter Victor",
+      "Seaver, Tom",
+      "McEnroe, John"
+    ],
+    "question": "American business and sports executive who became principal owner of the New York Yankees baseball team in 1973.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Bullfighting",
+      "Bearbaiting",
+      "Bullbaiting",
+      "Hunting"
+    ],
+    "question": "Sports spectacle involving conflict between a bull and one or more contestants that fought in an outdoor arena according to certain rules and procedures.",
+    "category": "Sports & Recreation",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Heiden, Eric Arthur",
+      "Button, Dick",
+      "Esposito, Phil",
+      "Boitano, Brian"
+    ],
+    "question": "American ice skater who was the  winner of an unprecedented five gold medals in speed skating at the 1980 Winter Olympics and  who later became a cyclist.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Curly-Coated Retriever",
+      "Keeshond",
+      "Lhasa Apso",
+      "Golden Retriever"
+    ],
+    "question": "Breed of sporting dog dating back to the 19th century and that probably derives from crossing the retrieving setter with the Irish water spaniel.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Welsh Springer Spaniel",
+      "Clumber Spaniel",
+      "Old English Sheepdog",
+      "Eskimo Dog"
+    ],
+    "question": "Breed of spaniel known in Great Britain for several centuries and popular throughout the world because of its endurance and ability to stand extremes of heat and cold.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Golden Retriever",
+      "Cocker Spaniel",
+      "Labrador Retriever",
+      "Scottish Terrier"
+    ],
+    "question": "Breed of dog that originated in Scotland about 1865 from a cross between a yellow wavy-coated retriever and a tweed water spaniel.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Rudolph, Wilma Glodean",
+      "Griffith Joyner, Florence",
+      "Joyner-Kersee, Jackie",
+      "Zaharias, Babe Didrikson"
+    ],
+    "question": "American track-and-field athlete who was the first American woman to win three track-and-field gold medals at a single Olympic Games.",
+    "category": "Sports & Recreation",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "DiMaggio, Joe",
+      "Hogan, Ben",
+      "Cobb, Ty",
+      "Ruth, Babe"
+    ],
+    "question": "American baseball player known as Joltin' Joe, who is considered one of the greatest hitters and center fielders of all time.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Comiskey, Charles A",
+      "Steinbrenner, George Michael",
+      "Ueberroth, Peter Victor",
+      "Doubleday, Abner"
+    ],
+    "question": "American baseball player and executive who helped organize baseball's American League.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Dean, Dizzy",
+      "Deane, Silas",
+      "Rusk, (David) Dean",
+      "Acheson, Dean Gooderham"
+    ],
+    "question": "American professional baseball player, who led the National League in strikeouts four times (1932-1935).",
+    "category": "Bowling",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Rice, Grantland",
+      "Seaver, Tom",
+      "Sullivan, John L",
+      "Richard, Maurice"
+    ],
+    "question": "American sportswriter known as the Voice of Sports during the 1920s and who is considered a pioneer in the development of modern sports journalism.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "All-American Soapbox Derby",
+      "Tobogganing",
+      "Indianapolis 500",
+      "Kentucky Derby"
+    ],
+    "question": "Racing contest of homemade, gravity-propelled or coasting cars for drivers aged 11 to 15 , held annually since 1934 in Akron, Ohio.",
+    "category": "Sports & Recreation",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Griffin, Archie",
+      "Elway, John",
+      "Halas, George",
+      "Hornung, Paul Vernon"
+    ],
+    "question": "American football player who was the first two-time winner of the Heisman Trophy, an award given annually to the best player in college football.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Unser, Al",
+      "Shoemaker, Bill",
+      "Petty, Richard Lee",
+      "Newman, Paul"
+    ],
+    "question": "American professional automobile racer, a four-time winner of the prestigious Indianapolis 500 automobile race.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Triathlon",
+      "Steeplechasing",
+      "Decathlon",
+      "Marathon"
+    ],
+    "question": "Athletic endurance competition involving three sports, usually swimming, cycling, and long-distance running.",
+    "category": "Water Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "German Pointer",
+      "Gordon Setter",
+      "Ibizan Hound",
+      "German Shepherd"
+    ],
+    "question": "Either of two dog breeds, the German shorthaired pointer, or kurzhaar, and the German wirehaired pointer, or drahthaar.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Courier, Jim",
+      "Agassi, André",
+      "Lendl, Ivan",
+      "McEnroe, John"
+    ],
+    "question": "American professional tennis player who was the winner of the French Open in 1991 and 1992 and the Australian Open in 1992 and 1993.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Capriati, Jennifer",
+      "Lendl, Ivan",
+      "Graf, Steffi",
+      "Navratilova, Martina"
+    ],
+    "question": "American professional tennis player who in 1991, at the age of 15, became the youngest woman to reach the semifinal round at Wimbledon.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Tinker, Joe",
+      "McGraw, John Joseph",
+      "Frisch, Frankie",
+      "Wagner, Honus"
+    ],
+    "question": "American professional baseball player famous for a double-play combination with John Evers and Frank Chance.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Hornsby, Rogers",
+      "Howe, Gordie",
+      "Johnson, Walter",
+      "Kramer, Jack"
+    ],
+    "question": "American professional baseball player and manager, considered one of the greatest right-handed batters.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Evers, John Joseph",
+      "Cochrane, Mickey",
+      "Anson, Cap",
+      "Collins, Edward Trowbridge"
+    ],
+    "question": "American professional baseball player famous for a double-play combination with Joseph Tinker and Frank Chance.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "McGinnity, Joe",
+      "Alexander, Grover Cleveland",
+      "Mays, Willie Howard, Jr",
+      "DiMaggio, Joe"
+    ],
+    "question": "American professional baseball player nicknamed the Iron Man because of his endurance--five times in the course of his career he pitched two games in a single day.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Ryan, Nolan",
+      "Ryun, Jim",
+      "Vardon, Harry",
+      "Ruth, Babe"
+    ],
+    "question": "American professional baseball player, a great pitcher, who retired in 1993 with the major league record for most career strikeouts and most career no-hitters.",
+    "category": "Bowling",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Siberian Husky",
+      "Spitz",
+      "Borzoi",
+      "Afghan Hound"
+    ],
+    "question": "Breed of working dog that originated centuries ago in that part of far northeastern Russia inhabited by a people known as the Chukchi.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Culbertson, Ely",
+      "Fischer, Bobby",
+      "Euwe, Max",
+      "Ceulemans, Raymond"
+    ],
+    "question": "American authority on the card game of bridge; he was born of American parents in Poyana de Vervilao, Romania.",
+    "category": "Card & Casino Games",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Scottish Terrier",
+      "Shetland Sheepdog",
+      "Weimaraner",
+      "Welsh Springer Spaniel"
+    ],
+    "question": "Dog, breed that originated in Scotland several centuries ago but was not bred in its present form until the middle of the 19th century in England and Scotland.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Cousy, Bob",
+      "Bird, Larry",
+      "Abdul-Jabbar, Kareem",
+      "Jordan, Michael"
+    ],
+    "question": "American basketball player, coach, sports executive, and broadcaster who was one of the greatest players to play the guard position in the NBA.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Lajoie, Napoleon",
+      "Lemieux, Mario",
+      "Maradona, Diego",
+      "Grove, Lefty"
+    ],
+    "question": "American professional baseball player, one of the best second basemen in the sport, celebrated for his heavy hitting and sure, graceful fielding.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Japanese Chin",
+      "Keeshond",
+      "Shih Tzu",
+      "Spitz"
+    ],
+    "question": "Breed of toy dog that reputedly originated in China many centuries ago and was later introduced in Japan, where it became the pet of royalty.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Yorkshire Terrier",
+      "West Highland White Terrier",
+      "Spitz",
+      "Saint Bernard"
+    ],
+    "question": "Breed of toy dog bred in England from a number of other terriers, principally the Skye and the Manchester terriers.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Rockne, Knute Kenneth",
+      "Namath, Joe",
+      "Brown, Three Finger",
+      "Elway, John"
+    ],
+    "question": "American football player and coach at the University of Notre Dame who revolutionized football strategy.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Gehrig, Lou",
+      "Jackson, Bo",
+      "Johnson, Magic",
+      "Rose, Pete"
+    ],
+    "question": "American professional baseball player known as the Iron Horse because he played in a record-setting 2130 games in succession from 1925 to 1939.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Robinson, Sugar Ray",
+      "Sisler, George Harold",
+      "Tyson, Mike",
+      "Unitas, Johnny"
+    ],
+    "question": "American boxer who became the welterweight and middleweight champion of the world, and who is considered one of the greatest boxers in history.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Belgian Sheepdog",
+      "Boston Terrier",
+      "Cairn Terrier",
+      "Dachshund"
+    ],
+    "question": "Breed of working dog that exists in four varieties--the Groenendael, Laekenois, Malinois, and Tervuren.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "English Toy Spaniel",
+      "Old English Sheepdog",
+      "Chow Chow",
+      "Akita"
+    ],
+    "question": "Breed of toy dog, which reputedly originated in Japan in ancient times and was then introduced to China, Spain and England.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "López, Nancy",
+      "Whitworth, Kathy",
+      "Sheehan, Patty",
+      "Carner, JoAnne"
+    ],
+    "question": "American golfer who is a four-time winner of the Ladies Professional Golf Association player of the year award (1978, 1979, 1985, 1988).",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Great Dane",
+      "Greyhound",
+      "Miniature Pinscher",
+      "Pug"
+    ],
+    "question": "Breed of working dog of unusually large size and statuesque appearance that supposedly originated in Germany about the middle of the 16th century.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Camp, Walter Chauncey",
+      "Jackson, Bo",
+      "Rockne, Knute Kenneth",
+      "Stagg, Amos Alonzo"
+    ],
+    "question": "American football authority who invented the system of downs, created the position of quarterback, and set the number of players at 11.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Gretzky, Wayne",
+      "Tretiak, Vladislav",
+      "Louganis, Greg",
+      "LeMond, Greg"
+    ],
+    "question": "Canadian ice hockey player, nicknamed The Great One, who is the National Hockey League career leader in goals, assists, and points.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Elway, John",
+      "Jackson, Bo",
+      "Johnson, Walter",
+      "Rockne, Knute Kenneth"
+    ],
+    "question": "American football player, a quarterback, noted for his ball-passing, physical agility, and for engineering last-minute comebacks.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Mikan, George Lawrence",
+      "Jordan, Michael",
+      "Auerbach, Red",
+      "Lapchick, Joe"
+    ],
+    "question": "American basketball player who was voted by the Associated Press as the outstanding college basketball player of the first half of the 20th century.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Iba, Henry",
+      "Cousy, Bob",
+      "Lapchick, Joe",
+      "Durocher, Leo Ernest"
+    ],
+    "question": "Coach of the United States basketball team that won gold medals at the 1964 and 1968 Summer Olympics and who was elected to the Basketball Hall of Fame in 1968.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "González, Pancho",
+      "Hagen, Walter",
+      "Jeffries, Jim",
+      "Koufax, Sandy"
+    ],
+    "question": "American tennis player who at the age of 41 played a historic 112-game match at Wimbledon in 1969, eight years after he had announced his retirement from tennis.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Giamatti, A. Bartlett",
+      "Landis, Kenesaw Mountain",
+      "Ueberroth, Peter Victor",
+      "Williams, Ted"
+    ],
+    "question": "American scholar and baseball official, ruler on the lifetime suspension of Pete Rose from professional baseball.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Petty, Richard Lee",
+      "Shoemaker, Bill",
+      "Fittipaldi, Emerson",
+      "Chaplin, Charlie"
+    ],
+    "question": "American automobile racer, winner of 200 National Association of Stock Car Auto Racing (NASCAR) events.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Mears, Rick Ravon",
+      "Petty, Richard Lee",
+      "Unser, Al",
+      "Fittipaldi, Emerson"
+    ],
+    "question": "American professional automobile racer who won the Indianapolis 500 four times and retired in 1992 following a crash during training..",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Dempsey, Jack",
+      "Willard, Jess",
+      "Ali, Muhammad",
+      "Marciano, Rocky"
+    ],
+    "question": "American professional boxer whose nickname, the Manassa Mauler, is derived from his birthplace and his aggressive style as a fighter.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Hobbies",
+      "Athletics",
+      "Children's Games",
+      "Coins and Coin Collecting"
+    ],
+    "question": "Various leisure-time activities that usually involve collecting objects such as stamps or butterflies or creating objects such as wood carvings or embroidery.",
+    "category": "Hobbies & Collections",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Ewing, Patrick",
+      "Chamberlain, Wilt",
+      "Cochrane, Mickey",
+      "Duffy, Hugh"
+    ],
+    "question": "American pro basketball player who became a center for the New York Knicks in 1985 and was a member of the U.S. 1992 Olympic gold-medal basketball team.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Great Pyrenees",
+      "Ibizan Hound",
+      "Dalmatian",
+      "Kuvasz"
+    ],
+    "question": "Breed of working dog whose ancestors probably came from Central Asia or Siberia; fossil remains date its appearance in Europe between 1800 and 1000 B.C..",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Agassi, André",
+      "Becker, Boris",
+      "Jackson, Bo",
+      "Borg, Björn"
+    ],
+    "question": "American tennis player, winner of the men's singles title at Wimbledon (1992), the United States Open (1994), and the Australian Open (1995).",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Killebrew, Harmon",
+      "Aaron, Hank",
+      "Gehrig, Lou",
+      "Payton, Walter Jerry"
+    ],
+    "question": "American professional baseball player whose career total of 573 home runs ranks him second only to Babe Ruth in the American League.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Blondin, Charles",
+      "Campbell, Sir Malcolm",
+      "Cochrane, Mickey",
+      "De Palma, Ralph"
+    ],
+    "question": "Pseudonym of Jean François Gravelet (1824-97), French acrobat and tightrope walker, who was born in Saint-Omer.",
+    "category": "Other",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Campanella, Roy",
+      "Chance, Frank Leroy",
+      "Comiskey, Charles A",
+      "Elway, John"
+    ],
+    "question": "American professional baseball player who starred as a catcher for the National League's Brooklyn Dodgers from 1948 to 1957.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "King, Billie Jean",
+      "Joyner-Kersee, Jackie",
+      "Zaharias, Babe Didrikson",
+      "Capriati, Jennifer"
+    ],
+    "question": "American tennis player whose intense competitiveness and outspoken support for better treatment of women players were instrumental in increasing the popularity of women's tennis.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Highland Games",
+      "Pan American Games",
+      "Steeplechasing",
+      "World Series"
+    ],
+    "question": "Series of organized sports events held annually in Scotland, and in many places in Canada and the United States, since the 19th century.",
+    "category": "Sports & Recreation",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Auerbach, Red",
+      "Budge, Don",
+      "Foreman, George",
+      "Lendl, Ivan"
+    ],
+    "question": "American basketball coach who in 1966 became the coach with the most regular season wins in the history of the National Basketball Association.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Clemente, Roberto Walker",
+      "Canseco, Jos",
+      "Mays, Willie Howard, Jr",
+      "Maradona, Diego"
+    ],
+    "question": "Puerto Rican professional baseball player who was the first Hispanic player elected to the Baseball Hall of Fame (1973) and the second player to be honored on a United States postage stamp.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Lendl, Ivan",
+      "Lemieux, Mario",
+      "Hubbell, Carl Owen",
+      "Graf, Steffi"
+    ],
+    "question": "Czech-born tennis player, three-time winner of both the French Open  and the U.S. Open, who in 1980 led Czechoslovakia to its first Davis Cup victory.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Stengel, Casey",
+      "Young, Cy",
+      "Mikan, George Lawrence",
+      "Steinbrenner, George"
+    ],
+    "question": "American baseball player and manager who is noted as a colorful and outspoken figure and is considered one of the most successful managers in major league baseball.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Vardon, Harry",
+      "Snead, Sam",
+      "Nicklaus, Jack William",
+      "Palmer, Arnold"
+    ],
+    "question": "British golfer for whom a trophy awarded annually by the Professional Golfers' Association of America for low-average scoring is named.",
+    "category": "Ball & Racket Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Rozelle, Pete",
+      "Rose, Pete",
+      "Rosecrans, William Starke",
+      "Steinbrenner, George"
+    ],
+    "question": "American professional football executive who was commissioner of the National Football League (NFL) from 1960 to 1989.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Brown, Jim",
+      "Brown, Three Finger",
+      "Brown, John",
+      "Brown, Robert"
+    ],
+    "question": "American football player and motion picture actor who led the National Football League in rushing yards eight times during his nine-year career.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Bird, Larry",
+      "Johnson, Magic",
+      "Chance, Frank Leroy",
+      "Clemens, (William) Roger"
+    ],
+    "question": "American basketball player who, by the time he retired in 1992, was considered by many experts as the greatest all-around player in basketball history.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Tyson, Mike",
+      "Agassi, André",
+      "Foreman, George",
+      "Robinson, Sugar Ray"
+    ],
+    "question": "American boxer who in 1986 won the World Boxing Council heavyweight title, becoming the youngest heavyweight fighter ever to win a world title.",
+    "category": "Martial Arts & Combat Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Paige, Satchel",
+      "Plank, Eddie",
+      "McGinnity, Joe",
+      "Naismith, James"
+    ],
+    "question": "American baseball player noted for the length of his career and the speed and variety of his pitches, such as the hesitation ball, which involved stopping his pitching motion momentarily during a pitch.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Campbell, Sir Malcolm",
+      "Cochran, Jacqueline",
+      "Bresnahan, Roger Philip",
+      "LeMond, Greg"
+    ],
+    "question": "British corporation director and automobile racer, born in Chislehurst, Kent, England and educated in Uppingham and abroad.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Mays, Willie Howard, Jr",
+      "McEnroe, John",
+      "Jackson, Bo",
+      "Tunney, Gene"
+    ],
+    "question": "American baseball player known as the Say Hey Kid who is considered by many to be the greatest baseball player in history.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Halas, George",
+      "Hornung, Paul Vernon",
+      "Marino, Dan",
+      "Nagurski, Bronko"
+    ],
+    "question": "American football player, coach, and owner of the Chicago Bears who retired from professional football coaching in 1968 with six championships and more wins than any other coach.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Hubbell, Carl Owen",
+      "Rose, Pete",
+      "Cochrane, Mickey",
+      "Ruth, Babe"
+    ],
+    "question": "American baseball player, a left-handed pitcher known for his screwball, who struck out five consecutive batters during the 1934 All-Star game.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Starr, Bart",
+      "Tarkenton, Fran",
+      "Montana, Joe",
+      "Elway, John"
+    ],
+    "question": "American professional football player who was quarterback for the Green Bay Packers through five NFL championships and the team's first two Super Bowl titles.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Graham, Otto Everett",
+      "Bryant, Bear",
+      "Grange, Red",
+      "Griffin, Archie"
+    ],
+    "question": "American football player, a quarterback, whose success with the Cleveland Browns of the AFC after World War II helped merge the Browns into the NFL in 1950.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Hornung, Paul Vernon",
+      "Jackson, Bo",
+      "Grange, Red",
+      "Bryant, Bear"
+    ],
+    "question": "Versatile football player, a Green Bay Packer for his whole career, who was inducted into the Pro Football Hall of Fame in 1986.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Clemens, (William) Roger",
+      "Corbett, James J",
+      "Elway, John",
+      "González, Pancho"
+    ],
+    "question": "American professional baseball player nicknamed the Rocket who was a three-time winner of the American League's Cy Young Award.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Rickey, (Wesley) Branch",
+      "Lasorda, Tommy",
+      "Robinson, Jackie",
+      "Ryan, Nolan"
+    ],
+    "question": "American baseball executive who developed the farm system, whereby major league teams own controlling interests in minor league clubs in order to obtain promising young players.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Shula, Don",
+      "Bryant, Bear",
+      "Warner, Pop",
+      "Grange, Red"
+    ],
+    "question": "American professional football coach and player who in 1993 became the winningest coach in the history of the National Football League.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Foxx, Jimmie",
+      "Gooden, Dwight",
+      "Ryan, Nolan",
+      "Feller, Bob"
+    ],
+    "question": "American professional baseball player with 534 career home runs (ranking ninth best in the major leagues), who is only the third player in American League history to win the Triple Crown.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Bull Terrier",
+      "Cairn Terrier",
+      "Curly-Coated Retriever",
+      "English Toy Spaniel"
+    ],
+    "question": "Breed of dog developed more than 100 years ago by crossing the English bulldog with the now-extinct white English terrier, and the resulting type with the Spanish pointer.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Marino, Dan",
+      "Jackson, Bo",
+      "Simpson, O. J.",
+      "Tarkenton, Fran"
+    ],
+    "question": "American professional football player, a quarterback, who in 1995 set NFL career records in passing completions, passing yardage, touchdown passes, and passing attempts.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Unitas, Johnny",
+      "Steinbrenner, George Michael, III",
+      "Tunney, Gene",
+      "Weissmuller, Johnny"
+    ],
+    "question": "American professional football player who was voted the most valuable player of the National Football League in 1959, 1964, and 1967.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "McGraw, John Joseph",
+      "Mack, Connie",
+      "Ruth, Babe",
+      "Grove, Lefty"
+    ],
+    "question": "American professional baseball player and manager who, in three trips overseas as manager of groups of players, introduced the game of baseball to Europe and eastern Asia.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Alekhine, Alexander",
+      "Ceulemans, Raymond",
+      "Campanella, Roy",
+      "Rockne, Knute Kenneth"
+    ],
+    "question": "Russian chess grand master and world champion who was born in Moscow and educated at the universities of Petrograd (now Saint Petersburg) and Paris.",
+    "category": "Board & Table Games",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Saint Bernard",
+      "Scottish Deerhound",
+      "Yorkshire Terrier",
+      "Mexican Hairless"
+    ],
+    "question": "Breed of working dog that originated in Europe sometime before the Christian era, probably from a large Asian dog brought to Europe by Roman soldiers.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Mack, Connie",
+      "Cornelius, Peter von",
+      "Tacitus, Cornelius",
+      "Cinna, Lucius Cornelius"
+    ],
+    "question": "American professional baseball player, manager, and owner who became manager of the Philadelphia Athletics in 1901 and led the team to five world championships.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Payton, Walter Jerry",
+      "Halas, George",
+      "Griffin, Archie",
+      "Montana, Joe"
+    ],
+    "question": "American professional football player, a versatile running back for the Chicago Bears, who was elected to the Pro Football Hall of Fame in 1993.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Welsh Terrier",
+      "Old English Sheepdog",
+      "Welsh Springer Spaniel",
+      "Scottish Terrier"
+    ],
+    "question": "Breed of terrier that supposedly originated two centuries ago but was not recognized as a separate breed until 1884; until that time the dog was known either by its present name or as the Old English terrier.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Griffith Joyner, (Delorez) Florence",
+      "Graf, Steffi",
+      "Gibson, Althea",
+      "Ederle, Gertrude Caroline"
+    ],
+    "question": "American track athlete born in Los Angeles, California and educated at the University of California at Los Angeles.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Ueberroth, Peter Victor",
+      "Giamatti, A(ngelo) Bartlett",
+      "Hershiser, Orel",
+      "Landis, Kenesaw Mountain"
+    ],
+    "question": "American sports administrator and entrepreneur born in Evanston, Illinois and educated at San José State University.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Perry, Gaylord Jackson",
+      "Robinson, Jackie",
+      "Grove, Lefty",
+      "Cochrane, Mickey"
+    ],
+    "question": "American professional baseball player, the first pitcher to win the Cy Young Award in both the American (1972) and National (1978) leagues.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Andretti, Mario Gabriel",
+      "Unser, Al",
+      "Anson, Cap",
+      "Hagen, Walter"
+    ],
+    "question": "American professional automobile racer, winner of more than 50 Indy Car races, the Indianapolis 500, and the World Grand Prix Formula One championship.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Wagner, Honus",
+      "Mays, Willie Howard, Jr",
+      "McGraw, John Joseph",
+      "Sisler, George Harold"
+    ],
+    "question": "American professional baseball player nicknamed the Flying Dutchman who is considered one of the greatest shortstops in the history of baseball.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Comaneci, Nadia",
+      "Korbut, Olga",
+      "Retton, Mary Lou",
+      "Yamaguchi, Kristi Tsuya"
+    ],
+    "question": "A favorite gymnast at the 1976 Olympic Games in Montreal. She won three gold medals and a bronze medal in individual competition, and a silver medal for the Romanian team's second-place finish.",
+    "category": "Sports & Recreation",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Doberman Pinscher",
+      "French Bulldog",
+      "Lhasa Apso",
+      "Affenpinscher"
+    ],
+    "question": "Breed of working dog that originated in Apolda, Germany, where it was first bred about 1890 from the German shepherd, the Rottweiler, the black and tan terrier, and the German pinscher.",
+    "category": "Bowling",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Williams, Ted",
+      "Warner, Pop",
+      "Sullivan, John L",
+      "Thorpe, Jim"
+    ],
+    "question": "American baseball player and manager known as The Splendid Splinter who is considered one of the greatest hitters and outfielders in major league history.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Holmes, Larry",
+      "Foreman, George",
+      "Tyson, Mike",
+      "Ali, Muhammad"
+    ],
+    "question": "American boxer, heavyweight champion from 1978 to 1985, whose comeback in the early 1990s led to an unsuccessful challenge against title-holder Evander Holyfield in 1992.",
+    "category": "Famous Athletes & Sports Personalities",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Speaker, Tris",
+      "Tunney, Gene",
+      "Rozelle, Pete",
+      "Johnson, Jack"
+    ],
+    "question": "American baseball player who started in the American League in 1907 with the Boston Red Sox and became one of the finest outfielders and hitters in baseball history.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Montana, Joe",
+      "Stagg, Amos Alonzo",
+      "Unitas, Johnny",
+      "Rockne, Knute Kenneth"
+    ],
+    "question": "American professional football player, a quarterback, who led the NFL's San Francisco 49ers to Super Bowl victories in 1982, 1985, 1989, and 1990.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Smith, Dean Edwards",
+      "Knight, Bobby",
+      "Shula, Don",
+      "Orr, Bobby"
+    ],
+    "question": "American basketball coach who achieved his greatest fame as coach of the Tar Heels of the University of North Carolina at Chapel Hill.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Jordan, Michael",
+      "Chamberlain, Wilt",
+      "Johnson, Magic",
+      "Bird, Larry"
+    ],
+    "question": "American basketball player, a leading scorer in the National Basketball Association, who led the Chicago Bulls to four NBA championships.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Lapchick, Joe",
+      "Elway, John",
+      "Hagen, Walter",
+      "Johnson, Ben"
+    ],
+    "question": "American basketball coach and player who starred in the American Basketball League, where he played center for both the Original Celtics of New York City and the Cleveland Rosenblums.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Waddell, Rube",
+      "Ryan, Nolan",
+      "Paige, Satchel",
+      "Lasorda, Tommy"
+    ],
+    "question": "American professional baseball player, one of the most gifted left-hand pitchers in baseball history, especially noted for his speed and strikeout records.",
+    "category": "Bowling",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Chance, Frank Leroy",
+      "McGraw, John Joseph",
+      "Collins, Edward Trowbridge",
+      "Frisch, Frankie"
+    ],
+    "question": "American professional baseball player, famous member of a double-play combination with Joseph Tinker and John Evers, born in Fresno, California.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Russian Blue",
+      "Persian",
+      "Himalayan",
+      "Maine Coon Cat"
+    ],
+    "question": "Breed of shorthaired cat, originally from the vicinity of the city of Arkhangel'sk, once known variously as Spanish Blue, Archangel and Maltese.",
+    "category": "Pet & Animal Breeds",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Maravich, Peter",
+      "Bird, Larry",
+      "Auerbach, Red",
+      "Cousy, Bob"
+    ],
+    "question": "American professional basketball player who achieved his greatest fame as a college basketball player at Louisiana State University in Baton Rouge.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  },
+  {
+    "answers": [
+      "Mathewson, Christy",
+      "Cobb, Ty",
+      "Wagner, Honus",
+      "Tinker, Joe"
+    ],
+    "question": "American professional baseball player, one of the greatest right-handed pitchers in baseball, born in Factoryville, Pennsylvania, and educated at Bucknell University.",
+    "category": "Team Sports",
+    "difficulty": 39.59
+  }
+]

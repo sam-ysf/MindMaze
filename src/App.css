@@ -1,0 +1,11 @@
+.App {
+  align-items: center;
+  background-color: #d9d6c5;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, serif;
+  font-size: 11px;
+  justify-content: center;
+  min-height: 100vh;
+  transition: all 0.2s ease;
+}
